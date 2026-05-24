@@ -17,10 +17,10 @@ export const ResultsPage: React.FC = () => {
   const subjectSlug = state?.subject || '';
 
   const getFeedbackMessage = () => {
-    if (score.percentage >= 90) return "Incredible! You're a natural.";
-    if (score.percentage >= 70) return "Great job! Solid effort.";
-    if (score.percentage >= 50) return "Good practice! Let's review a bit.";
-    return "Every try makes you stronger!";
+    if (score.percentage >= 90) return "Warm sunshine and quiet confidence ✨";
+    if (score.percentage >= 70) return "Gentle progress feels so good 💚";
+    if (score.percentage >= 50) return "You grew a little more today 🌱";
+    return "Every attempt is a step forward — Moko is proud of you 💚";
   };
 
   return (
@@ -49,7 +49,7 @@ export const ResultsPage: React.FC = () => {
         <div className="flex flex-col gap-3">
           <Button onClick={() => navigate(`/quiz/${subjectSlug}`)} className="w-full">
             <RefreshCw className="w-4 h-4 mr-2" />
-            Try Again
+            Gentle Review
           </Button>
           <div className="flex gap-3">
             <Button variant="secondary" onClick={() => navigate('/subjects')} className="flex-1">

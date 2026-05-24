@@ -1,5 +1,6 @@
 import React from 'react';
 import { useSettings } from '../contexts/SettingsContext';
+import { FloatingParticles } from './FloatingParticles';
 import { twMerge } from 'tailwind-merge';
 
 interface DeskCanvasProps {
@@ -15,6 +16,9 @@ export const DeskCanvas: React.FC<DeskCanvasProps> = ({ children, className }) =
     <div className={twMerge(`min-h-screen w-full relative overflow-hidden ${bgClass} transition-colors duration-slow`, className)}>
       {/* Subtle grain texture */}
       <div className="absolute inset-0 pointer-events-none texture-grain"></div>
+
+      {/* Floating dust particles */}
+      <FloatingParticles />
 
       {/* Decorative watercolor wash blobs (using CSS gradients for now) */}
       <div className="absolute top-0 left-0 w-full h-full bg-grad-wash-blue opacity-15 pointer-events-none"></div>

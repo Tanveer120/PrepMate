@@ -28,8 +28,20 @@ export const BookmarksPage: React.FC = () => {
       </div>
 
       {bList.length === 0 ? (
-        <PaperCard className="text-center py-12">
-          <p className="text-ink-muted">No bookmarks yet. Save tricky questions to review them here!</p>
+        <PaperCard className="text-center py-16 px-6 relative overflow-hidden">
+          <div className="absolute inset-0 pointer-events-none texture-paper opacity-20"></div>
+          <div className="relative z-10 flex flex-col items-center gap-4">
+            <div className="w-20 h-20 bg-mascot-body rounded-blob shadow-float border-2 border-mascot-border flex items-center justify-center">
+              <span className="font-display text-mascot-ink text-2xl font-bold">• •</span>
+            </div>
+            <div>
+              <p className="font-display text-h3 text-ink-main mb-1">Your notebook is empty</p>
+              <p className="font-body text-sm text-ink-muted max-w-xs">
+                When you find a question worth revisiting, bookmark it here.
+                Moko will keep it safe for you 💚
+              </p>
+            </div>
+          </div>
         </PaperCard>
       ) : (
         <div className="flex flex-col gap-4">

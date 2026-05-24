@@ -114,9 +114,9 @@ export const QuizPage: React.FC = () => {
     const isCorrect = currentQuestion?.correct.includes(optionId);
 
     if (isCorrect) {
-      setMascotState({ mood: 'cheer', message: 'Great job!' });
+      setMascotState({ mood: 'cheer', message: 'You understood another tiny thing today! ✨' });
     } else {
-      setMascotState({ mood: 'empathetic', message: 'Almost had it!' });
+      setMascotState({ mood: 'empathetic', message: 'Learning takes time — every try makes you stronger 🌱' });
     }
 
     setTimeout(() => {
@@ -134,7 +134,7 @@ export const QuizPage: React.FC = () => {
   };
 
   if (loading) {
-    return <div className="flex-1 flex items-center justify-center font-display text-ink-muted">Waking up notebooks...</div>;
+    return <div className="flex-1 flex items-center justify-center font-display text-ink-muted">Moko is setting up your study space...</div>;
   }
 
   if (!currentQuestion) {
@@ -329,7 +329,7 @@ export const QuizPage: React.FC = () => {
                     </div>
                     <div className="bg-paper-base/60 rounded-2xl p-3">
                       <p className="font-display text-2xl font-bold text-accent-peach">{score.answered - score.correct}</p>
-                      <p className="text-ink-muted text-xs font-medium mt-1">Wrong</p>
+                      <p className="text-ink-muted text-xs font-medium mt-1">Learning moments</p>
                     </div>
                     <div className="bg-paper-base/60 rounded-2xl p-3">
                       <p className="font-display text-2xl font-bold text-primary-500">{score.correct}/{score.answered}</p>

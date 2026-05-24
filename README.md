@@ -4,46 +4,130 @@
   <br/>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" width="80" />
   <br/>
+  <sub><em>a tiny late-night study world, accompanied by Moko 🐾</em></sub>
   <br/>
-  <sub><em>a cozy, kawaii watercolor study companion</em></sub>
+  <sub><em>🐾  ☕  🌱  ✨</em></sub>
 </p>
 
 ---
 
-Welcome to **PrepMate** — a privacy-first, fully static web application designed to be your gentle, non-judgmental study companion. No login, no tracking, no pressure. Just warm encouragement, soft pastels, and a tiny mascot who believes in you. ✨
+```
+             ╭──────────────────────────────────────╮
+             │                                      │
+             │   It's late. Rain taps softly         │
+             │   against the window.                 │
+             │                                      │
+             │   A warm desk lamp glows across        │
+             │   watercolor notebook pages.           │
+             │                                      │
+             │   Moko sits beside you,               │
+             │   quietly believing in you.            │
+             │                                      │
+             │          • •                           │
+             │        ────/‾‾‾‾────                   │
+             │    ☕  "One step at a time"             │
+             │                                      │
+             ╰──────────────────────────────────────╯
+```
+
+Welcome to **PrepMate** — a tiny cozy study world where a gentle companion named **Moko** sits quietly beside you while rain taps softly against the window and warm desk light glows across watercolor notebook pages.
+
+No login. No tracking. No pressure. Just warmth, gentle progress, and a tiny friend who believes in you. ✨
 
 ---
 
 ## 📖 Table of Contents
 
-- [The Vibe ☕](#-the-vibe)
-- [Features 🌟](#-features)
-- [Tech Stack 🛠](#-tech-stack)
-- [Getting Started 🚀](#-getting-started)
-- [Adding Content 📂](#-adding-content)
-- [Project Structure 🗂](#-project-structure)
-- [The Mascot 🐾](#-the-mascot)
-- [Themes & Personalization 🎨](#-themes--personalization)
-- [Design Philosophy 📐](#-design-philosophy)
-- [Deployment 🚢](#-deployment)
-- [Contributing 🤝](#-contributing)
-- [License 📄](#-license)
+- [🐾 Meet Moko](#-meet-moko)
+- [☕ The Vibe](#-the-vibe)
+- [🌟 Features](#-features)
+- [🛠 Tech Stack](#-tech-stack)
+- [🚀 Getting Started](#-getting-started)
+- [📂 Adding Content](#-adding-content)
+- [🗂 Project Structure](#-project-structure)
+- [🎨 Themes & Personalization](#-themes--personalization)
+- [📐 Design Philosophy](#-design-philosophy)
+- [🚢 Deployment](#-deployment)
+- [🌱 Contributing](#-contributing)
+- [📄 License](#-license)
+
+---
+
+## 🐾 Meet Moko
+
+```
+  ╭─────────────────────────────╮
+  │                             │
+  │   ✦ A tiny companion        │
+  │   ✦ Always beside you       │
+  │   ✦ Quietly encouraging     │
+  │   ✦ Made of watercolor      │
+  │     and warmth              │
+  │                             │
+  ╰─────────────────────────────╯
+```
+
+Moko is the emotional heart of PrepMate — a tiny, gentle, watercolor creature who believes in quiet progress.
+
+### Moko's Personality
+
+| Trait | Description |
+|-------|-------------|
+| 🧸 **Gentle** | Never judges, never pushes. Just sits beside you. |
+| 🌙 **Sleepy** | Soft, calm energy — like a late-night study buddy. |
+| 💚 **Warm** | Emotionally supportive. Celebrates tiny wins. |
+| 🌀 **Curious** | Loves learning alongside you. |
+| 🍃 **Calm** | Brings a peaceful presence to every study session. |
+
+### Moko's Expressions
+
+| Mood | Eyes | When? |
+|------|------|-------|
+| 🌱 **Idle** | `• •` | Default state. Gentle breathing, slow blinking. |
+| ✨ **Cheerful** | `^ ^` | Answered correctly! Tiny bounce of joy. |
+| 🤔 **Thinking** | `o o` | Pondering a question together. |
+| 💚 **Encouraging** | `‿ ‿` | Warm smile, soft encouragement. |
+| 💗 **Comforting** | `· ·` | During learning moments — "It's okay, let's grow together." |
+
+### Moko's Style
+
+- Soft rounded blob creature
+- Peach blush cheeks
+- A tiny sage-green scarf
+- Sometimes holds a warm tea mug ☕
+- Communicates through handwritten speech bubbles
+- Idle breathing animation with slow blinking
+
+### What Moko Says
+
+```
+╭──────────────────────────────╮
+│  "You're doing great 💚"      │
+│  "One small step at a time ✨"│
+│  "Moko believes in you ☕"    │
+│  "Learning takes time 🌱"    │
+│  "You understood another     │
+│   tiny thing today ✨"        │
+╰──────────────────────────────╯
+```
 
 ---
 
 ## ☕ The Vibe
 
-PrepMate is more than a quiz app — it's a feeling. Imagine sitting at a sunlit wooden desk, a warm cup of tea by your side, your favorite stationery spread out, and a gentle mascot cheering you on. That's PrepMate.
+PrepMate is more than a quiz app — it's a feeling. Imagine sitting at a sunlit wooden desk, a warm cup of tea by your side, your favorite stationery spread out, and Moko quietly cheering you on. That's PrepMate.
 
 ```text
 ┌──────────────────────────────────────┐
-│  📚  Study Session in Progress       │
+│  📚  Rainy Evening Study Session     │
 │                                      │
-│  ✨ You're doing great!              │
+│  ✨ Moko is right beside you          │
 │                                      │
-│  🐾  (• •)                          │
-│  ────/‾‾‾‾────                       │
-│      💬 "You've got this!"            │
+│  🐾  (• •)  ────/‾‾‾‾────            │
+│      💬 "One tiny step at a time"     │
+│                                      │
+│  ☕  Warm tea. Soft lamp.             │
+│      No rush.                        │
 └──────────────────────────────────────┘
 ```
 
@@ -51,10 +135,11 @@ PrepMate is more than a quiz app — it's a feeling. Imagine sitting at a sunlit
 
 | Principle | Description |
 |-----------|-------------|
-| 🧸 **Gentle Feedback** | No harsh sounds, no red flashes, no countdown timers. Wrong answers get empathy. |
-| 🎨 **Watercolor Aesthetic** | Soft gradients, paper textures, and hand-drawn feels throughout. |
+| 🧸 **Gentle Feedback** | No harsh sounds, no red flashes, no countdown timers. Wrong answers get comfort. |
+| 🎨 **Watercolor Aesthetic** | Soft gradients, paper textures, floating particles, and handcrafted feels. |
 | 🔒 **Privacy First** | Every byte of your data stays in your browser. No servers. No accounts. |
-| 🐾 **Mascot-Led** | A tiny companion guides your journey with warmth and personality. |
+| 🐾 **Moko Companion** | A tiny emotional companion guides your journey with warmth and personality. |
+| 🌱 **Growth Language** | No "failure," "performance," or "grind." Only gentle progress and learning moments. |
 
 ---
 
@@ -65,13 +150,13 @@ PrepMate is more than a quiz app — it's a feeling. Imagine sitting at a sunlit
 | Feature | Details |
 |---------|---------|
 | ✅ Multiple Choice | Single-correct MCQ format |
-| 📝 Instant Feedback | See correct answer highlighted immediately |
-| 💡 Explanations | Each question comes with a detailed explanation card |
-| 📊 Live Progress | Track correct/wrong/skipped counts in real time |
-| ⏭ Skip & Return | Skip questions and come back later — they're saved in a dedicated skipped section |
-| 🔖 Bookmarks | Save tricky questions to review later with one tap |
+| 📝 Gentle Feedback | See correct answer highlighted with warmth, not judgment |
+| 💡 Explanations | Each question comes with a warm, human explanation |
+| 📊 Live Progress | Track correct/learning moments/skipped counts in real time |
+| ⏭ Skip & Return | Skip questions and come back later — they're saved in a dedicated section |
+| 🔖 Bookmarks | Save questions to revisit — Moko keeps them safe for you |
 
-### 🧭 Navigation
+### 🧭 Navigation & Contribution
 
 | Feature | Details |
 |---------|---------|
@@ -80,25 +165,30 @@ PrepMate is more than a quiz app — it's a feeling. Imagine sitting at a sunlit
 | ➡️ Skipped Section | Skipped questions appear in a separate scrollable grid below |
 | 📊 Side Stats | Explanation + progress cards slide in after answering |
 | 📱 Responsive | Works beautifully on desktop, tablet, and mobile |
+| 🗺 Global Navbar | Cozy top navigation with links to Notebooks, Bookmarks, Request Subject, and Settings |
+| 📬 Request a Subject | Dedicated page where users can contribute new subjects via Tally form |
 
 ### 🎨 Visuals
 
 | Feature | Details |
 |---------|---------|
-| 🌙 Dark Mode | Warm charcoal theme that's easy on the eyes |
+| 🌙 Warm Dark Mode | Cozy charcoal theme — no harsh grays or pure whites |
 | 🎭 Theme Intensity | Adjust desk background depth (low/medium/high) |
 | 💨 Reduced Motion | Toggle for accessibility |
 | 🖼 Paper Textures | Subtle grain and paper overlays for a tactile feel |
 | 🌊 Gradient Washes | Soft watercolor blobs in blue and peach |
+| ✨ Floating Particles | Gentle dust motes floating in the atmosphere |
+| 🧣 Moko Scarf | Tiny sage-green scarf detail on your companion |
 
-### 🐾 Mascot Companion
+### 🐾 Moko Companion
 
-| Mood | Expression | When? |
-|------|------------|-------|
-| 😐 **Idle** | `• •` | Default, gentle breathing animation |
-| 🎉 **Cheer** | `^ ^` | Correct answer! |
-| 🤔 **Thinking** | `o o` | Pondering a question |
-| 💗 **Empathetic** | `u u` | Wrong answer — "Almost had it!" |
+| Mood | Eyes | When? | Moko Says |
+|------|------|-------|-----------|
+| 🌱 Idle | `• •` | Default, gentle breathing + slow blink | "Moko is here 🌱" |
+| ✨ Cheer | `^ ^` | Correct answer! | "You understood another tiny thing today! ✨" |
+| 🤔 Thinking | `o o` | Pondering | "Hmm, let's think together..." |
+| 💚 Encouraging | `‿ ‿` | Warm encouragement | "You're doing great 💚" |
+| 💗 Comforting | `· ·` | Learning moment | "Learning takes time 🌱" |
 
 ---
 
@@ -113,6 +203,8 @@ graph LR
     B --> F[Lucide Icons]
     C --> G[CSS Custom Properties]
     G --> H[Light / Dark Themes]
+    D --> I[Moko Animations]
+    I --> J[Breathing, Blinking, Bouncing]
 ```
 
 | Technology | Purpose |
@@ -120,7 +212,7 @@ graph LR
 | ⚛️ **React 18** | UI framework |
 | ⚡ **Vite** | Build tool & dev server |
 | 🎨 **Tailwind CSS v4** | Utility-first styling with custom design tokens |
-| 🏃 **Framer Motion** | Butter-smooth animations & transitions |
+| 🏃 **Framer Motion** | Butter-smooth animations, Moko's breathing & bouncing |
 | 🧭 **React Router** | Hash-based routing (`/#/subjects`, `/#/quiz/:slug`) |
 | 🎯 **Lucide React** | Clean, consistent SVG icons |
 
@@ -147,7 +239,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser. That's it! 🎉
+Open [http://localhost:5173](http://localhost:5173) in your browser. Moko is waiting. 🐾
 
 ### Available Commands
 
@@ -234,12 +326,14 @@ PrepMate/
 │           └── ...
 ├── src/
 │   ├── animations/
-│   │   └── framerVariants.ts      # Page transitions & mascot animations
+│   │   └── framerVariants.ts      # Page transitions & Moko animations
 │   ├── components/
 │   │   ├── Button.tsx             # 4 variants: primary, secondary, sticker, ghost
-│   │   ├── DeskCanvas.tsx         # Background gradient washes & grain texture
-│   │   ├── MascotRoot.tsx         # The mascot face, cheeks, & speech bubble
-│   │   ├── OptionButton.tsx       # Quiz option with correct/incorrect states
+│   │   ├── DeskCanvas.tsx         # Background gradient washes, grain texture, floating particles
+│   │   ├── FloatingParticles.tsx  # Gentle atmospheric dust motes
+│   │   ├── MascotRoot.tsx         # Moko — scarf, 5 expressions, speech bubble, tea mug
+│   │   ├── Navbar.tsx             # Global top navigation (desktop + mobile)
+│   │   ├── OptionButton.tsx       # Quiz option with correct/learning-moment states
 │   │   ├── PaperCard.tsx          # Notebook-style card with ruled lines option
 │   │   ├── ProgressBar.tsx        # Top progress indicator
 │   │   └── QuestionCard.tsx       # Question text + metadata display
@@ -251,9 +345,10 @@ PrepMate/
 │   ├── pages/
 │   │   ├── LandingPage.tsx        # Welcome screen with tagline
 │   │   ├── SubjectListPage.tsx    # Grid of subject notebooks
-│   │   ├── QuizPage.tsx           # Main quiz interface
-│   │   ├── ResultsPage.tsx        # Post-quiz summary
-│   │   ├── BookmarksPage.tsx      # Saved questions review
+│   │   ├── QuizPage.tsx           # Main quiz interface with Moko companion
+│   │   ├── ResultsPage.tsx        # Post-quiz summary with Moko feedback
+│   │   ├── BookmarksPage.tsx      # Saved questions review with Moko empty state
+│   │   ├── RequestSubjectPage.tsx # Contribute a new subject via Tally form
 │   │   └── SettingsPage.tsx       # Appearance & data management
 │   ├── utils/
 │   │   └── quiz.ts               # Types, validation, shuffle
@@ -271,38 +366,34 @@ PrepMate/
 
 ---
 
-## 🐾 The Mascot
+## 🐾 Moko — The Companion
 
-Our tiny companion is the heart of PrepMate.
+```
+  ╭──────────────────────────────────────╮
+  │                                      │
+  │   ✦ Rendered entirely in CSS         │
+  │   ✦ Soft pastel pink body            │
+  │   ✦ Sage-green scarf detail          │
+  │   ✦ Peach blush cheeks               │
+  │   ✦ 5 emotional expressions          │
+  │   ✦ Handwritten speech bubbles       │
+  │   ✦ Idle breathing + slow blinking   │
+  │   ✦ Cheerful bounce on correct       │
+  │   ✦ Comforting presence on mistakes   │
+  │   ✦ Sometimes holds a tea mug ☕      │
+  │                                      │
+  ╰──────────────────────────────────────╯
+```
 
-### Personality
-
-> *"A tiny, gentle blob with big eyes and a warm presence. It's not judgmental — it's just happy you're studying."*
-
-The mascot is rendered entirely in CSS (no images needed) with:
-- A soft pastel pink body (same shade in light and dark mode)
-- Small dot eyes that change expression
-- Peach blush cheeks
-- An idle breathing animation
-- A cheerful bounce on correct answers
-- A speech bubble with encouraging messages
-
-### Expressions
-
-| Mood | Eyes | Animation |
-|------|------|-----------|
-| Idle | `• •` | Gentle scale pulse (4s loop) |
-| Cheer | `^ ^` | Happy bounce (0.6s) |
-| Thinking | `o o` | — |
-| Empathetic | `u u` | Gentle sway |
+Moko is built entirely with CSS and Framer Motion — no images, no SVGs. Just code, warmth, and a lot of care.
 
 ---
 
 ## 🎨 Themes & Personalization
 
-### Dark Mode
+### Warm Dark Mode
 
-Toggle dark mode in Settings. The entire UI shifts to a warm charcoal palette — no harsh grays or pure whites. Carefully tuned for long study sessions.
+Toggle dark mode in Settings. The entire UI shifts to a warm charcoal palette — no harsh grays or pure whites. Carefully tuned for long study sessions and late-night studying.
 
 ### Theme Intensity
 
@@ -315,9 +406,13 @@ Three levels control the desk background depth:
 
 Respects user preferences. Toggle to disable non-essential animations for accessibility.
 
+### Floating Particles
+
+Gentle dust motes float across the screen, adding a quiet, alive atmosphere to every page.
+
 ### Design Tokens
 
-All colors, spacing, and typography are defined as CSS custom properties in `index.css`. The palette includes:
+All colors, spacing, and typography are defined as CSS custom properties in `index.css`:
 
 | Token | Light | Dark | Usage |
 |-------|-------|------|-------|
@@ -325,8 +420,8 @@ All colors, spacing, and typography are defined as CSS custom properties in `ind
 | `--color-paper-base` | `rgb(255, 249, 246)` | `rgb(50, 46, 43)` | Card backgrounds |
 | `--color-ink-main` | `rgb(74, 69, 67)` | `rgb(245, 240, 235)` | Primary text |
 | `--color-primary-500` | `rgb(127, 182, 255)` | `rgb(100, 155, 225)` | Buttons & accents |
-| `--color-accent-peach` | `rgb(255, 158, 153)` | `rgb(220, 120, 110)` | Warm accents |
-| `--color-accent-sage` | `rgb(129, 210, 157)` | `rgb(100, 190, 130)` | Success states |
+| `--color-mascot-body` | `rgb(255, 220, 215)` | `rgb(255, 220, 215)` | Moko's body |
+| `--color-mascot-cheek` | `rgb(255, 158, 153)` | `rgb(255, 158, 153)` | Moko's blush |
 
 ---
 
@@ -335,10 +430,10 @@ All colors, spacing, and typography are defined as CSS custom properties in `ind
 PrepMate follows four guiding design documents, each capturing a different facet of the experience:
 
 ### `moodboard.md`
-Emotional and visual inspiration. Pastel color palettes, stationery aesthetics, and the gentle, encouraging tone.
+Emotional and visual inspiration. Pastel color palettes, stationery aesthetics, and the gentle, encouraging tone. PrepMate should feel like a warm rainy evening at a cozy desk.
 
 ### `art_direction.md`
-Rules for mascot illustrations, facial expressions, movement principles, and visual hierarchy. No harsh gradients, no aggressive animations.
+Rules for Moko's illustrations, facial expressions, movement principles, and visual hierarchy. No harsh gradients, no aggressive animations — only soft, floaty, handcrafted motion.
 
 ### `design_tokens.md`
 The numerical backbone of the UI — exact color values, spacing scales, border radii, shadow depths, and font choices.
@@ -374,29 +469,49 @@ npx serve dist
 
 ---
 
-## 🤝 Contributing
+## 🌱 Contributing
+
+```
+╭─────────────────────────────╮
+│                             │
+│   "Moko would love          │
+│    your help to grow 🌱"     │
+│                             │
+╰─────────────────────────────╯
+```
 
 Contributions are warmly welcomed! Here's how to help:
 
 1. 🍴 Fork the repository
-2. 🌿 Create a feature branch (`git checkout -b feature/amazing-thing`)
+2. 🌿 Create a feature branch (`git checkout -b feature/gentle-thing`)
 3. 💻 Make your changes
 4. ✅ Ensure the build passes (`npm run build`)
-5. 📝 Commit with a clear message
+5. 📝 Commit with a clear, warm message
 6. 🚀 Push and open a Pull Request
 
 ### Guidelines
 
 - Follow the existing code style and component patterns
-- Maintain the cozy, gentle aesthetic
+- Maintain the cozy, gentle aesthetic — Moko would approve 🐾
 - Keep accessibility in mind (reduced motion, contrast)
 - Add design token overrides for new colors in both light and dark modes
+- Use gentle language — no "failure," "incorrect," or "grind"
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+```
+╭──────────────────────────────╮
+│                              │
+│  This project is licensed    │
+│  under the MIT License.      │
+│                              │
+│  See the LICENSE file        │
+│  for details.                │
+│                              │
+╰──────────────────────────────╯
+```
 
 ---
 
@@ -404,7 +519,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
   <br/>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" width="40" />
   <br/>
-  <em>PrepMate: Because studying should feel like a warm cup of tea.</em>
+  <em>PrepMate: A tiny study world where Moko sits beside you, rain taps softly, and learning feels like a warm hug.</em>
   <br/>
-  <sub>Built with ✨, ☕, and lots of empathy.</sub>
+  <sub>Built with ✨, ☕, 🐾, and lots of empathy.</sub>
+  <br/>
+  <sub>🐾  • •  ☕  🌱  ✨</sub>
 </p>
