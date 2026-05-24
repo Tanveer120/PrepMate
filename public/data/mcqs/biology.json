@@ -1,0 +1,77 @@
+[
+  {
+    "id": "bio-0001",
+    "type": "mcq",
+    "question": "What is the powerhouse of the cell?",
+    "options": [
+      { "id": "a", "text": "Nucleus" },
+      { "id": "b", "text": "Ribosome" },
+      { "id": "c", "text": "Mitochondria" },
+      { "id": "d", "text": "Chloroplast" }
+    ],
+    "correct": ["c"],
+    "explanation": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions.",
+    "difficulty": 1,
+    "tags": ["cells", "biology"]
+  },
+  {
+    "id": "bio-0002",
+    "type": "mcq",
+    "question": "Which molecule carries genetic instructions?",
+    "options": [
+      { "id": "a", "text": "RNA" },
+      { "id": "b", "text": "DNA" },
+      { "id": "c", "text": "Protein" },
+      { "id": "d", "text": "Lipid" }
+    ],
+    "correct": ["b"],
+    "explanation": "DNA (Deoxyribonucleic acid) carries the genetic instructions for the development, functioning, growth and reproduction of all known organisms.",
+    "difficulty": 1,
+    "tags": ["genetics", "biology"]
+  },
+  {
+    "id": "bio-0003",
+    "type": "mcq",
+    "question": "What process do plants use to convert sunlight into food?",
+    "options": [
+      { "id": "a", "text": "Respiration" },
+      { "id": "b", "text": "Photosynthesis" },
+      { "id": "c", "text": "Transpiration" },
+      { "id": "d", "text": "Digestion" }
+    ],
+    "correct": ["b"],
+    "explanation": "Photosynthesis is the process used by plants, algae and certain bacteria to harness energy from sunlight and turn it into chemical energy.",
+    "difficulty": 1,
+    "tags": ["plants", "biology"]
+  },
+  {
+    "id": "bio-0004",
+    "type": "mcq",
+    "question": "What is the basic unit of life?",
+    "options": [
+      { "id": "a", "text": "Atom" },
+      { "id": "b", "text": "Cell" },
+      { "id": "c", "text": "Tissue" },
+      { "id": "d", "text": "Organ" }
+    ],
+    "correct": ["b"],
+    "explanation": "The cell is the basic structural, functional, and biological unit of all known organisms.",
+    "difficulty": 1,
+    "tags": ["cells", "biology"]
+  },
+  {
+    "id": "bio-0005",
+    "type": "mcq",
+    "question": "Which of these is NOT a kingdom of life?",
+    "options": [
+      { "id": "a", "text": "Animalia" },
+      { "id": "b", "text": "Plantae" },
+      { "id": "c", "text": "Fungi" },
+      { "id": "d", "text": "Mineralia" }
+    ],
+    "correct": ["d"],
+    "explanation": "Minerals are inorganic solids and not considered living organisms. The typical kingdoms are Animalia, Plantae, Fungi, Protista, Archaea/Archaebacteria, and Bacteria/Eubacteria.",
+    "difficulty": 2,
+    "tags": ["taxonomy", "biology"]
+  }
+]

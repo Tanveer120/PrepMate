@@ -1,0 +1,6202 @@
+[
+  {
+    "id": "dcn-0001",
+    "type": "mcq",
+    "question": "What does OSI stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Open Systems Interconnection"
+      },
+      {
+        "id": "b",
+        "text": "Open Standard Integration"
+      },
+      {
+        "id": "c",
+        "text": "Open System Interlink"
+      },
+      {
+        "id": "d",
+        "text": "Open Systems Interface"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The OSI model divides networking functions into standardized layers."
+  },
+  {
+    "id": "dcn-0002",
+    "type": "mcq",
+    "question": "Which topology connects all devices to a single central hub?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Star"
+      },
+      {
+        "id": "b",
+        "text": "Mesh"
+      },
+      {
+        "id": "c",
+        "text": "Ring"
+      },
+      {
+        "id": "d",
+        "text": "Bus"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Network topology describes the physical or logical arrangement of devices in a network."
+  },
+  {
+    "id": "dcn-0003",
+    "type": "mcq",
+    "question": "What are the number of cable links required for n devices connected in mesh topology?",
+    "options": [
+      {
+        "id": "a",
+        "text": "n-1"
+      },
+      {
+        "id": "b",
+        "text": "n"
+      },
+      {
+        "id": "c",
+        "text": "n (n – 1) / 2"
+      },
+      {
+        "id": "d",
+        "text": "1"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Network topology describes the physical or logical arrangement of devices in a network."
+  },
+  {
+    "id": "dcn-0004",
+    "type": "mcq",
+    "question": "Which topology is characterized by each device being connected to every other device?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Star"
+      },
+      {
+        "id": "b",
+        "text": "Ring"
+      },
+      {
+        "id": "c",
+        "text": "Mesh"
+      },
+      {
+        "id": "d",
+        "text": "Bus"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Network topology describes the physical or logical arrangement of devices in a network."
+  },
+  {
+    "id": "dcn-0005",
+    "type": "mcq",
+    "question": "What is the main function of a router?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Store data"
+      },
+      {
+        "id": "b",
+        "text": "Forward packets"
+      },
+      {
+        "id": "c",
+        "text": "Encrypt data"
+      },
+      {
+        "id": "d",
+        "text": "Manage user sessions"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Routers forward packets between networks using routing information."
+  },
+  {
+    "id": "dcn-0006",
+    "type": "mcq",
+    "question": "Which of these devices operate on network layer of OSI reference model?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Repeater"
+      },
+      {
+        "id": "b",
+        "text": "Gateway"
+      },
+      {
+        "id": "c",
+        "text": "Modem"
+      },
+      {
+        "id": "d",
+        "text": "Router"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0007",
+    "type": "mcq",
+    "question": "In which type of multiplexing is time divided among users?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frequency Division"
+      },
+      {
+        "id": "b",
+        "text": "Wavelength Division"
+      },
+      {
+        "id": "c",
+        "text": "Time Division"
+      },
+      {
+        "id": "d",
+        "text": "Space Division"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0008",
+    "type": "mcq",
+    "question": "What is the maximum length of a twisted pair cable for Ethernet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "100 meters"
+      },
+      {
+        "id": "b",
+        "text": "200 meters"
+      },
+      {
+        "id": "c",
+        "text": "300 meters"
+      },
+      {
+        "id": "d",
+        "text": "400 meters"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"100 meters\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0009",
+    "type": "mcq",
+    "question": "Which layer of the OSI model does error detection and correction occur?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Application Layer"
+      },
+      {
+        "id": "b",
+        "text": "Data Link Layer"
+      },
+      {
+        "id": "c",
+        "text": "Network Layer"
+      },
+      {
+        "id": "d",
+        "text": "Physical Layer"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The OSI model divides networking functions into standardized layers."
+  },
+  {
+    "id": "dcn-0010",
+    "type": "mcq",
+    "question": "Which protocol is not used for error detection ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ARP"
+      },
+      {
+        "id": "b",
+        "text": "Checksum"
+      },
+      {
+        "id": "c",
+        "text": "CRC"
+      },
+      {
+        "id": "d",
+        "text": "Parity bit"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0011",
+    "type": "mcq",
+    "question": "What does TCP stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Transmission Control Protocol"
+      },
+      {
+        "id": "b",
+        "text": "Transfer Control Protocol"
+      },
+      {
+        "id": "c",
+        "text": "Time Control Protocol"
+      },
+      {
+        "id": "d",
+        "text": "Transmit Control Protocol"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "TCP provides reliable, connection-oriented communication with error checking and flow control."
+  },
+  {
+    "id": "dcn-0012",
+    "type": "mcq",
+    "question": "Which of the following is a connection oriented and reliable protocol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TCP"
+      },
+      {
+        "id": "b",
+        "text": "UDP"
+      },
+      {
+        "id": "c",
+        "text": "ICMP"
+      },
+      {
+        "id": "d",
+        "text": "FTP"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0013",
+    "type": "mcq",
+    "question": "Which of the following is a connectionless protocol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TCP"
+      },
+      {
+        "id": "b",
+        "text": "UDP"
+      },
+      {
+        "id": "c",
+        "text": "ICMP"
+      },
+      {
+        "id": "d",
+        "text": "FTP"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0014",
+    "type": "mcq",
+    "question": "What is the purpose of the DHCP protocol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Assign IP address"
+      },
+      {
+        "id": "b",
+        "text": "Encrypt data"
+      },
+      {
+        "id": "c",
+        "text": "Manage user session"
+      },
+      {
+        "id": "d",
+        "text": "Store files"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0015",
+    "type": "mcq",
+    "question": "Which media type is immune to electromagnetic interference?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Twisted pair"
+      },
+      {
+        "id": "b",
+        "text": "Coaxial cable"
+      },
+      {
+        "id": "c",
+        "text": "Fiber optic"
+      },
+      {
+        "id": "d",
+        "text": "Copper cable"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Fiber optic\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0016",
+    "type": "mcq",
+    "question": "What does a firewall do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Encrypts data"
+      },
+      {
+        "id": "b",
+        "text": "Filters traffic"
+      },
+      {
+        "id": "c",
+        "text": "Stores data"
+      },
+      {
+        "id": "d",
+        "text": "Connects networks"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Firewalls protect networks by filtering incoming and outgoing traffic."
+  },
+  {
+    "id": "dcn-0017",
+    "type": "mcq",
+    "question": "What are the number of cable links required for n devices connected in star topology?",
+    "options": [
+      {
+        "id": "a",
+        "text": "n-1"
+      },
+      {
+        "id": "b",
+        "text": "n"
+      },
+      {
+        "id": "c",
+        "text": "n (n – 1) / 2"
+      },
+      {
+        "id": "d",
+        "text": "1"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Network topology describes the physical or logical arrangement of devices in a network."
+  },
+  {
+    "id": "dcn-0018",
+    "type": "mcq",
+    "question": "What protocol is used to resolve IP addresses to MAC addresses?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TCP"
+      },
+      {
+        "id": "b",
+        "text": "ARP"
+      },
+      {
+        "id": "c",
+        "text": "DNS"
+      },
+      {
+        "id": "d",
+        "text": "ICMP"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0019",
+    "type": "mcq",
+    "question": "Which of the following is not a characteristic of IPv6?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased address space"
+      },
+      {
+        "id": "b",
+        "text": "Simplified header"
+      },
+      {
+        "id": "c",
+        "text": "Compatibility with IPv4"
+      },
+      {
+        "id": "d",
+        "text": "128-bit address"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0020",
+    "type": "mcq",
+    "question": "What type of network covers a large geographical area?",
+    "options": [
+      {
+        "id": "a",
+        "text": "LAN"
+      },
+      {
+        "id": "b",
+        "text": "WAN"
+      },
+      {
+        "id": "c",
+        "text": "PAN"
+      },
+      {
+        "id": "d",
+        "text": "MAN"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0021",
+    "type": "mcq",
+    "question": "Which of the following is a function of the transport layer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Routing packets"
+      },
+      {
+        "id": "b",
+        "text": "Data encryption"
+      },
+      {
+        "id": "c",
+        "text": "Ensuring reliable delivery"
+      },
+      {
+        "id": "d",
+        "text": "Network addressing"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Ensuring reliable delivery\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0022",
+    "type": "mcq",
+    "question": "Which error detection method uses a polynomial division?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parity Check"
+      },
+      {
+        "id": "b",
+        "text": "Checksum"
+      },
+      {
+        "id": "c",
+        "text": "CRC"
+      },
+      {
+        "id": "d",
+        "text": "Bit Check"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"CRC\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0023",
+    "type": "mcq",
+    "question": "What is the primary purpose of a VPN?",
+    "options": [
+      {
+        "id": "a",
+        "text": "File sharing"
+      },
+      {
+        "id": "b",
+        "text": "Secure remote access"
+      },
+      {
+        "id": "c",
+        "text": "Video streaming"
+      },
+      {
+        "id": "d",
+        "text": "Data backup"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Secure remote access\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0024",
+    "type": "mcq",
+    "question": "What does CSMA/CD stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Controlled Access with Collision Detection"
+      },
+      {
+        "id": "b",
+        "text": "Carrier Sense Multiple Access with Collision Detection"
+      },
+      {
+        "id": "c",
+        "text": "Common Sense Media Access"
+      },
+      {
+        "id": "d",
+        "text": "Carrier Signal Media Access"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Carrier Sense Multiple Access with Collision Detection\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0025",
+    "type": "mcq",
+    "question": "Which layer of the OSI model is responsible to controls the dialogues?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Network Layer"
+      },
+      {
+        "id": "b",
+        "text": "Transport Layer"
+      },
+      {
+        "id": "c",
+        "text": "Session Layer"
+      },
+      {
+        "id": "d",
+        "text": "Data Link Layer"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The OSI model divides networking functions into standardized layers."
+  },
+  {
+    "id": "dcn-0026",
+    "type": "mcq",
+    "question": "What is the function of the DNS?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manages user sessions"
+      },
+      {
+        "id": "b",
+        "text": "Encrypts data"
+      },
+      {
+        "id": "c",
+        "text": "Filters traffic"
+      },
+      {
+        "id": "d",
+        "text": "Translates IP addresses"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "DNS translates domain names into IP addresses."
+  },
+  {
+    "id": "dcn-0027",
+    "type": "mcq",
+    "question": "What is the transmission time for a packet of size 20 Mb sent by a station using a channel of 250 kbps speed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "300 seconds"
+      },
+      {
+        "id": "b",
+        "text": "20 seconds"
+      },
+      {
+        "id": "c",
+        "text": "80 seconds"
+      },
+      {
+        "id": "d",
+        "text": "40 seconds"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"80 seconds\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0028",
+    "type": "mcq",
+    "question": "What type of network is a collection of devices connected together in one physical location, such as a building, office, or home.?",
+    "options": [
+      {
+        "id": "a",
+        "text": "WAN"
+      },
+      {
+        "id": "b",
+        "text": "LAN"
+      },
+      {
+        "id": "c",
+        "text": "PAN"
+      },
+      {
+        "id": "d",
+        "text": "MAN"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0029",
+    "type": "mcq",
+    "question": "Which protocol is used for email transmission?",
+    "options": [
+      {
+        "id": "a",
+        "text": "FTP"
+      },
+      {
+        "id": "b",
+        "text": "SMTP"
+      },
+      {
+        "id": "c",
+        "text": "HTTP"
+      },
+      {
+        "id": "d",
+        "text": "SNMP"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0030",
+    "type": "mcq",
+    "question": "In a star topology, what happens if the central hub fails?",
+    "options": [
+      {
+        "id": "a",
+        "text": "All devices are unaffected"
+      },
+      {
+        "id": "b",
+        "text": "Only the hub fails"
+      },
+      {
+        "id": "c",
+        "text": "All devices lose connectivity"
+      },
+      {
+        "id": "d",
+        "text": "Only some devices lose connection"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Network topology describes the physical or logical arrangement of devices in a network."
+  },
+  {
+    "id": "dcn-0031",
+    "type": "mcq",
+    "question": "What does the term \"bandwidth\" refer to in networking?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data packet size"
+      },
+      {
+        "id": "b",
+        "text": "Transmission capacity"
+      },
+      {
+        "id": "c",
+        "text": "Latency"
+      },
+      {
+        "id": "d",
+        "text": "Protocol type"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0032",
+    "type": "mcq",
+    "question": "Which of the following protocols is used for secure web communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "FTP"
+      },
+      {
+        "id": "b",
+        "text": "HTTP"
+      },
+      {
+        "id": "c",
+        "text": "HTTPS"
+      },
+      {
+        "id": "d",
+        "text": "SMTP"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0033",
+    "type": "mcq",
+    "question": "What is the function of a switch in a network?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Connects multiple networks"
+      },
+      {
+        "id": "b",
+        "text": "Filters packets"
+      },
+      {
+        "id": "c",
+        "text": "Connects devices within a network"
+      },
+      {
+        "id": "d",
+        "text": "Encrypts data"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0034",
+    "type": "mcq",
+    "question": "Which device operates at the data link layer of the OSI model?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Router"
+      },
+      {
+        "id": "b",
+        "text": "Switch"
+      },
+      {
+        "id": "c",
+        "text": "Hub"
+      },
+      {
+        "id": "d",
+        "text": "Firewall"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The OSI model divides networking functions into standardized layers."
+  },
+  {
+    "id": "dcn-0035",
+    "type": "mcq",
+    "question": "Which of the following methods is used for access control in networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "CSMA/CD"
+      },
+      {
+        "id": "b",
+        "text": "Token Ring"
+      },
+      {
+        "id": "c",
+        "text": "ALOHA"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0036",
+    "type": "mcq",
+    "question": "What is the purpose of network addressing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Identify network paths"
+      },
+      {
+        "id": "b",
+        "text": "Locate devices"
+      },
+      {
+        "id": "c",
+        "text": "Secure communications"
+      },
+      {
+        "id": "d",
+        "text": "Manage traffic"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0037",
+    "type": "mcq",
+    "question": "Which layer of the OSI model handles encryption and decryption?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Application Layer"
+      },
+      {
+        "id": "b",
+        "text": "Presentation Layer"
+      },
+      {
+        "id": "c",
+        "text": "Session Layer"
+      },
+      {
+        "id": "d",
+        "text": "Transport Layer"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The OSI model divides networking functions into standardized layers."
+  },
+  {
+    "id": "dcn-0038",
+    "type": "mcq",
+    "question": "What does the acronym \"IP\" stand for in networking?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Interconnected Protocol"
+      },
+      {
+        "id": "b",
+        "text": "Internal Protocol"
+      },
+      {
+        "id": "c",
+        "text": "Internet Protocol"
+      },
+      {
+        "id": "d",
+        "text": "International Protocol"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0039",
+    "type": "mcq",
+    "question": "Which of the following is a disadvantage of a bus topology?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Difficult to add devices"
+      },
+      {
+        "id": "b",
+        "text": "Single point of failure"
+      },
+      {
+        "id": "c",
+        "text": "High cost"
+      },
+      {
+        "id": "d",
+        "text": "Complexity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Network topology describes the physical or logical arrangement of devices in a network."
+  },
+  {
+    "id": "dcn-0040",
+    "type": "mcq",
+    "question": "Which technology allows multiple devices to share a single communication channel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Multiplexing"
+      },
+      {
+        "id": "b",
+        "text": "Switching"
+      },
+      {
+        "id": "c",
+        "text": "Routing"
+      },
+      {
+        "id": "d",
+        "text": "Addressing"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0041",
+    "type": "mcq",
+    "question": "What is the main purpose of Network address translation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enhance security"
+      },
+      {
+        "id": "b",
+        "text": "Conserve IP addresses"
+      },
+      {
+        "id": "c",
+        "text": "Improve speed"
+      },
+      {
+        "id": "d",
+        "text": "Simplify routing"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0042",
+    "type": "mcq",
+    "question": "Which protocol is used for network management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "SNMP"
+      },
+      {
+        "id": "b",
+        "text": "SMTP"
+      },
+      {
+        "id": "c",
+        "text": "DHCP"
+      },
+      {
+        "id": "d",
+        "text": "FTP"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0043",
+    "type": "mcq",
+    "question": "What does the term \"latency\" refer to in networking?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data packet size"
+      },
+      {
+        "id": "b",
+        "text": "Delay in communication"
+      },
+      {
+        "id": "c",
+        "text": "Number of users"
+      },
+      {
+        "id": "d",
+        "text": "Network speed"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0044",
+    "type": "mcq",
+    "question": "What is a key benefit of using fiber optic cables?",
+    "options": [
+      {
+        "id": "a",
+        "text": "High speed"
+      },
+      {
+        "id": "b",
+        "text": "Low cost"
+      },
+      {
+        "id": "c",
+        "text": "Easy installation"
+      },
+      {
+        "id": "d",
+        "text": "Short distance"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"High speed\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0045",
+    "type": "mcq",
+    "question": "Which topology is the most fault-tolerant?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bus"
+      },
+      {
+        "id": "b",
+        "text": "Star"
+      },
+      {
+        "id": "c",
+        "text": "Mesh"
+      },
+      {
+        "id": "d",
+        "text": "Ring"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Network topology describes the physical or logical arrangement of devices in a network."
+  },
+  {
+    "id": "dcn-0046",
+    "type": "mcq",
+    "question": "What layer of the OSI model does IP operate on?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Network Layer"
+      },
+      {
+        "id": "b",
+        "text": "Data Link Layer"
+      },
+      {
+        "id": "c",
+        "text": "Transport Layer"
+      },
+      {
+        "id": "d",
+        "text": "Application Layer"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0047",
+    "type": "mcq",
+    "question": "Which of the following protocols is primarily responsible for transferring files over the internet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "FTP"
+      },
+      {
+        "id": "b",
+        "text": "SMTP"
+      },
+      {
+        "id": "c",
+        "text": "SNMP"
+      },
+      {
+        "id": "d",
+        "text": "HTTP"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0048",
+    "type": "mcq",
+    "question": "What is the primary function of an Ethernet switch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manage the flow of data packets"
+      },
+      {
+        "id": "b",
+        "text": "Assign IP addresses"
+      },
+      {
+        "id": "c",
+        "text": "Manage user sessions"
+      },
+      {
+        "id": "d",
+        "text": "Encrypt data"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Switches connect devices within a network and forward data using MAC addresses."
+  },
+  {
+    "id": "dcn-0049",
+    "type": "mcq",
+    "question": "In which situation would you use a repeater?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To connect different networks"
+      },
+      {
+        "id": "b",
+        "text": "To extend signal range"
+      },
+      {
+        "id": "c",
+        "text": "To manage network traffic"
+      },
+      {
+        "id": "d",
+        "text": "To secure data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"To extend signal range\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0050",
+    "type": "mcq",
+    "question": "Which network topology is typically used in a wireless LAN?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Star"
+      },
+      {
+        "id": "b",
+        "text": "Ring"
+      },
+      {
+        "id": "c",
+        "text": "Mesh"
+      },
+      {
+        "id": "d",
+        "text": "Bus"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0051",
+    "type": "mcq",
+    "question": "What does the acronym \"MAC\" stand for in networking?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Media Access Control"
+      },
+      {
+        "id": "b",
+        "text": "Maximum Access Control"
+      },
+      {
+        "id": "c",
+        "text": "Medium Access Channel"
+      },
+      {
+        "id": "d",
+        "text": "Managed Access Control"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0052",
+    "type": "mcq",
+    "question": "What type of addressing does IPv4 use?",
+    "options": [
+      {
+        "id": "a",
+        "text": "128-bit"
+      },
+      {
+        "id": "b",
+        "text": "64-bit"
+      },
+      {
+        "id": "c",
+        "text": "32-bit"
+      },
+      {
+        "id": "d",
+        "text": "16-bit"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0053",
+    "type": "mcq",
+    "question": "What type of addressing does IPv6 use?",
+    "options": [
+      {
+        "id": "a",
+        "text": "128-bit"
+      },
+      {
+        "id": "b",
+        "text": "64-bit"
+      },
+      {
+        "id": "c",
+        "text": "32-bit"
+      },
+      {
+        "id": "d",
+        "text": "16-bit"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0054",
+    "type": "mcq",
+    "question": "What is the main function of a proxy server?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Store data"
+      },
+      {
+        "id": "b",
+        "text": "Filter requests"
+      },
+      {
+        "id": "c",
+        "text": "Manage traffic"
+      },
+      {
+        "id": "d",
+        "text": "Connect networks"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Filter requests\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0055",
+    "type": "mcq",
+    "question": "What is the parity bit for the binary number 1011001 using even parity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "0"
+      },
+      {
+        "id": "b",
+        "text": "1"
+      },
+      {
+        "id": "c",
+        "text": "2"
+      },
+      {
+        "id": "d",
+        "text": "3"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"0\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0056",
+    "type": "mcq",
+    "question": "For the binary number 1100110, what parity bit is needed for odd parity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "0"
+      },
+      {
+        "id": "b",
+        "text": "1"
+      },
+      {
+        "id": "c",
+        "text": "2"
+      },
+      {
+        "id": "d",
+        "text": "3"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"1\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0057",
+    "type": "mcq",
+    "question": "If the data is 101001 and you want even parity, What is the required total number of 1s?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1"
+      },
+      {
+        "id": "b",
+        "text": "2"
+      },
+      {
+        "id": "c",
+        "text": "3"
+      },
+      {
+        "id": "d",
+        "text": "4"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"4\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0058",
+    "type": "mcq",
+    "question": "Which of the following is a subnet mask for C class IP address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "255.0.0.0"
+      },
+      {
+        "id": "b",
+        "text": "255.255.0.0"
+      },
+      {
+        "id": "c",
+        "text": "255.255.255.0"
+      },
+      {
+        "id": "d",
+        "text": "255.255.255.255"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0059",
+    "type": "mcq",
+    "question": "Which class does the IP address 172.16.0.1 belong to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Class A"
+      },
+      {
+        "id": "b",
+        "text": "Class B"
+      },
+      {
+        "id": "c",
+        "text": "Class C"
+      },
+      {
+        "id": "d",
+        "text": "Class D"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0060",
+    "type": "mcq",
+    "question": "Which class does the IP address 10.0.0.5 belong to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Class A"
+      },
+      {
+        "id": "b",
+        "text": "Class B"
+      },
+      {
+        "id": "c",
+        "text": "Class C"
+      },
+      {
+        "id": "d",
+        "text": "Class D"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0061",
+    "type": "mcq",
+    "question": "Which class does the IP address 192.168.15.10 belong to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Class A"
+      },
+      {
+        "id": "b",
+        "text": "Class B"
+      },
+      {
+        "id": "c",
+        "text": "Class C"
+      },
+      {
+        "id": "d",
+        "text": "Class D"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0062",
+    "type": "mcq",
+    "question": "What does CIDR stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Classful Inter-Domain Routing"
+      },
+      {
+        "id": "b",
+        "text": "Classless Inter-Domain Routing"
+      },
+      {
+        "id": "c",
+        "text": "Common Inter-Domain Routing"
+      },
+      {
+        "id": "d",
+        "text": "Complex Inter-Domain Routing"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Classless Inter-Domain Routing\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0063",
+    "type": "mcq",
+    "question": "What is the primary benefit of CIDR over traditional IP addressing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Simplicity in routing tables"
+      },
+      {
+        "id": "b",
+        "text": "Efficient use of IP addresses"
+      },
+      {
+        "id": "c",
+        "text": "Increased network speed"
+      },
+      {
+        "id": "d",
+        "text": "Better security"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0064",
+    "type": "mcq",
+    "question": "In CIDR, what does a prefix of /24 signify?",
+    "options": [
+      {
+        "id": "a",
+        "text": "16 hosts"
+      },
+      {
+        "id": "b",
+        "text": "256 hosts"
+      },
+      {
+        "id": "c",
+        "text": "512 hosts"
+      },
+      {
+        "id": "d",
+        "text": "128 hosts"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"256 hosts\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0065",
+    "type": "mcq",
+    "question": "Which of the following are the network services?",
+    "options": [
+      {
+        "id": "a",
+        "text": "File service"
+      },
+      {
+        "id": "b",
+        "text": "Print service"
+      },
+      {
+        "id": "c",
+        "text": "Database service"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0066",
+    "type": "mcq",
+    "question": "The performance of data communications network depends on",
+    "options": [
+      {
+        "id": "a",
+        "text": "Number of users"
+      },
+      {
+        "id": "b",
+        "text": "The hardware and software"
+      },
+      {
+        "id": "c",
+        "text": "The transmission"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0067",
+    "type": "mcq",
+    "question": "Which of the communication modes support two way traffic but in only once direction of a time?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Simplex"
+      },
+      {
+        "id": "b",
+        "text": "Half-duplex"
+      },
+      {
+        "id": "c",
+        "text": "Full duplex"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Half-duplex\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0068",
+    "type": "mcq",
+    "question": "Which mode of communication allows data to be transmitted in both directions simultaneously?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Simplex"
+      },
+      {
+        "id": "b",
+        "text": "Half-duplex"
+      },
+      {
+        "id": "c",
+        "text": "Full-duplex"
+      },
+      {
+        "id": "d",
+        "text": "Unidirectional"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Full-duplex\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0069",
+    "type": "mcq",
+    "question": "In which communication mode is data transmitted in one direction only?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Simplex"
+      },
+      {
+        "id": "b",
+        "text": "Half-duplex"
+      },
+      {
+        "id": "c",
+        "text": "Full-duplex"
+      },
+      {
+        "id": "d",
+        "text": "Bidirectional"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Simplex\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0070",
+    "type": "mcq",
+    "question": "Which of the following is an example of simplex communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Radio broadcast"
+      },
+      {
+        "id": "b",
+        "text": "Phone call"
+      },
+      {
+        "id": "c",
+        "text": "Video conference"
+      },
+      {
+        "id": "d",
+        "text": "Instant messaging"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Radio broadcast\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0071",
+    "type": "mcq",
+    "question": "Which of the following is not a mechanism that DHCP supports for IP address allocation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Automatic allocation"
+      },
+      {
+        "id": "b",
+        "text": "Static allocation"
+      },
+      {
+        "id": "c",
+        "text": "Dynamic allocation"
+      },
+      {
+        "id": "d",
+        "text": "Faster allocation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0072",
+    "type": "mcq",
+    "question": "What is the primary goal of cryptography?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data compression"
+      },
+      {
+        "id": "b",
+        "text": "Data integrity"
+      },
+      {
+        "id": "c",
+        "text": "Data encryption"
+      },
+      {
+        "id": "d",
+        "text": "Data visualization"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Data encryption\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0073",
+    "type": "mcq",
+    "question": "Which of the following is NOT considered a security goal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Confidentiality"
+      },
+      {
+        "id": "b",
+        "text": "Integrity"
+      },
+      {
+        "id": "c",
+        "text": "Availability"
+      },
+      {
+        "id": "d",
+        "text": "Complexity"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Complexity\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0074",
+    "type": "mcq",
+    "question": "Which type of cryptographic algorithm uses the same key for both encryption and decryption?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Asymmetric"
+      },
+      {
+        "id": "b",
+        "text": "Symmetric"
+      },
+      {
+        "id": "c",
+        "text": "Hashing"
+      },
+      {
+        "id": "d",
+        "text": "Salting"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Asymmetric\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0075",
+    "type": "mcq",
+    "question": "What service ensures that data has not been altered during transmission?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Authentication"
+      },
+      {
+        "id": "b",
+        "text": "Non-repudiation"
+      },
+      {
+        "id": "c",
+        "text": "Integrity"
+      },
+      {
+        "id": "d",
+        "text": "Confidentiality"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Integrity\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0076",
+    "type": "mcq",
+    "question": "Which security service provides proof of the origin of data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Encryption"
+      },
+      {
+        "id": "b",
+        "text": "Authentication"
+      },
+      {
+        "id": "c",
+        "text": "Integrity"
+      },
+      {
+        "id": "d",
+        "text": "Availability"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Authentication\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0077",
+    "type": "mcq",
+    "question": "What is the main purpose of HTTP in the context of the World Wide Web?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Email transmission"
+      },
+      {
+        "id": "b",
+        "text": "File transfer"
+      },
+      {
+        "id": "c",
+        "text": "Web page retrieval"
+      },
+      {
+        "id": "d",
+        "text": "Secure transactions"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "HTTP is a protocol used for transferring web pages and web resources."
+  },
+  {
+    "id": "dcn-0078",
+    "type": "mcq",
+    "question": "What does WWW stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "World Wide Web"
+      },
+      {
+        "id": "b",
+        "text": "Wide World Web"
+      },
+      {
+        "id": "c",
+        "text": "Web World Wide"
+      },
+      {
+        "id": "d",
+        "text": "World Web Wide"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"World Wide Web\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0079",
+    "type": "mcq",
+    "question": "Which congestion control algorithm uses a fixed rate for output regardless of input burstiness?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Token Bucket"
+      },
+      {
+        "id": "b",
+        "text": "Leaky Bucket"
+      },
+      {
+        "id": "c",
+        "text": "Load Shedding"
+      },
+      {
+        "id": "d",
+        "text": "Random Early Detection"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Leaky Bucket\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0080",
+    "type": "mcq",
+    "question": "In the token bucket algorithm, what happens when a token is not used within a certain time frame?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is discarded"
+      },
+      {
+        "id": "b",
+        "text": "It is stored indefinitely"
+      },
+      {
+        "id": "c",
+        "text": "It is converted to credits"
+      },
+      {
+        "id": "d",
+        "text": "It is doubled"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"It is discarded\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0081",
+    "type": "mcq",
+    "question": "What is the main purpose of load shedding in congestion control?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase throughput"
+      },
+      {
+        "id": "b",
+        "text": "To reduce network traffic"
+      },
+      {
+        "id": "c",
+        "text": "To prioritize critical packets"
+      },
+      {
+        "id": "d",
+        "text": "To enhance data integrity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"To reduce network traffic\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0082",
+    "type": "mcq",
+    "question": "Which algorithm allows bursts of data to be sent up to a maximum defined rate but controls the average rate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Leaky Bucket"
+      },
+      {
+        "id": "b",
+        "text": "Token Bucket"
+      },
+      {
+        "id": "c",
+        "text": "Both A and B"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Token Bucket\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0083",
+    "type": "mcq",
+    "question": "How does the leaky bucket algorithm handle excess traffic?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It allows overflow"
+      },
+      {
+        "id": "b",
+        "text": "It queues packets"
+      },
+      {
+        "id": "c",
+        "text": "It drops excess packets"
+      },
+      {
+        "id": "d",
+        "text": "It sends them later"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"It drops excess packets\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0084",
+    "type": "mcq",
+    "question": "What is the primary function of the Reverse Address Resolution Protocol (RARP)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To map IP addresses to MAC addresses"
+      },
+      {
+        "id": "b",
+        "text": "To map MAC addresses to IP addresses"
+      },
+      {
+        "id": "c",
+        "text": "To provide dynamic IP addresses"
+      },
+      {
+        "id": "d",
+        "text": "To resolve hostnames"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0085",
+    "type": "mcq",
+    "question": "Which layer of the OSI model does RARP operate at?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Application Layer"
+      },
+      {
+        "id": "b",
+        "text": "Transport Layer"
+      },
+      {
+        "id": "c",
+        "text": "Network Layer"
+      },
+      {
+        "id": "d",
+        "text": "Data Link Layer"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The OSI model divides networking functions into standardized layers."
+  },
+  {
+    "id": "dcn-0086",
+    "type": "mcq",
+    "question": "What is the maximum theoretical efficiency of the pure Aloha protocol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "0.184"
+      },
+      {
+        "id": "b",
+        "text": "0.368"
+      },
+      {
+        "id": "c",
+        "text": "0.5"
+      },
+      {
+        "id": "d",
+        "text": "1"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0087",
+    "type": "mcq",
+    "question": "In the context of Aloha, what happens when a collision occurs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The packet is immediately retransmitted"
+      },
+      {
+        "id": "b",
+        "text": "The packet is dropped and not retransmitted"
+      },
+      {
+        "id": "c",
+        "text": "A random backoff time is used before retransmission"
+      },
+      {
+        "id": "d",
+        "text": "The sender waits for an acknowledgment"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"A random backoff time is used before retransmission\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0088",
+    "type": "mcq",
+    "question": "In the Stop and Wait ARQ protocol, what happens after a sender transmits a frame?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It sends multiple frames"
+      },
+      {
+        "id": "b",
+        "text": "It waits for an acknowledgment"
+      },
+      {
+        "id": "c",
+        "text": "It sends the next frame immediately"
+      },
+      {
+        "id": "d",
+        "text": "It retransmits the frame"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0089",
+    "type": "mcq",
+    "question": "What is the maximum number of outstanding frames in the Go-Back-N ARQ protocol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1"
+      },
+      {
+        "id": "b",
+        "text": "N"
+      },
+      {
+        "id": "c",
+        "text": "N-1"
+      },
+      {
+        "id": "d",
+        "text": "2"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0090",
+    "type": "mcq",
+    "question": "Which protocol allows the receiver to accept frames out of order?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stop and Wait"
+      },
+      {
+        "id": "b",
+        "text": "Go-Back-N"
+      },
+      {
+        "id": "c",
+        "text": "Selective Repeat"
+      },
+      {
+        "id": "d",
+        "text": "Piggybacking"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0091",
+    "type": "mcq",
+    "question": "In the Sliding Window protocol, what does the window size determine?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Number of retransmissions"
+      },
+      {
+        "id": "b",
+        "text": "Number of frames that can be sent before an acknowledgment"
+      },
+      {
+        "id": "c",
+        "text": "Maximum delay allowed"
+      },
+      {
+        "id": "d",
+        "text": "Frame size"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0092",
+    "type": "mcq",
+    "question": "What technique does piggybacking use to improve efficiency in data transmission?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sending frames without acknowledgment"
+      },
+      {
+        "id": "b",
+        "text": "Combining data and acknowledgment frames"
+      },
+      {
+        "id": "c",
+        "text": "Using multiple channels"
+      },
+      {
+        "id": "d",
+        "text": "Encrypting data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Combining data and acknowledgment frames\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0093",
+    "type": "mcq",
+    "question": "Which of the following is true about Go-Back-N ARQ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It can only send one frame at a time"
+      },
+      {
+        "id": "b",
+        "text": "It can resend all frames after a lost frame"
+      },
+      {
+        "id": "c",
+        "text": "It does not require acknowledgments"
+      },
+      {
+        "id": "d",
+        "text": "It accepts frames out of order"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"It can resend all frames after a lost frame\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0094",
+    "type": "mcq",
+    "question": "In Selective Repeat ARQ, how does the sender handle lost frames?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It ignores them"
+      },
+      {
+        "id": "b",
+        "text": "It retransmits all frames"
+      },
+      {
+        "id": "c",
+        "text": "It retransmits only the lost frames"
+      },
+      {
+        "id": "d",
+        "text": "It waits for the next acknowledgment"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"It retransmits only the lost frames\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0095",
+    "type": "mcq",
+    "question": "Which protocol is characterized by having a fixed window size that allows multiple frames to be sent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stop and Wait"
+      },
+      {
+        "id": "b",
+        "text": "Go-Back-N"
+      },
+      {
+        "id": "c",
+        "text": "Selective Repeat"
+      },
+      {
+        "id": "d",
+        "text": "Sliding Window"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0096",
+    "type": "mcq",
+    "question": "What is the primary disadvantage of the Stop and Wait protocol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Low reliability"
+      },
+      {
+        "id": "b",
+        "text": "High latency"
+      },
+      {
+        "id": "c",
+        "text": "Inefficient bandwidth usage"
+      },
+      {
+        "id": "d",
+        "text": "Complexity"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0097",
+    "type": "mcq",
+    "question": "Which IEEE 802 standard is associated with wireless LANs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IEEE 802.3"
+      },
+      {
+        "id": "b",
+        "text": "IEEE 802.11"
+      },
+      {
+        "id": "c",
+        "text": "IEEE 802.15"
+      },
+      {
+        "id": "d",
+        "text": "IEEE 802.16"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Wireless networking enables communication without physical cables using radio signals."
+  },
+  {
+    "id": "dcn-0098",
+    "type": "mcq",
+    "question": "What does the IEEE 802.3 standard define?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wireless networking"
+      },
+      {
+        "id": "b",
+        "text": "Ethernet networking"
+      },
+      {
+        "id": "c",
+        "text": "Bluetooth technology"
+      },
+      {
+        "id": "d",
+        "text": "Personal Area Networking"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Ethernet networking\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0099",
+    "type": "mcq",
+    "question": "Which feature allows users to visualize network traffic in Cisco Packet Tracer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Simulation mode"
+      },
+      {
+        "id": "b",
+        "text": "Real-time mode"
+      },
+      {
+        "id": "c",
+        "text": "Configuration mode"
+      },
+      {
+        "id": "d",
+        "text": "Design mode"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0100",
+    "type": "mcq",
+    "question": "What does the \"Physical\" view in Cisco Packet Tracer represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Logical layout of the network"
+      },
+      {
+        "id": "b",
+        "text": "Actual physical arrangement of devices"
+      },
+      {
+        "id": "c",
+        "text": "Network protocol operations"
+      },
+      {
+        "id": "d",
+        "text": "Packet transmission details"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Actual physical arrangement of devices\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0101",
+    "type": "mcq",
+    "question": "Which version of IP provides a larger address space?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IPv4"
+      },
+      {
+        "id": "b",
+        "text": "IPv5"
+      },
+      {
+        "id": "c",
+        "text": "IPv6"
+      },
+      {
+        "id": "d",
+        "text": "IPv7"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0102",
+    "type": "mcq",
+    "question": "What is the primary purpose of the IP protocol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Error detection"
+      },
+      {
+        "id": "b",
+        "text": "Reliable data delivery"
+      },
+      {
+        "id": "c",
+        "text": "Addressing and routing data"
+      },
+      {
+        "id": "d",
+        "text": "Data encryption"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0103",
+    "type": "mcq",
+    "question": "In an IP address, what does the term \"subnet mask\" refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The total number of hosts in a network"
+      },
+      {
+        "id": "b",
+        "text": "The range of IP addresses available"
+      },
+      {
+        "id": "c",
+        "text": "The portion that identifies the network"
+      },
+      {
+        "id": "d",
+        "text": "The type of routing protocol used"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0104",
+    "type": "mcq",
+    "question": "What is the primary purpose of CSMA/CA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To minimize collisions in data transmission"
+      },
+      {
+        "id": "b",
+        "text": "To increase data transmission speed"
+      },
+      {
+        "id": "c",
+        "text": "To enhance error detection"
+      },
+      {
+        "id": "d",
+        "text": "To manage network congestion"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"To minimize collisions in data transmission\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0105",
+    "type": "mcq",
+    "question": "In CSMA/CA, what action does a device take before transmitting data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wait for a fixed time"
+      },
+      {
+        "id": "b",
+        "text": "Send data immediately"
+      },
+      {
+        "id": "c",
+        "text": "Sense the carrier"
+      },
+      {
+        "id": "d",
+        "text": "Transmit data blindly"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Sense the carrier\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0106",
+    "type": "mcq",
+    "question": "What is the primary purpose of error detection techniques?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To correct data errors"
+      },
+      {
+        "id": "b",
+        "text": "To identify data errors"
+      },
+      {
+        "id": "c",
+        "text": "To improve transmission speed"
+      },
+      {
+        "id": "d",
+        "text": "To reduce data size"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"To identify data errors\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0107",
+    "type": "mcq",
+    "question": "What does a Hamming code provide in addition to error detection?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Error correction"
+      },
+      {
+        "id": "b",
+        "text": "Data compression"
+      },
+      {
+        "id": "c",
+        "text": "Data encryption"
+      },
+      {
+        "id": "d",
+        "text": "Network security"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Error correction\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0108",
+    "type": "mcq",
+    "question": "Which error detection technique involves appending a fixed number of bits based on the count of 1s in a message?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Checksum"
+      },
+      {
+        "id": "b",
+        "text": "Parity bit"
+      },
+      {
+        "id": "c",
+        "text": "CRC"
+      },
+      {
+        "id": "d",
+        "text": "Hamming code"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Parity bit\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0109",
+    "type": "mcq",
+    "question": "In the context of CRC, what does the term \"divisor\" refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The data being transmitted"
+      },
+      {
+        "id": "b",
+        "text": "The generator polynomial"
+      },
+      {
+        "id": "c",
+        "text": "The receiver's checksum"
+      },
+      {
+        "id": "d",
+        "text": "The sender's address"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"The generator polynomial\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0110",
+    "type": "mcq",
+    "question": "What is the main purpose of modulation in communication systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase bandwidth"
+      },
+      {
+        "id": "b",
+        "text": "To convert signals to a suitable form for transmission"
+      },
+      {
+        "id": "c",
+        "text": "To enhance security"
+      },
+      {
+        "id": "d",
+        "text": "To compress data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"To convert signals to a suitable form for transmission\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0111",
+    "type": "mcq",
+    "question": "Which of the following is an example of analog modulation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frequency Shift Keying"
+      },
+      {
+        "id": "b",
+        "text": "Amplitude Modulation"
+      },
+      {
+        "id": "c",
+        "text": "Phase Shift Keying"
+      },
+      {
+        "id": "d",
+        "text": "Amplitude Shift Keying"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Amplitude Modulation\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0112",
+    "type": "mcq",
+    "question": "In digital modulation, what does the term \"baud rate\" refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The number of bits transmitted per second"
+      },
+      {
+        "id": "b",
+        "text": "The number of signal changes per second"
+      },
+      {
+        "id": "c",
+        "text": "The frequency of the carrier wave"
+      },
+      {
+        "id": "d",
+        "text": "The length of the message"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"The number of signal changes per second\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0113",
+    "type": "mcq",
+    "question": "Which modulation technique varies the amplitude of the carrier signal based on the data signal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frequency Modulation"
+      },
+      {
+        "id": "b",
+        "text": "Amplitude Modulation"
+      },
+      {
+        "id": "c",
+        "text": "Phase Modulation"
+      },
+      {
+        "id": "d",
+        "text": "Frequency Shift Keying"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Amplitude Modulation\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0114",
+    "type": "mcq",
+    "question": "Which modulation technique is less susceptible to noise and interference?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frequency Modulation"
+      },
+      {
+        "id": "b",
+        "text": "Amplitude Modulation"
+      },
+      {
+        "id": "c",
+        "text": "Phase Modulation"
+      },
+      {
+        "id": "d",
+        "text": "Frequency Shift Keying"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Frequency Modulation\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0115",
+    "type": "mcq",
+    "question": "Which type of unguided media is commonly used for broadcasting audio and television signals?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Microwave"
+      },
+      {
+        "id": "b",
+        "text": "Infrared"
+      },
+      {
+        "id": "c",
+        "text": "Radio"
+      },
+      {
+        "id": "d",
+        "text": "Fiber optic"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Radio\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0116",
+    "type": "mcq",
+    "question": "What is a primary characteristic of microwave transmission?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It requires a clear line of sight"
+      },
+      {
+        "id": "b",
+        "text": "It can penetrate walls easily"
+      },
+      {
+        "id": "c",
+        "text": "It operates over short distances"
+      },
+      {
+        "id": "d",
+        "text": "It uses sound waves"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"It requires a clear line of sight\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0117",
+    "type": "mcq",
+    "question": "Which unguided media is typically used for short-range communication, such as remote controls?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Radio"
+      },
+      {
+        "id": "b",
+        "text": "Infrared"
+      },
+      {
+        "id": "c",
+        "text": "Microwave"
+      },
+      {
+        "id": "d",
+        "text": "Fiber optic"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Infrared\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0118",
+    "type": "mcq",
+    "question": "What frequency range do microwaves typically operate in?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Below 3 kHz"
+      },
+      {
+        "id": "b",
+        "text": "3 GHz to 30 GHz"
+      },
+      {
+        "id": "c",
+        "text": "30 kHz to 300 kHz"
+      },
+      {
+        "id": "d",
+        "text": "Above 300 GHz"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"3 GHz to 30 GHz\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0119",
+    "type": "mcq",
+    "question": "Which of the following is a characteristic of static routing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Automatically adjusts to network changes"
+      },
+      {
+        "id": "b",
+        "text": "Requires manual configuration"
+      },
+      {
+        "id": "c",
+        "text": "Uses routing algorithms"
+      },
+      {
+        "id": "d",
+        "text": "Supports load balancing"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Requires manual configuration\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0120",
+    "type": "mcq",
+    "question": "What is the main advantage of dynamic routing protocols over static routing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Simplicity"
+      },
+      {
+        "id": "b",
+        "text": "Lower overhead"
+      },
+      {
+        "id": "c",
+        "text": "Automatic updates"
+      },
+      {
+        "id": "d",
+        "text": "Greater security"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0121",
+    "type": "mcq",
+    "question": "What is the primary purpose of subnetting?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase bandwidth"
+      },
+      {
+        "id": "b",
+        "text": "To improve network security"
+      },
+      {
+        "id": "c",
+        "text": "To divide a larger network into smaller segments"
+      },
+      {
+        "id": "d",
+        "text": "To simplify routing"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"To divide a larger network into smaller segments\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0122",
+    "type": "mcq",
+    "question": "If you have the IP address 192.168.1.10 and a subnet mask of 255.255.255.0, what is the network address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "192.168.1.0"
+      },
+      {
+        "id": "b",
+        "text": "192.168.1.10"
+      },
+      {
+        "id": "c",
+        "text": "192.168.1.255"
+      },
+      {
+        "id": "d",
+        "text": "192.168.0.0"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0123",
+    "type": "mcq",
+    "question": "How many subnets can be created from a Class C address with a default subnet mask of 255.255.255.0 if 2 bits are borrowed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "4"
+      },
+      {
+        "id": "c",
+        "text": "8"
+      },
+      {
+        "id": "d",
+        "text": "16"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"4\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0124",
+    "type": "mcq",
+    "question": "What is the broadcast address for the subnet 192.168.10.0 with a subnet mask of 255.255.255.128?",
+    "options": [
+      {
+        "id": "a",
+        "text": "192.168.10.0"
+      },
+      {
+        "id": "b",
+        "text": "192.168.10.127"
+      },
+      {
+        "id": "c",
+        "text": "192.168.10.255"
+      },
+      {
+        "id": "d",
+        "text": "192.168.10.64"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"192.168.10.127\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0125",
+    "type": "mcq",
+    "question": "Which of the following is a key difference between TCP and UDP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TCP is connectionless; UDP is connection-oriented"
+      },
+      {
+        "id": "b",
+        "text": "TCP provides error correction; UDP does not"
+      },
+      {
+        "id": "c",
+        "text": "TCP is faster than UDP in all cases"
+      },
+      {
+        "id": "d",
+        "text": "UDP guarantees delivery; TCP does not"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "TCP provides reliable, connection-oriented communication with error checking and flow control."
+  },
+  {
+    "id": "dcn-0126",
+    "type": "mcq",
+    "question": "What type of flow control mechanism does TCP use?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stop-and-wait"
+      },
+      {
+        "id": "b",
+        "text": "Sliding window"
+      },
+      {
+        "id": "c",
+        "text": "Rate-based"
+      },
+      {
+        "id": "d",
+        "text": "nan"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "TCP provides reliable, connection-oriented communication with error checking and flow control."
+  },
+  {
+    "id": "dcn-0127",
+    "type": "mcq",
+    "question": "In TCP, what is the purpose of the three-way handshake?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To establish a connection"
+      },
+      {
+        "id": "b",
+        "text": "To terminate a connection"
+      },
+      {
+        "id": "c",
+        "text": "To synchronize data streams"
+      },
+      {
+        "id": "d",
+        "text": "To ensure error detection"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "TCP provides reliable, connection-oriented communication with error checking and flow control."
+  },
+  {
+    "id": "dcn-0128",
+    "type": "mcq",
+    "question": "Which field in the TCP header is used to indicate the sequence of packets?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Acknowledgment number"
+      },
+      {
+        "id": "b",
+        "text": "Sequence number"
+      },
+      {
+        "id": "c",
+        "text": "Checksum"
+      },
+      {
+        "id": "d",
+        "text": "Window size"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "TCP provides reliable, connection-oriented communication with error checking and flow control."
+  },
+  {
+    "id": "dcn-0129",
+    "type": "mcq",
+    "question": "In which scenario would you prefer to use UDP over TCP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "For file transfers"
+      },
+      {
+        "id": "b",
+        "text": "For real-time audio/video streaming"
+      },
+      {
+        "id": "c",
+        "text": "For web browsing"
+      },
+      {
+        "id": "d",
+        "text": "For email transmission"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "TCP provides reliable, connection-oriented communication with error checking and flow control."
+  },
+  {
+    "id": "dcn-0130",
+    "type": "mcq",
+    "question": "In a checksum calculation, what happens if the result equals zero?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The data is corrupted"
+      },
+      {
+        "id": "b",
+        "text": "The data is valid"
+      },
+      {
+        "id": "c",
+        "text": "The checksum is discarded"
+      },
+      {
+        "id": "d",
+        "text": "The data is encrypted"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"The data is valid\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0131",
+    "type": "mcq",
+    "question": "How many parity bits are needed to detect and correct a single-bit error in a 7- bit data word using Hamming code?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1"
+      },
+      {
+        "id": "b",
+        "text": "2"
+      },
+      {
+        "id": "c",
+        "text": "3"
+      },
+      {
+        "id": "d",
+        "text": "4"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"3\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0132",
+    "type": "mcq",
+    "question": "Which type of cable uses an insulating layer to separate the inner conductor from the outer conductor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Twisted pair cable"
+      },
+      {
+        "id": "b",
+        "text": "Coaxial cable"
+      },
+      {
+        "id": "c",
+        "text": "Fiber optic cable"
+      },
+      {
+        "id": "d",
+        "text": "Copper cable"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Coaxial cable\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0133",
+    "type": "mcq",
+    "question": "In which scenario would fiber optic cables be preferred over twisted pair cables?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Short-distance LAN connections"
+      },
+      {
+        "id": "b",
+        "text": "Environments with high electromagnetic interference"
+      },
+      {
+        "id": "c",
+        "text": "Low-cost residential wiring"
+      },
+      {
+        "id": "d",
+        "text": "Temporary installations"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Environments with high electromagnetic interference\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0134",
+    "type": "mcq",
+    "question": "What advantage do fiber optic cables have over coaxial cables in terms of signal loss?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Higher signal attenuation"
+      },
+      {
+        "id": "b",
+        "text": "Lower signal attenuation"
+      },
+      {
+        "id": "c",
+        "text": "No signal loss"
+      },
+      {
+        "id": "d",
+        "text": "Higher susceptibility to interference"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Lower signal attenuation\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0135",
+    "type": "mcq",
+    "question": "Which of the following technologies allows for the creation of virtual networks on a physical network?",
+    "options": [
+      {
+        "id": "a",
+        "text": "LAN"
+      },
+      {
+        "id": "b",
+        "text": "VLAN"
+      },
+      {
+        "id": "c",
+        "text": "VPN"
+      },
+      {
+        "id": "d",
+        "text": "NAT"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0136",
+    "type": "mcq",
+    "question": "What is a computer network?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A system for storing data"
+      },
+      {
+        "id": "b",
+        "text": "A collection of interconnected computers that share resources"
+      },
+      {
+        "id": "c",
+        "text": "A type of software application"
+      },
+      {
+        "id": "d",
+        "text": "A method for encrypting data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0137",
+    "type": "mcq",
+    "question": "What is data communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The exchange of data between devices"
+      },
+      {
+        "id": "b",
+        "text": "The physical connection of cables"
+      },
+      {
+        "id": "c",
+        "text": "The process of storing data"
+      },
+      {
+        "id": "d",
+        "text": "The encryption of messages"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"The exchange of data between devices\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0138",
+    "type": "mcq",
+    "question": "What does latency refer to in data communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The speed of the network"
+      },
+      {
+        "id": "b",
+        "text": "The time delay in data transmission"
+      },
+      {
+        "id": "c",
+        "text": "The amount of data lost during transmission"
+      },
+      {
+        "id": "d",
+        "text": "The physical distance between devices"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"The time delay in data transmission\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0139",
+    "type": "mcq",
+    "question": "What is the primary purpose of a network protocol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To store data securely"
+      },
+      {
+        "id": "b",
+        "text": "To define rules for data communication"
+      },
+      {
+        "id": "c",
+        "text": "To increase data speed"
+      },
+      {
+        "id": "d",
+        "text": "To encrypt network traffic"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0140",
+    "type": "mcq",
+    "question": "Which of the following is a feature of digital communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Continuous signals"
+      },
+      {
+        "id": "b",
+        "text": "Discrete signals"
+      },
+      {
+        "id": "c",
+        "text": "High susceptibility to noise"
+      },
+      {
+        "id": "d",
+        "text": "Lower transmission efficiency"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Discrete signals\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0141",
+    "type": "mcq",
+    "question": "What is the Internet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A private network"
+      },
+      {
+        "id": "b",
+        "text": "A global network of interconnected computers"
+      },
+      {
+        "id": "c",
+        "text": "A local area network"
+      },
+      {
+        "id": "d",
+        "text": "A type of software application"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"A global network of interconnected computers\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0142",
+    "type": "mcq",
+    "question": "What protocol is primarily used for transmitting web pages over the Internet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "FTP"
+      },
+      {
+        "id": "b",
+        "text": "SMTP"
+      },
+      {
+        "id": "c",
+        "text": "HTTP"
+      },
+      {
+        "id": "d",
+        "text": "SNMP"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0143",
+    "type": "mcq",
+    "question": "How many layers does the OSI model have?",
+    "options": [
+      {
+        "id": "a",
+        "text": "4"
+      },
+      {
+        "id": "b",
+        "text": "5"
+      },
+      {
+        "id": "c",
+        "text": "6"
+      },
+      {
+        "id": "d",
+        "text": "7"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The OSI model divides networking functions into standardized layers."
+  },
+  {
+    "id": "dcn-0144",
+    "type": "mcq",
+    "question": "Which model is primarily used for internet communications?",
+    "options": [
+      {
+        "id": "a",
+        "text": "OSI model"
+      },
+      {
+        "id": "b",
+        "text": "TCP/IP model"
+      },
+      {
+        "id": "c",
+        "text": "Both models equally"
+      },
+      {
+        "id": "d",
+        "text": "Neither model"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"TCP/IP model\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0145",
+    "type": "mcq",
+    "question": "What does the ping command primarily test?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Network bandwidth"
+      },
+      {
+        "id": "b",
+        "text": "IP address configuration"
+      },
+      {
+        "id": "c",
+        "text": "Reachability of a host"
+      },
+      {
+        "id": "d",
+        "text": "Firewall settings"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Reachability of a host\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0146",
+    "type": "mcq",
+    "question": "Which of the following will the ipconfig command display?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Current network connections"
+      },
+      {
+        "id": "b",
+        "text": "IP address and subnet mask"
+      },
+      {
+        "id": "c",
+        "text": "Network traffic statistics"
+      },
+      {
+        "id": "d",
+        "text": "Active processes"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0147",
+    "type": "mcq",
+    "question": "What is the purpose of the ping command's TTL (Time to Live) value?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To determine the maximum data transfer rate"
+      },
+      {
+        "id": "b",
+        "text": "To limit the number of hops a packet can take"
+      },
+      {
+        "id": "c",
+        "text": "To measure the response time"
+      },
+      {
+        "id": "d",
+        "text": "To configure network settings"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"To limit the number of hops a packet can take\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0148",
+    "type": "mcq",
+    "question": "Which of the following is/are components of data communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Message"
+      },
+      {
+        "id": "b",
+        "text": "Sender"
+      },
+      {
+        "id": "c",
+        "text": "Receiver"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0149",
+    "type": "mcq",
+    "question": "What is the role of the receiver in the data communication process?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To send data"
+      },
+      {
+        "id": "b",
+        "text": "To encrypt data"
+      },
+      {
+        "id": "c",
+        "text": "To decode and interpret the message"
+      },
+      {
+        "id": "d",
+        "text": "To transmit data"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"To decode and interpret the message\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0150",
+    "type": "mcq",
+    "question": "Which component of data communication refers to the medium used to transmit the message?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Protocol"
+      },
+      {
+        "id": "b",
+        "text": "Channel"
+      },
+      {
+        "id": "c",
+        "text": "Encoder"
+      },
+      {
+        "id": "d",
+        "text": "Decoder"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Channel\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0151",
+    "type": "mcq",
+    "question": "What is the primary format used for representing data in digital networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analog signals"
+      },
+      {
+        "id": "b",
+        "text": "Binary data"
+      },
+      {
+        "id": "c",
+        "text": "ASCII characters"
+      },
+      {
+        "id": "d",
+        "text": "Text files"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0152",
+    "type": "mcq",
+    "question": "Which of the following best describes \"data flow\" in a network?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The movement of data between devices"
+      },
+      {
+        "id": "b",
+        "text": "The encryption of data"
+      },
+      {
+        "id": "c",
+        "text": "The compression of data"
+      },
+      {
+        "id": "d",
+        "text": "The storage of data"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0153",
+    "type": "mcq",
+    "question": "In the context of networks, what does \"throughput\" refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The amount of data received"
+      },
+      {
+        "id": "b",
+        "text": "The maximum data transfer capacity"
+      },
+      {
+        "id": "c",
+        "text": "The time taken to transmit data"
+      },
+      {
+        "id": "d",
+        "text": "The error rate"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0154",
+    "type": "mcq",
+    "question": "Which one of following represent IPV4 loopback address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "255.255.0.0"
+      },
+      {
+        "id": "b",
+        "text": "127.0.0.0"
+      },
+      {
+        "id": "c",
+        "text": "127.0.0.1"
+      },
+      {
+        "id": "d",
+        "text": "255.0.0.1"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0155",
+    "type": "mcq",
+    "question": "Which class IP addresses are reserved for special use?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Class A"
+      },
+      {
+        "id": "b",
+        "text": "Class B"
+      },
+      {
+        "id": "c",
+        "text": "Class C"
+      },
+      {
+        "id": "d",
+        "text": "Class D"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0156",
+    "type": "mcq",
+    "question": "Which of the following is not a reason of congestion in network?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Low bandwidth"
+      },
+      {
+        "id": "b",
+        "text": "Multicasting"
+      },
+      {
+        "id": "c",
+        "text": "Few hosts in broadcast domain"
+      },
+      {
+        "id": "d",
+        "text": "Outdated hardware"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0157",
+    "type": "mcq",
+    "question": "Which of the following is not the layer of TCP/IP protocol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Application Layer"
+      },
+      {
+        "id": "b",
+        "text": "Transport Layer"
+      },
+      {
+        "id": "c",
+        "text": "Session Layer"
+      },
+      {
+        "id": "d",
+        "text": "Internetwork layer"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0158",
+    "type": "mcq",
+    "question": "Fullform of SSL is ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Security Subscription Layer"
+      },
+      {
+        "id": "b",
+        "text": "Secure Socket Layer"
+      },
+      {
+        "id": "c",
+        "text": "Solid Secure Layer"
+      },
+      {
+        "id": "d",
+        "text": "Secure Service Layer"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Secure Socket Layer\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0159",
+    "type": "mcq",
+    "question": "What is the primary function of Wireshark?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To configure network devices"
+      },
+      {
+        "id": "b",
+        "text": "To analyze network traffic"
+      },
+      {
+        "id": "c",
+        "text": "To create network diagrams"
+      },
+      {
+        "id": "d",
+        "text": "To encrypt data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"To analyze network traffic\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0160",
+    "type": "mcq",
+    "question": "Which of the following features does Wireshark provide?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Real-time data encryption"
+      },
+      {
+        "id": "b",
+        "text": "Packet filtering and analysis"
+      },
+      {
+        "id": "c",
+        "text": "Bandwidth monitoring"
+      },
+      {
+        "id": "d",
+        "text": "Firewall protection"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Packet filtering and analysis\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0161",
+    "type": "mcq",
+    "question": "Which technique is used to reduce congestion in a network?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Token passing"
+      },
+      {
+        "id": "b",
+        "text": "CSMA/CD"
+      },
+      {
+        "id": "c",
+        "text": "ALOHA"
+      },
+      {
+        "id": "d",
+        "text": "Sliding window"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0162",
+    "type": "mcq",
+    "question": "What does the term \"bandwidth\" refer to in networking?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Distance of signal"
+      },
+      {
+        "id": "b",
+        "text": "Maximum data rate"
+      },
+      {
+        "id": "c",
+        "text": "Signal strength"
+      },
+      {
+        "id": "d",
+        "text": "Packet size"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0163",
+    "type": "mcq",
+    "question": "What is the primary purpose of a MAC address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Identifying devices"
+      },
+      {
+        "id": "b",
+        "text": "Encrypting data"
+      },
+      {
+        "id": "c",
+        "text": "Managing sessions"
+      },
+      {
+        "id": "d",
+        "text": "Routing packets"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Identifying devices\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0164",
+    "type": "mcq",
+    "question": "What is the main purpose of a digital certificate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data compression"
+      },
+      {
+        "id": "b",
+        "text": "Identity verification"
+      },
+      {
+        "id": "c",
+        "text": "Packet routing"
+      },
+      {
+        "id": "d",
+        "text": "Session management"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Identity verification\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0165",
+    "type": "mcq",
+    "question": "Which topology provides the highest redundancy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Star"
+      },
+      {
+        "id": "b",
+        "text": "Mesh"
+      },
+      {
+        "id": "c",
+        "text": "Bus"
+      },
+      {
+        "id": "d",
+        "text": "Ring"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Network topology describes the physical or logical arrangement of devices in a network."
+  },
+  {
+    "id": "dcn-0166",
+    "type": "mcq",
+    "question": "What is the main purpose of the ICMP protocol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Error reporting"
+      },
+      {
+        "id": "b",
+        "text": "File transfer"
+      },
+      {
+        "id": "c",
+        "text": "Email communication"
+      },
+      {
+        "id": "d",
+        "text": "Remote access"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0167",
+    "type": "mcq",
+    "question": "What is a primary disadvantage of a star topology?",
+    "options": [
+      {
+        "id": "a",
+        "text": "High cost"
+      },
+      {
+        "id": "b",
+        "text": "High redundancy"
+      },
+      {
+        "id": "c",
+        "text": "Limited scalability"
+      },
+      {
+        "id": "d",
+        "text": "Single point of failure"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Network topology describes the physical or logical arrangement of devices in a network."
+  },
+  {
+    "id": "dcn-0168",
+    "type": "mcq",
+    "question": "What does the acronym BGP stand for in networking?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Border Gateway Protocol"
+      },
+      {
+        "id": "b",
+        "text": "Binary Gate Protocol"
+      },
+      {
+        "id": "c",
+        "text": "Basic General Protocol"
+      },
+      {
+        "id": "d",
+        "text": "Bandwidth Gateway Protocol"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0169",
+    "type": "mcq",
+    "question": "What is the role of the control plane in a router?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Forwarding packets"
+      },
+      {
+        "id": "b",
+        "text": "Managing routing protocols"
+      },
+      {
+        "id": "c",
+        "text": "Filtering data"
+      },
+      {
+        "id": "d",
+        "text": "Encrypting traffic"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Routers forward packets between networks using routing information."
+  },
+  {
+    "id": "dcn-0170",
+    "type": "mcq",
+    "question": "Which of the following is a class of IP address reserved for multicast?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Class A"
+      },
+      {
+        "id": "b",
+        "text": "Class B"
+      },
+      {
+        "id": "c",
+        "text": "Class C"
+      },
+      {
+        "id": "d",
+        "text": "Class D"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0171",
+    "type": "mcq",
+    "question": "Which device converts digital signals to analog signals?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Router"
+      },
+      {
+        "id": "b",
+        "text": "Switch"
+      },
+      {
+        "id": "c",
+        "text": "Modem"
+      },
+      {
+        "id": "d",
+        "text": "Hub"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Modem\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0172",
+    "type": "mcq",
+    "question": "In a network, what does the term “load balancing” refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Distributing traffic evenly"
+      },
+      {
+        "id": "b",
+        "text": "Encrypting data"
+      },
+      {
+        "id": "c",
+        "text": "Managing IP addresses"
+      },
+      {
+        "id": "d",
+        "text": "Establishing connections"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0173",
+    "type": "mcq",
+    "question": "What does the term \"overhead\" refer to in networking?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Extra data for management"
+      },
+      {
+        "id": "b",
+        "text": "Data lost during transfer"
+      },
+      {
+        "id": "c",
+        "text": "Packet size"
+      },
+      {
+        "id": "d",
+        "text": "Number of connections"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0174",
+    "type": "mcq",
+    "question": "Which of the following is an example of a wide area network (WAN)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Home network"
+      },
+      {
+        "id": "b",
+        "text": "Campus network"
+      },
+      {
+        "id": "c",
+        "text": "The Internet"
+      },
+      {
+        "id": "d",
+        "text": "Local area network"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0175",
+    "type": "mcq",
+    "question": "What type of attack involves overwhelming a server with traffic?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Phishing"
+      },
+      {
+        "id": "b",
+        "text": "Spoofing"
+      },
+      {
+        "id": "c",
+        "text": "Denial of Service"
+      },
+      {
+        "id": "d",
+        "text": "Man-in-the-middle"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Denial of Service\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0176",
+    "type": "mcq",
+    "question": "What type of addressing does IPv6 use?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Binary"
+      },
+      {
+        "id": "b",
+        "text": "Decimal"
+      },
+      {
+        "id": "c",
+        "text": "Hexadecimal"
+      },
+      {
+        "id": "d",
+        "text": "Alphanumeric"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0177",
+    "type": "mcq",
+    "question": "What type of network uses a central controller for communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Peer-to-peer"
+      },
+      {
+        "id": "b",
+        "text": "Client-server"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid"
+      },
+      {
+        "id": "d",
+        "text": "Decentralized"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0178",
+    "type": "mcq",
+    "question": "What is the primary purpose of firewalls in networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Packet analysis"
+      },
+      {
+        "id": "b",
+        "text": "Network segmentation"
+      },
+      {
+        "id": "c",
+        "text": "Security"
+      },
+      {
+        "id": "d",
+        "text": "Bandwidth management"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0179",
+    "type": "mcq",
+    "question": "What type of protocol is ICMP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Connection-oriented"
+      },
+      {
+        "id": "b",
+        "text": "Connectionless"
+      },
+      {
+        "id": "c",
+        "text": "Reliable"
+      },
+      {
+        "id": "d",
+        "text": "Stateful"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0180",
+    "type": "mcq",
+    "question": "In which scenario is a VPN primarily used?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Remote access"
+      },
+      {
+        "id": "b",
+        "text": "Local area networking"
+      },
+      {
+        "id": "c",
+        "text": "Wide area networking"
+      },
+      {
+        "id": "d",
+        "text": "Network backup"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Remote access\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0181",
+    "type": "mcq",
+    "question": "Which of the following is NOT a characteristic of TCP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Connection-oriented"
+      },
+      {
+        "id": "b",
+        "text": "Reliable"
+      },
+      {
+        "id": "c",
+        "text": "Flow control"
+      },
+      {
+        "id": "d",
+        "text": "Stateless"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "TCP provides reliable, connection-oriented communication with error checking and flow control."
+  },
+  {
+    "id": "dcn-0182",
+    "type": "mcq",
+    "question": "Which topology is characterized by a loop?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Star"
+      },
+      {
+        "id": "b",
+        "text": "Ring"
+      },
+      {
+        "id": "c",
+        "text": "Bus"
+      },
+      {
+        "id": "d",
+        "text": "Mesh"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Network topology describes the physical or logical arrangement of devices in a network."
+  },
+  {
+    "id": "dcn-0183",
+    "type": "mcq",
+    "question": "What is the role of a subnet mask?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To identify the network part"
+      },
+      {
+        "id": "b",
+        "text": "To encrypt data"
+      },
+      {
+        "id": "c",
+        "text": "To compress data"
+      },
+      {
+        "id": "d",
+        "text": "To segment files"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"To identify the network part\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0184",
+    "type": "mcq",
+    "question": "Which of the following is a disadvantage of a bus topology?",
+    "options": [
+      {
+        "id": "a",
+        "text": "High cost"
+      },
+      {
+        "id": "b",
+        "text": "Limited cable length"
+      },
+      {
+        "id": "c",
+        "text": "Difficult to troubleshoot"
+      },
+      {
+        "id": "d",
+        "text": "Single point of failure"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Network topology describes the physical or logical arrangement of devices in a network."
+  },
+  {
+    "id": "dcn-0185",
+    "type": "mcq",
+    "question": "What does QoS stand for in networking?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Quality of Service"
+      },
+      {
+        "id": "b",
+        "text": "Quantity of Service"
+      },
+      {
+        "id": "c",
+        "text": "Query of Service"
+      },
+      {
+        "id": "d",
+        "text": "Quick Operating System"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0186",
+    "type": "mcq",
+    "question": "What is the primary function of the transport layer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Route packets"
+      },
+      {
+        "id": "b",
+        "text": "Ensure reliable transmission"
+      },
+      {
+        "id": "c",
+        "text": "Manage sessions"
+      },
+      {
+        "id": "d",
+        "text": "Handle error detection"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Ensure reliable transmission\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0187",
+    "type": "mcq",
+    "question": "In a wireless network, what does SSID stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Standard Service Identifier"
+      },
+      {
+        "id": "b",
+        "text": "Service Set Identifier"
+      },
+      {
+        "id": "c",
+        "text": "Security System Identifier"
+      },
+      {
+        "id": "d",
+        "text": "Signal Strength Identifier"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0188",
+    "type": "mcq",
+    "question": "Which type of cable is commonly used in Ethernet networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Coaxial"
+      },
+      {
+        "id": "b",
+        "text": "Twisted pair"
+      },
+      {
+        "id": "c",
+        "text": "Fiber optic"
+      },
+      {
+        "id": "d",
+        "text": "Serial"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0189",
+    "type": "mcq",
+    "question": "What is the primary role of the application layer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data transmission"
+      },
+      {
+        "id": "b",
+        "text": "User interface"
+      },
+      {
+        "id": "c",
+        "text": "Routing"
+      },
+      {
+        "id": "d",
+        "text": "Session management"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"User interface\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0190",
+    "type": "mcq",
+    "question": "Which protocol is primarily used for file transfers on the Internet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "SMTP"
+      },
+      {
+        "id": "b",
+        "text": "POP3"
+      },
+      {
+        "id": "c",
+        "text": "FTP"
+      },
+      {
+        "id": "d",
+        "text": "HTTP"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Protocols define the rules and standards for communication between network devices."
+  },
+  {
+    "id": "dcn-0191",
+    "type": "mcq",
+    "question": "What does VLAN stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtual Local Area Network"
+      },
+      {
+        "id": "b",
+        "text": "Virtual Line Area Network"
+      },
+      {
+        "id": "c",
+        "text": "Variable Local Area Network"
+      },
+      {
+        "id": "d",
+        "text": "Virtual Link Area Network"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Virtual Local Area Network\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0192",
+    "type": "mcq",
+    "question": "Which of the following addresses is Used for local communication within a private network?",
+    "options": [
+      {
+        "id": "a",
+        "text": "127.0.0.1"
+      },
+      {
+        "id": "b",
+        "text": "8.8.8.8"
+      },
+      {
+        "id": "c",
+        "text": "172.16.0.1"
+      },
+      {
+        "id": "d",
+        "text": "10.0.0.1"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0193",
+    "type": "mcq",
+    "question": "In networking, what does the term \"ping\" refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A network troubleshooting tool"
+      },
+      {
+        "id": "b",
+        "text": "A file transfer protocol"
+      },
+      {
+        "id": "c",
+        "text": "A routing protocol"
+      },
+      {
+        "id": "d",
+        "text": "A data compression method"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0194",
+    "type": "mcq",
+    "question": "What is the main advantage of using fiber optic cables?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Low cost"
+      },
+      {
+        "id": "b",
+        "text": "High bandwidth"
+      },
+      {
+        "id": "c",
+        "text": "Easy installation"
+      },
+      {
+        "id": "d",
+        "text": "Greater signal loss"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"High bandwidth\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0195",
+    "type": "mcq",
+    "question": "What does the acronym ISP stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Internet Service Provider"
+      },
+      {
+        "id": "b",
+        "text": "Internal Service Provider"
+      },
+      {
+        "id": "c",
+        "text": "Internet Service Provider"
+      },
+      {
+        "id": "d",
+        "text": "Internal Service Provider"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "The correct answer is \"Internet Service Provider\" because it best matches the networking concept asked in the question."
+  },
+  {
+    "id": "dcn-0196",
+    "type": "mcq",
+    "question": "What protocol is used for network time synchronization?",
+    "options": [
+      {
+        "id": "a",
+        "text": "SNTP"
+      },
+      {
+        "id": "b",
+        "text": "FTP"
+      },
+      {
+        "id": "c",
+        "text": "HTTP"
+      },
+      {
+        "id": "d",
+        "text": "SMTP"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0197",
+    "type": "mcq",
+    "question": "Which of the following is NOT a valid IP address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "192.168.0.1"
+      },
+      {
+        "id": "b",
+        "text": "256.100.50.25"
+      },
+      {
+        "id": "c",
+        "text": "10.0.0.1"
+      },
+      {
+        "id": "d",
+        "text": "172.16.0.5"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "IP handles addressing and routing of packets across networks."
+  },
+  {
+    "id": "dcn-0198",
+    "type": "mcq",
+    "question": "In TCP, what does the term “window” refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data size"
+      },
+      {
+        "id": "b",
+        "text": "Buffer size"
+      },
+      {
+        "id": "c",
+        "text": "A type of packet"
+      },
+      {
+        "id": "d",
+        "text": "Transmission speed"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "TCP provides reliable, connection-oriented communication with error checking and flow control."
+  },
+  {
+    "id": "dcn-0199",
+    "type": "mcq",
+    "question": "Which of this is not a network edge device?",
+    "options": [
+      {
+        "id": "a",
+        "text": "PC"
+      },
+      {
+        "id": "b",
+        "text": "Smartphone"
+      },
+      {
+        "id": "c",
+        "text": "Switch"
+      },
+      {
+        "id": "d",
+        "text": "Laptop"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  },
+  {
+    "id": "dcn-0200",
+    "type": "mcq",
+    "question": "What was the name of the first network?",
+    "options": [
+      {
+        "id": "a",
+        "text": "CNNET"
+      },
+      {
+        "id": "b",
+        "text": "ASAPNET"
+      },
+      {
+        "id": "c",
+        "text": "ARPANET"
+      },
+      {
+        "id": "d",
+        "text": "NSFNET"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "dcn"
+    ],
+    "explanation": "Computer networks allow devices to communicate and share resources using communication protocols."
+  }
+]

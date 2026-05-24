@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;700&family=Patrick+Hand&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-desk-light: 253 251 247;
+    --color-desk-dark: 242 239 233;
+    --color-paper-base: 255 249 246;
+    --color-ink-main: 74 69 67;
+    --color-ink-muted: 122 107 95;
+    --color-ink-faint: 191 182 176;
+    --color-ink-pencil: 209 204 199;
+    --color-primary-50: 230 242 255;
+    --color-primary-100: 204 229 255;
+    --color-primary-200: 179 217 255;
+    --color-primary-300: 153 204 255;
+    --color-primary-500: 127 182 255;
+    --color-accent-peach: 255 158 153;
+    --color-accent-sage: 129 210 157;
+    --color-accent-butter: 255 243 214;
+    --color-accent-lavender: 232 220 245;
+    --color-mascot-body: 255 220 215;
+    --color-mascot-ink: 74 69 67;
+    --color-mascot-border: 179 217 255;
+    --color-mascot-cheek: 255 158 153;
+  }
+
+  :root.dark {
+    /* Warm charcoal backgrounds - not pure gray */
+    --color-desk-light: 30 28 26;
+    --color-desk-dark: 22 20 18;
+    --color-paper-base: 50 46 43;
+    /* Warm light text - not pure white */
+    --color-ink-main: 245 240 235;
+    --color-ink-muted: 175 165 155;
+    --color-ink-faint: 95 88 80;
+    --color-ink-pencil: 65 60 55;
+    /* Blues - slightly deeper but still vivid */
+    --color-primary-50: 35 40 50;
+    --color-primary-100: 40 55 75;
+    --color-primary-200: 55 80 115;
+    --color-primary-300: 70 105 150;
+    --color-primary-500: 100 155 225;
+    /* Accents - kept vibrant so feedback is clearly visible */
+    --color-accent-peach: 220 120 110;
+    --color-accent-sage: 100 190 130;
+    --color-accent-butter: 210 185 130;
+    --color-accent-lavender: 170 145 200;
+    --color-mascot-body: 255 220 215;
+    --color-mascot-ink: 74 69 67;
+    --color-mascot-border: 179 217 255;
+    --color-mascot-cheek: 255 158 153;
+  }
+
+  body {
+    @apply bg-desk-light text-ink-main font-body antialiased transition-colors duration-slow;
+  }
+}
+
+@layer utilities {
+  .question-nav::-webkit-scrollbar {
+    width: 3px;
+  }
+  .question-nav::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .question-nav::-webkit-scrollbar-thumb {
+    background: rgb(191 182 176);
+    border-radius: 999px;
+  }
+  .question-nav {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(191 182 176) transparent;
+  }
+
+  .question-slider {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 6px;
+    background: rgb(191 182 176 / 0.3);
+    border-radius: 999px;
+    outline: none;
+    cursor: pointer;
+  }
+  .question-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: rgb(127 182 255);
+    border: 2px solid white;
+    box-shadow: 0 2px 6px rgb(122 107 95 / 0.2);
+    cursor: pointer;
+    transition: transform 0.15s;
+  }
+  .question-slider::-webkit-slider-thumb:hover {
+    transform: scale(1.2);
+  }
+  .question-slider::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: rgb(127 182 255);
+    border: 2px solid white;
+    box-shadow: 0 2px 6px rgb(122 107 95 / 0.2);
+    cursor: pointer;
+  }
+  .texture-grain {
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyBAMAAADsEZWCAAAAGFBMVEUAAAAAAP////8AAAAAAAAAAAAAAAAAAAA/0b4OAAAACHRSTlMAMwAAMwAAMwBEB/AAAAA2SURBVDjLjYw7DgAxCANzS/f+J8v2j1SkkFgyOFiW5pA0EklzSRqJpLkkjUTSXBJGA9lB9vL4yQshd/F+fAAAAABJRU5ErkJggg==");
+    background-repeat: repeat;
+    opacity: 0.1;
+    pointer-events: none;
+    transform: translateZ(0);
+    will-change: transform;
+  }
+
+  .texture-paper {
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAGFBMVEUAAAAAAP////8AAAAAAAAAAAAAAAAAAAA/0b4OAAAACHRSTlMAMwAAMwAAMwBEB/AAAAAqSURBVCjPpcw3EQAwDAMAy/z+i0U4yE4N9EgwzTDTDDvNMtMMO80w06zPA41eH1/9dEMyAAAAAElFTkSuQmCC");
+    background-repeat: repeat;
+    opacity: 0.05;
+    pointer-events: none;
+    transform: translateZ(0);
+  }
+}

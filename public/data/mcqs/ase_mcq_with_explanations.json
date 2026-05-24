@@ -1,0 +1,6233 @@
+[
+  {
+    "id": "ase-0001",
+    "type": "mcq",
+    "question": "Software is defined as",
+    "options": [
+      {
+        "id": "a",
+        "text": "Set of programs, documentation & configuration of data"
+      },
+      {
+        "id": "b",
+        "text": "Set of programs"
+      },
+      {
+        "id": "c",
+        "text": "documentation and configuration of data"
+      },
+      {
+        "id": "d",
+        "text": "None of the mentioned"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0002",
+    "type": "mcq",
+    "question": "What is Software Engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Designing a software"
+      },
+      {
+        "id": "b",
+        "text": "Testing a software"
+      },
+      {
+        "id": "c",
+        "text": "Application of engineering principles to the design a software"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0003",
+    "type": "mcq",
+    "question": "Who is the father of Software Engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Margaret Hamilton"
+      },
+      {
+        "id": "b",
+        "text": "Watts S. Humphrey"
+      },
+      {
+        "id": "c",
+        "text": "Alan Turing"
+      },
+      {
+        "id": "d",
+        "text": "Boris Beizer"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0004",
+    "type": "mcq",
+    "question": "is a software development activity that is not a part of software processes.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Validation"
+      },
+      {
+        "id": "b",
+        "text": "Specification"
+      },
+      {
+        "id": "c",
+        "text": "Development"
+      },
+      {
+        "id": "d",
+        "text": "Dependence"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0005",
+    "type": "mcq",
+    "question": "Which of the following is NOT a characteristic of software?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Software is developed or engineered"
+      },
+      {
+        "id": "b",
+        "text": "Software does not wear out"
+      },
+      {
+        "id": "c",
+        "text": "Software is manufactured"
+      },
+      {
+        "id": "d",
+        "text": "Software is easily destroyed"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0006",
+    "type": "mcq",
+    "question": "In the software engineering context, which of the following describes a software component?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A part of the software that can be reused"
+      },
+      {
+        "id": "b",
+        "text": "A complete application"
+      },
+      {
+        "id": "c",
+        "text": "A programming language"
+      },
+      {
+        "id": "d",
+        "text": "A set of hardware specifications"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0007",
+    "type": "mcq",
+    "question": "Which of the following is NOT an application area of software engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Web development"
+      },
+      {
+        "id": "b",
+        "text": "Database management"
+      },
+      {
+        "id": "c",
+        "text": "Music production"
+      },
+      {
+        "id": "d",
+        "text": "Automotive engineering"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0008",
+    "type": "mcq",
+    "question": "What is the primary goal of layered technologies in software engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase software cost"
+      },
+      {
+        "id": "b",
+        "text": "To enhance system performance and security"
+      },
+      {
+        "id": "c",
+        "text": "To abstract complexity"
+      },
+      {
+        "id": "d",
+        "text": "To reduce code size"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0009",
+    "type": "mcq",
+    "question": "Which process model is characterized by a linear sequential flow?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Incremental model"
+      },
+      {
+        "id": "b",
+        "text": "Agile model"
+      },
+      {
+        "id": "c",
+        "text": "Waterfall model"
+      },
+      {
+        "id": "d",
+        "text": "Spiral model"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Waterfall model\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0010",
+    "type": "mcq",
+    "question": "In which model is software developed in small, incremental releases?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Waterfall model"
+      },
+      {
+        "id": "b",
+        "text": "Incremental model"
+      },
+      {
+        "id": "c",
+        "text": "Spiral model"
+      },
+      {
+        "id": "d",
+        "text": "Prototyping model"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0011",
+    "type": "mcq",
+    "question": "The Prototyping Model is particularly useful when:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Requirements are well-understood"
+      },
+      {
+        "id": "b",
+        "text": "Requirements are unclear or evolving"
+      },
+      {
+        "id": "c",
+        "text": "Time constraints are strict"
+      },
+      {
+        "id": "d",
+        "text": "The project is large"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Requirements are unclear or evolving\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0012",
+    "type": "mcq",
+    "question": "What is a key advantage of the Spiral Model?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is the least expensive"
+      },
+      {
+        "id": "b",
+        "text": "It is a purely sequential model"
+      },
+      {
+        "id": "c",
+        "text": "It allows for risk assessment at each iteration"
+      },
+      {
+        "id": "d",
+        "text": "It requires less documentation"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"It allows for risk assessment at each iteration\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0013",
+    "type": "mcq",
+    "question": "In Agile development, which principle emphasizes customer collaboration?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Following a plan"
+      },
+      {
+        "id": "b",
+        "text": "Working software"
+      },
+      {
+        "id": "c",
+        "text": "Individuals and interactions"
+      },
+      {
+        "id": "d",
+        "text": "Customer collaboration over contract negotiation"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Agile development emphasizes iterative progress, collaboration, and adaptability."
+  },
+  {
+    "id": "ase-0014",
+    "type": "mcq",
+    "question": "What does the term 'process' refer to in software engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A programming language"
+      },
+      {
+        "id": "b",
+        "text": "A sequence of tasks performed to develop software"
+      },
+      {
+        "id": "c",
+        "text": "A set of documentation practices"
+      },
+      {
+        "id": "d",
+        "text": "A testing methodology"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0015",
+    "type": "mcq",
+    "question": "Which of the following is NOT a layer in the layered technology model?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tool"
+      },
+      {
+        "id": "b",
+        "text": "Method"
+      },
+      {
+        "id": "c",
+        "text": "Process"
+      },
+      {
+        "id": "d",
+        "text": "Presentation"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Presentation\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0016",
+    "type": "mcq",
+    "question": "Which process model allows for concurrent development of different components?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Waterfall model"
+      },
+      {
+        "id": "b",
+        "text": "Incremental model"
+      },
+      {
+        "id": "c",
+        "text": "Spiral model"
+      },
+      {
+        "id": "d",
+        "text": "Agile model"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Agile model\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0017",
+    "type": "mcq",
+    "question": "What is the primary focus of the Waterfall Model?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Flexibility in requirements"
+      },
+      {
+        "id": "b",
+        "text": "A sequential phase completion"
+      },
+      {
+        "id": "c",
+        "text": "Early user feedback"
+      },
+      {
+        "id": "d",
+        "text": "Risk management"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The waterfall model follows a sequential software development lifecycle."
+  },
+  {
+    "id": "ase-0018",
+    "type": "mcq",
+    "question": "Which of the following tools is commonly used for software development?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Word processor"
+      },
+      {
+        "id": "b",
+        "text": "Version control systems"
+      },
+      {
+        "id": "c",
+        "text": "Spreadsheet software"
+      },
+      {
+        "id": "d",
+        "text": "Presentation software"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0019",
+    "type": "mcq",
+    "question": "The Agile Manifesto values:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Processes and tools over individuals"
+      },
+      {
+        "id": "b",
+        "text": "Comprehensive documentation over working software"
+      },
+      {
+        "id": "c",
+        "text": "Customer collaboration over contract negotiation"
+      },
+      {
+        "id": "d",
+        "text": "Following a plan over responding to change"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Agile development emphasizes iterative progress, collaboration, and adaptability."
+  },
+  {
+    "id": "ase-0020",
+    "type": "mcq",
+    "question": "Which of the following is a disadvantage of the Waterfall Model?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Clear documentation"
+      },
+      {
+        "id": "b",
+        "text": "High risk and uncertainty"
+      },
+      {
+        "id": "c",
+        "text": "Simple to manage"
+      },
+      {
+        "id": "d",
+        "text": "Easy to understand"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The waterfall model follows a sequential software development lifecycle."
+  },
+  {
+    "id": "ase-0021",
+    "type": "mcq",
+    "question": "What is the main purpose of software process models?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To eliminate the need for documentation"
+      },
+      {
+        "id": "b",
+        "text": "To provide a framework for planning, structuring, and controlling the process"
+      },
+      {
+        "id": "c",
+        "text": "To restrict flexibility in software development"
+      },
+      {
+        "id": "d",
+        "text": "To enhance hardware specifications"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0022",
+    "type": "mcq",
+    "question": "Which model emphasizes iterative development and risk assessment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Waterfall model"
+      },
+      {
+        "id": "b",
+        "text": "Incremental model"
+      },
+      {
+        "id": "c",
+        "text": "Spiral model"
+      },
+      {
+        "id": "d",
+        "text": "Prototyping model"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Spiral model\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0023",
+    "type": "mcq",
+    "question": "Which characteristic best describes software maintenance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It involves fixing defects only"
+      },
+      {
+        "id": "b",
+        "text": "It is unnecessary for software"
+      },
+      {
+        "id": "c",
+        "text": "It is the process of modifying a software system after delivery"
+      },
+      {
+        "id": "d",
+        "text": "It is the same as software development"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0024",
+    "type": "mcq",
+    "question": "The Incremental Model is best used when:",
+    "options": [
+      {
+        "id": "a",
+        "text": "All requirements are known in advance"
+      },
+      {
+        "id": "b",
+        "text": "The system needs to be built quickly"
+      },
+      {
+        "id": "c",
+        "text": "The software is complex and needs to evolve"
+      },
+      {
+        "id": "d",
+        "text": "It is unnecessary to release partial systems"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"The system needs to be built quickly\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0025",
+    "type": "mcq",
+    "question": "In which model do risk assessment and mitigation play a crucial role?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agile model"
+      },
+      {
+        "id": "b",
+        "text": "Waterfall model"
+      },
+      {
+        "id": "c",
+        "text": "Spiral model"
+      },
+      {
+        "id": "d",
+        "text": "Incremental model"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Spiral model\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0026",
+    "type": "mcq",
+    "question": "Which of the following statements about the Agile model is true?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It requires detailed documentation at every step"
+      },
+      {
+        "id": "b",
+        "text": "It discourages customer involvement"
+      },
+      {
+        "id": "c",
+        "text": "It promotes adaptive planning and encourages rapid responses to change"
+      },
+      {
+        "id": "d",
+        "text": "It is exclusively suitable for small projects"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Agile development emphasizes iterative progress, collaboration, and adaptability."
+  },
+  {
+    "id": "ase-0027",
+    "type": "mcq",
+    "question": "What is the primary purpose of using software engineering tools?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To replace human effort"
+      },
+      {
+        "id": "b",
+        "text": "To enhance productivity and facilitate software development"
+      },
+      {
+        "id": "c",
+        "text": "To make software more complex"
+      },
+      {
+        "id": "d",
+        "text": "To ensure compliance with regulations"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0028",
+    "type": "mcq",
+    "question": "In the context of software engineering, what is ‘refactoring’?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Adding new features without changing the existing behavior"
+      },
+      {
+        "id": "b",
+        "text": "Redesigning the architecture"
+      },
+      {
+        "id": "c",
+        "text": "Fixing bugs in the software"
+      },
+      {
+        "id": "d",
+        "text": "Improving code structure without changing its functionality"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0029",
+    "type": "mcq",
+    "question": "Which of the following models allows for iterative development?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Waterfall model"
+      },
+      {
+        "id": "b",
+        "text": "Incremental model"
+      },
+      {
+        "id": "c",
+        "text": "Spiral model"
+      },
+      {
+        "id": "d",
+        "text": "Both B and C"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Both B and C\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0030",
+    "type": "mcq",
+    "question": "Which of the following is NOT a common Agile framework?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scrum"
+      },
+      {
+        "id": "b",
+        "text": "Kanban"
+      },
+      {
+        "id": "c",
+        "text": "Waterfall"
+      },
+      {
+        "id": "d",
+        "text": "Extreme Programming (XP)"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Agile development emphasizes iterative progress, collaboration, and adaptability."
+  },
+  {
+    "id": "ase-0031",
+    "type": "mcq",
+    "question": "What is a significant advantage of using the Spiral Model?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Low cost"
+      },
+      {
+        "id": "b",
+        "text": "It eliminates the need for documentation"
+      },
+      {
+        "id": "c",
+        "text": "Continuous user feedback through iterations"
+      },
+      {
+        "id": "d",
+        "text": "Strictly follows a sequential approach"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Continuous user feedback through iterations\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0032",
+    "type": "mcq",
+    "question": "In software development, what does ‘requirements gathering’ involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Writing code for the software"
+      },
+      {
+        "id": "b",
+        "text": "Understanding and documenting user needs and expectations"
+      },
+      {
+        "id": "c",
+        "text": "Testing the software"
+      },
+      {
+        "id": "d",
+        "text": "Deploying the software"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0033",
+    "type": "mcq",
+    "question": "Which of the following is a primary role of a software engineer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Market analysis"
+      },
+      {
+        "id": "b",
+        "text": "Designing and developing software systems"
+      },
+      {
+        "id": "c",
+        "text": "Customer support"
+      },
+      {
+        "id": "d",
+        "text": "Hardware maintenance"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0034",
+    "type": "mcq",
+    "question": "What does the term ‘continuous integration’ refer to in Agile development?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keeping software features isolated"
+      },
+      {
+        "id": "b",
+        "text": "Regularly merging code changes into a central repository"
+      },
+      {
+        "id": "c",
+        "text": "Completing a project in one go"
+      },
+      {
+        "id": "d",
+        "text": "Documenting every code change"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Agile development emphasizes iterative progress, collaboration, and adaptability."
+  },
+  {
+    "id": "ase-0035",
+    "type": "mcq",
+    "question": "Which model is best suited for projects where requirements are well-defined and unlikely to change?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spiral model"
+      },
+      {
+        "id": "b",
+        "text": "Waterfall model"
+      },
+      {
+        "id": "c",
+        "text": "Agile model"
+      },
+      {
+        "id": "d",
+        "text": "Prototyping model"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0036",
+    "type": "mcq",
+    "question": "What is the primary purpose of a project scope statement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To outline the project budget"
+      },
+      {
+        "id": "b",
+        "text": "To define what is included and excluded in the project"
+      },
+      {
+        "id": "c",
+        "text": "To assign project team roles"
+      },
+      {
+        "id": "d",
+        "text": "To identify project stakeholders"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0037",
+    "type": "mcq",
+    "question": "Feasibility studies are typically conducted during which phase of a project?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Initiation"
+      },
+      {
+        "id": "b",
+        "text": "Planning"
+      },
+      {
+        "id": "c",
+        "text": "Execution"
+      },
+      {
+        "id": "d",
+        "text": "Closure"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0038",
+    "type": "mcq",
+    "question": "Which of the following is NOT a component of a feasibility study?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Technical feasibility"
+      },
+      {
+        "id": "b",
+        "text": "Economic feasibility"
+      },
+      {
+        "id": "c",
+        "text": "Environmental feasibility"
+      },
+      {
+        "id": "d",
+        "text": "Marketing feasibility"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Marketing feasibility\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0039",
+    "type": "mcq",
+    "question": "What technique uses historical data to estimate future project tasks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analogous estimation"
+      },
+      {
+        "id": "b",
+        "text": "Parametric estimation"
+      },
+      {
+        "id": "c",
+        "text": "Bottom-up estimation"
+      },
+      {
+        "id": "d",
+        "text": "Three-point estimation"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0040",
+    "type": "mcq",
+    "question": "Which of the following is a common method for estimating project costs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Monte Carlo analysis"
+      },
+      {
+        "id": "b",
+        "text": "Critical path analysis"
+      },
+      {
+        "id": "c",
+        "text": "Delphi technique"
+      },
+      {
+        "id": "d",
+        "text": "Resource leveling"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0041",
+    "type": "mcq",
+    "question": "In effort estimation, what does the term “three-point estimate” refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using three different teams to estimate effort"
+      },
+      {
+        "id": "b",
+        "text": "Estimating best case, worst case, and most likely scenarios"
+      },
+      {
+        "id": "c",
+        "text": "A method involving three project phases"
+      },
+      {
+        "id": "d",
+        "text": "A standard deviation calculation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Estimating best case, worst case, and most likely scenarios\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0042",
+    "type": "mcq",
+    "question": "Which of the following is a disadvantage of expert judgment in effort estimation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Time-consuming"
+      },
+      {
+        "id": "b",
+        "text": "Can be biased"
+      },
+      {
+        "id": "c",
+        "text": "Inaccurate"
+      },
+      {
+        "id": "d",
+        "text": "Costly"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Can be biased\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0043",
+    "type": "mcq",
+    "question": "What is the primary goal of project scheduling?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To control project costs"
+      },
+      {
+        "id": "b",
+        "text": "To allocate resources efficiently"
+      },
+      {
+        "id": "c",
+        "text": "To determine project timelines"
+      },
+      {
+        "id": "d",
+        "text": "To assess project quality"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0044",
+    "type": "mcq",
+    "question": "In project management, what does the term 'resource leveling' refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Distributing project resources evenly"
+      },
+      {
+        "id": "b",
+        "text": "Adjusting project schedules to balance resource demands"
+      },
+      {
+        "id": "c",
+        "text": "Evaluating team member performance"
+      },
+      {
+        "id": "d",
+        "text": "Prioritizing project tasks"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0045",
+    "type": "mcq",
+    "question": "What is a common approach for developing a project schedule?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agile methodology"
+      },
+      {
+        "id": "b",
+        "text": "Waterfall methodology"
+      },
+      {
+        "id": "c",
+        "text": "Critical path method"
+      },
+      {
+        "id": "d",
+        "text": "Lean methodology"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0046",
+    "type": "mcq",
+    "question": "What is the main focus of quality planning in project management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Identifying project risks"
+      },
+      {
+        "id": "b",
+        "text": "Defining quality standards and metrics"
+      },
+      {
+        "id": "c",
+        "text": "Assigning team roles"
+      },
+      {
+        "id": "d",
+        "text": "Estimating project costs"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0047",
+    "type": "mcq",
+    "question": "Which of the following is a tool used in quality planning?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gantt chart"
+      },
+      {
+        "id": "b",
+        "text": "RACI matrix"
+      },
+      {
+        "id": "c",
+        "text": "Control chart"
+      },
+      {
+        "id": "d",
+        "text": "SWOT analysis"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0048",
+    "type": "mcq",
+    "question": "What does the term “quality assurance” refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Measuring project deliverables"
+      },
+      {
+        "id": "b",
+        "text": "Activities to ensure quality standards are met"
+      },
+      {
+        "id": "c",
+        "text": "Identifying quality risks"
+      },
+      {
+        "id": "d",
+        "text": "Developing quality metrics"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0049",
+    "type": "mcq",
+    "question": "Which standard is commonly used for quality management in projects?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ISO 9001"
+      },
+      {
+        "id": "b",
+        "text": "PMBOK"
+      },
+      {
+        "id": "c",
+        "text": "Six Sigma"
+      },
+      {
+        "id": "d",
+        "text": "PRINCE2"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0050",
+    "type": "mcq",
+    "question": "What is the role of the quality management plan?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To define how quality will be managed throughout the project"
+      },
+      {
+        "id": "b",
+        "text": "To identify project stakeholders"
+      },
+      {
+        "id": "c",
+        "text": "To estimate project costs"
+      },
+      {
+        "id": "d",
+        "text": "To allocate resources"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0051",
+    "type": "mcq",
+    "question": "What is the first step in the risk management process?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Risk control"
+      },
+      {
+        "id": "b",
+        "text": "Risk identification"
+      },
+      {
+        "id": "c",
+        "text": "Risk assessment"
+      },
+      {
+        "id": "d",
+        "text": "Risk monitoring"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Risk identification\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0052",
+    "type": "mcq",
+    "question": "What tool is commonly used to assess the probability and impact of risks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Risk matrix"
+      },
+      {
+        "id": "b",
+        "text": "Gantt chart"
+      },
+      {
+        "id": "c",
+        "text": "SWOT analysis"
+      },
+      {
+        "id": "d",
+        "text": "Fishbone diagram"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Risk matrix\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0053",
+    "type": "mcq",
+    "question": "What is a risk response strategy that involves taking steps to reduce the likelihood of a risk occurring?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Acceptance"
+      },
+      {
+        "id": "b",
+        "text": "Mitigation"
+      },
+      {
+        "id": "c",
+        "text": "Avoidance"
+      },
+      {
+        "id": "d",
+        "text": "Transference"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Mitigation\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0054",
+    "type": "mcq",
+    "question": "Which of the following describes “risk acceptance”?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Avoiding the risk altogether"
+      },
+      {
+        "id": "b",
+        "text": "Transferring the risk to another party"
+      },
+      {
+        "id": "c",
+        "text": "Acknowledging the risk and choosing to proceed"
+      },
+      {
+        "id": "d",
+        "text": "Implementing measures to reduce risk"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Acknowledging the risk and choosing to proceed\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0055",
+    "type": "mcq",
+    "question": "What is the purpose of a risk register?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To document project deliverables"
+      },
+      {
+        "id": "b",
+        "text": "To track identified risks and their management"
+      },
+      {
+        "id": "c",
+        "text": "To outline project scope"
+      },
+      {
+        "id": "d",
+        "text": "To monitor project costs"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"To track identified risks and their management\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0056",
+    "type": "mcq",
+    "question": "What is the primary purpose of project monitoring and controlling?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To define project scope"
+      },
+      {
+        "id": "b",
+        "text": "To ensure project objectives are met"
+      },
+      {
+        "id": "c",
+        "text": "To allocate resources"
+      },
+      {
+        "id": "d",
+        "text": "To develop project schedules"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0057",
+    "type": "mcq",
+    "question": "Which of the following metrics is commonly used to track project performance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Earned Value Management (EVM)"
+      },
+      {
+        "id": "b",
+        "text": "Cost-benefit analysis"
+      },
+      {
+        "id": "c",
+        "text": "SWOT analysis"
+      },
+      {
+        "id": "d",
+        "text": "Fishbone diagram"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0058",
+    "type": "mcq",
+    "question": "What does the term “baseline” refer to in project management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The final project report"
+      },
+      {
+        "id": "b",
+        "text": "The approved version of a project plan"
+      },
+      {
+        "id": "c",
+        "text": "The project scope"
+      },
+      {
+        "id": "d",
+        "text": "The project schedule"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0059",
+    "type": "mcq",
+    "question": "Which tool can be used for tracking project progress over time?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Resource histogram"
+      },
+      {
+        "id": "b",
+        "text": "Control chart"
+      },
+      {
+        "id": "c",
+        "text": "Pareto chart"
+      },
+      {
+        "id": "d",
+        "text": "Gantt chart"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0060",
+    "type": "mcq",
+    "question": "In project monitoring, what is the purpose of variance analysis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To identify new risks"
+      },
+      {
+        "id": "b",
+        "text": "To compare planned vs. actual performance"
+      },
+      {
+        "id": "c",
+        "text": "To assess stakeholder engagement"
+      },
+      {
+        "id": "d",
+        "text": "To develop project budgets"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0061",
+    "type": "mcq",
+    "question": "What is the primary focus of detailed scheduling?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Identifying project risks"
+      },
+      {
+        "id": "b",
+        "text": "Allocating resources effectively"
+      },
+      {
+        "id": "c",
+        "text": "Planning individual tasks and their timelines"
+      },
+      {
+        "id": "d",
+        "text": "Assessing project quality"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Planning individual tasks and their timelines\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0062",
+    "type": "mcq",
+    "question": "Which of the following is NOT typically included in a detailed project schedule?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Task durations"
+      },
+      {
+        "id": "b",
+        "text": "Resource assignments"
+      },
+      {
+        "id": "c",
+        "text": "Risk management plan"
+      },
+      {
+        "id": "d",
+        "text": "Task dependencies"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0063",
+    "type": "mcq",
+    "question": "What scheduling technique is used to determine the longest path through a project?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gantt chart"
+      },
+      {
+        "id": "b",
+        "text": "PERT analysis"
+      },
+      {
+        "id": "c",
+        "text": "Critical Path Method (CPM)"
+      },
+      {
+        "id": "d",
+        "text": "Resource leveling"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0064",
+    "type": "mcq",
+    "question": "What is the first step in the requirement engineering process?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Requirement specification"
+      },
+      {
+        "id": "b",
+        "text": "Problem recognition"
+      },
+      {
+        "id": "c",
+        "text": "Requirement validation"
+      },
+      {
+        "id": "d",
+        "text": "Requirement analysis"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0065",
+    "type": "mcq",
+    "question": "Which of the following is a common technique used for problem recognition?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Surveys"
+      },
+      {
+        "id": "b",
+        "text": "Interviews"
+      },
+      {
+        "id": "c",
+        "text": "SWOT analysis"
+      },
+      {
+        "id": "d",
+        "text": "Root cause analysis"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Root cause analysis\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0066",
+    "type": "mcq",
+    "question": "In requirement engineering, what is the main purpose of requirement elicitation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To document requirements"
+      },
+      {
+        "id": "b",
+        "text": "To identify stakeholders"
+      },
+      {
+        "id": "c",
+        "text": "To gather requirements from stakeholders"
+      },
+      {
+        "id": "d",
+        "text": "To validate requirements"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0067",
+    "type": "mcq",
+    "question": "Which of the following is NOT a requirement engineering task?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Requirement elicitation"
+      },
+      {
+        "id": "b",
+        "text": "Requirement validation"
+      },
+      {
+        "id": "c",
+        "text": "Requirement testing"
+      },
+      {
+        "id": "d",
+        "text": "Requirement specification"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0068",
+    "type": "mcq",
+    "question": "What is the goal of requirement specification?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To gather user feedback"
+      },
+      {
+        "id": "b",
+        "text": "To document detailed requirements"
+      },
+      {
+        "id": "c",
+        "text": "To analyze risks"
+      },
+      {
+        "id": "d",
+        "text": "To define project scope"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0069",
+    "type": "mcq",
+    "question": "What type of requirement specifies what the system should do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Non-functional requirement"
+      },
+      {
+        "id": "b",
+        "text": "Functional requirement"
+      },
+      {
+        "id": "c",
+        "text": "Performance requirement"
+      },
+      {
+        "id": "d",
+        "text": "Technical requirement"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0070",
+    "type": "mcq",
+    "question": "Which document typically contains functional requirements?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Requirement specification document"
+      },
+      {
+        "id": "b",
+        "text": "Design document"
+      },
+      {
+        "id": "c",
+        "text": "Test plan"
+      },
+      {
+        "id": "d",
+        "text": "Project charter"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0071",
+    "type": "mcq",
+    "question": "Use cases are primarily used to capture what aspect of requirements?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Non-functional requirements"
+      },
+      {
+        "id": "b",
+        "text": "Functional requirements"
+      },
+      {
+        "id": "c",
+        "text": "Design requirements"
+      },
+      {
+        "id": "d",
+        "text": "Implementation details"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0072",
+    "type": "mcq",
+    "question": "In a use case diagram, what does an actor represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A user or system that interacts with the system"
+      },
+      {
+        "id": "b",
+        "text": "A specific use case"
+      },
+      {
+        "id": "c",
+        "text": "A requirement type"
+      },
+      {
+        "id": "d",
+        "text": "A functional component"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"A user or system that interacts with the system\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0073",
+    "type": "mcq",
+    "question": "What is a primary benefit of using use cases?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They provide detailed design specifications"
+      },
+      {
+        "id": "b",
+        "text": "They help to identify system interactions"
+      },
+      {
+        "id": "c",
+        "text": "They eliminate the need for testing"
+      },
+      {
+        "id": "d",
+        "text": "They focus solely on performance metrics"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"They help to identify system interactions\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0074",
+    "type": "mcq",
+    "question": "What is the purpose of requirements validation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To gather requirements from stakeholders"
+      },
+      {
+        "id": "b",
+        "text": "To ensure requirements are correct and complete"
+      },
+      {
+        "id": "c",
+        "text": "To analyze the requirements"
+      },
+      {
+        "id": "d",
+        "text": "To prioritize requirements"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0075",
+    "type": "mcq",
+    "question": "Which of the following techniques is commonly used for requirements validation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prototyping"
+      },
+      {
+        "id": "b",
+        "text": "Code reviews"
+      },
+      {
+        "id": "c",
+        "text": "Performance testing"
+      },
+      {
+        "id": "d",
+        "text": "Static analysis"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0076",
+    "type": "mcq",
+    "question": "What is the main focus of requirement analysis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To document requirements"
+      },
+      {
+        "id": "b",
+        "text": "To assess the feasibility of requirements"
+      },
+      {
+        "id": "c",
+        "text": "To create test cases"
+      },
+      {
+        "id": "d",
+        "text": "To design the system architecture"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0077",
+    "type": "mcq",
+    "question": "Which of the following is a characteristic of good requirements?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ambiguity"
+      },
+      {
+        "id": "b",
+        "text": "Vague descriptions"
+      },
+      {
+        "id": "c",
+        "text": "Measurable"
+      },
+      {
+        "id": "d",
+        "text": "Subjectivity"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0078",
+    "type": "mcq",
+    "question": "Which technique involves creating a model of the system to validate requirements?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Use case modeling"
+      },
+      {
+        "id": "b",
+        "text": "Process modeling"
+      },
+      {
+        "id": "c",
+        "text": "Prototyping"
+      },
+      {
+        "id": "d",
+        "text": "Context diagramming"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0079",
+    "type": "mcq",
+    "question": "In requirement engineering, what does the term \"stakeholder\" refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A user of the system"
+      },
+      {
+        "id": "b",
+        "text": "Anyone who has an interest in the project"
+      },
+      {
+        "id": "c",
+        "text": "A project manager"
+      },
+      {
+        "id": "d",
+        "text": "A team member"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0080",
+    "type": "mcq",
+    "question": "Which of the following best describes a non-functional requirement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It specifies a particular behavior of the system"
+      },
+      {
+        "id": "b",
+        "text": "It defines how the system should perform under certain conditions"
+      },
+      {
+        "id": "c",
+        "text": "It describes a specific feature of the system"
+      },
+      {
+        "id": "d",
+        "text": "It is irrelevant to system behavior"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0081",
+    "type": "mcq",
+    "question": "What is a common pitfall in requirement specification?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Including too many details"
+      },
+      {
+        "id": "b",
+        "text": "Focusing too much on non-functional requirements"
+      },
+      {
+        "id": "c",
+        "text": "Using technical jargon"
+      },
+      {
+        "id": "d",
+        "text": "Not involving stakeholders"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0082",
+    "type": "mcq",
+    "question": "Which document is used to track changes in requirements throughout the project lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Requirement specification document"
+      },
+      {
+        "id": "b",
+        "text": "Change request document"
+      },
+      {
+        "id": "c",
+        "text": "Traceability matrix"
+      },
+      {
+        "id": "d",
+        "text": "Project plan"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0083",
+    "type": "mcq",
+    "question": "What does traceability in requirements engineering refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The ability to track changes in requirements"
+      },
+      {
+        "id": "b",
+        "text": "The relationship between requirements and their implementation"
+      },
+      {
+        "id": "c",
+        "text": "The accuracy of requirement specifications"
+      },
+      {
+        "id": "d",
+        "text": "The validation of requirements"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0084",
+    "type": "mcq",
+    "question": "What is a key outcome of the requirement elicitation process?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Identifying potential risks"
+      },
+      {
+        "id": "b",
+        "text": "Generating a requirements list"
+      },
+      {
+        "id": "c",
+        "text": "Developing a project plan"
+      },
+      {
+        "id": "d",
+        "text": "Creating design specifications"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0085",
+    "type": "mcq",
+    "question": "In a use case, what is the \"main success scenario\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The ideal flow of events when everything goes right"
+      },
+      {
+        "id": "b",
+        "text": "The alternative flows when something goes wrong"
+      },
+      {
+        "id": "c",
+        "text": "The overall system performance"
+      },
+      {
+        "id": "d",
+        "text": "The user interface design"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"The ideal flow of events when everything goes right\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0086",
+    "type": "mcq",
+    "question": "Which of the following is a method for gathering requirements from users?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Code review"
+      },
+      {
+        "id": "b",
+        "text": "Prototyping"
+      },
+      {
+        "id": "c",
+        "text": "Interviews"
+      },
+      {
+        "id": "d",
+        "text": "Debugging"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0087",
+    "type": "mcq",
+    "question": "What is the primary purpose of a requirement specification document?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To outline the project timeline"
+      },
+      {
+        "id": "b",
+        "text": "To communicate requirements to stakeholders"
+      },
+      {
+        "id": "c",
+        "text": "To track project costs"
+      },
+      {
+        "id": "d",
+        "text": "To manage project risks"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0088",
+    "type": "mcq",
+    "question": "What is the role of prototypes in requirement validation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They replace the need for documentation"
+      },
+      {
+        "id": "b",
+        "text": "They help users visualize and validate requirements"
+      },
+      {
+        "id": "c",
+        "text": "They are only used for testing"
+      },
+      {
+        "id": "d",
+        "text": "They are not useful in requirement validation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0089",
+    "type": "mcq",
+    "question": "What type of requirement would specify response time for a web application?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Functional requirement"
+      },
+      {
+        "id": "b",
+        "text": "Non-functional requirement"
+      },
+      {
+        "id": "c",
+        "text": "Technical requirement"
+      },
+      {
+        "id": "d",
+        "text": "User requirement"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0090",
+    "type": "mcq",
+    "question": "Which of the following is essential for ensuring requirements are understood by all stakeholders?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Technical jargon"
+      },
+      {
+        "id": "b",
+        "text": "User training"
+      },
+      {
+        "id": "c",
+        "text": "Clear and concise language"
+      },
+      {
+        "id": "d",
+        "text": "Strict adherence to standards"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0091",
+    "type": "mcq",
+    "question": "What is a common reason for requirement changes during a project?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Market conditions"
+      },
+      {
+        "id": "b",
+        "text": "Team member changes"
+      },
+      {
+        "id": "c",
+        "text": "Budget constraints"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0092",
+    "type": "mcq",
+    "question": "How can requirements be prioritized effectively?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By stakeholder voting"
+      },
+      {
+        "id": "b",
+        "text": "By assigning numerical values based on importance"
+      },
+      {
+        "id": "c",
+        "text": "By random selection"
+      },
+      {
+        "id": "d",
+        "text": "By team discussions only"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0093",
+    "type": "mcq",
+    "question": "What does SWOT stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strengths, Weaknesses, Opportunities, Threats"
+      },
+      {
+        "id": "b",
+        "text": "Systems, Workflows, Objectives, Tactics"
+      },
+      {
+        "id": "c",
+        "text": "Strengths, Weaknesses, Options, Trends"
+      },
+      {
+        "id": "d",
+        "text": "Systems, Weaknesses, Objectives, Tactics"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Strengths, Weaknesses, Opportunities, Threats\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0094",
+    "type": "mcq",
+    "question": "What is the primary purpose of a Gantt chart?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To list all project resources"
+      },
+      {
+        "id": "b",
+        "text": "To visually represent a project schedule"
+      },
+      {
+        "id": "c",
+        "text": "To calculate project costs"
+      },
+      {
+        "id": "d",
+        "text": "To define project scope"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"To visually represent a project schedule\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0095",
+    "type": "mcq",
+    "question": "What is a key advantage of using a Gantt chart in project management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It eliminates the need for scheduling"
+      },
+      {
+        "id": "b",
+        "text": "It provides a clear visual overview of project timelines"
+      },
+      {
+        "id": "c",
+        "text": "It offers detailed cost breakdowns"
+      },
+      {
+        "id": "d",
+        "text": "It focuses solely on team roles"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0096",
+    "type": "mcq",
+    "question": "Which software tool is commonly used to create Gantt charts?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Microsoft Word"
+      },
+      {
+        "id": "b",
+        "text": "Microsoft Excel"
+      },
+      {
+        "id": "c",
+        "text": "Microsoft PowerPoint"
+      },
+      {
+        "id": "d",
+        "text": "Microsoft Project"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0097",
+    "type": "mcq",
+    "question": "In project management, which aspect does a Gantt chart NOT typically address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Task timelines"
+      },
+      {
+        "id": "b",
+        "text": "Resource allocation"
+      },
+      {
+        "id": "c",
+        "text": "Budget estimation"
+      },
+      {
+        "id": "d",
+        "text": "Risk management"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0098",
+    "type": "mcq",
+    "question": "Which one of the following activities is not recommended for software processes in software engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Software Evolution"
+      },
+      {
+        "id": "b",
+        "text": "Software Verification"
+      },
+      {
+        "id": "c",
+        "text": "Software Testing & Validation"
+      },
+      {
+        "id": "d",
+        "text": "Software designing"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0099",
+    "type": "mcq",
+    "question": "originally proposed the spiral model.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pressman"
+      },
+      {
+        "id": "b",
+        "text": "Royce"
+      },
+      {
+        "id": "c",
+        "text": "IBM"
+      },
+      {
+        "id": "d",
+        "text": "Barry Boehm"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Barry Boehm\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0100",
+    "type": "mcq",
+    "question": "What does SDLC stands for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "System Design Life Cycle"
+      },
+      {
+        "id": "b",
+        "text": "Software Design Life Cycle"
+      },
+      {
+        "id": "c",
+        "text": "Software Development Life Cycle"
+      },
+      {
+        "id": "d",
+        "text": "System Development Life cycle"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Software Development Life Cycle\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0101",
+    "type": "mcq",
+    "question": "What is the primary purpose of verification in software testing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To ensure the software meets user requirements."
+      },
+      {
+        "id": "b",
+        "text": "To check if the software is built according to specifications."
+      },
+      {
+        "id": "c",
+        "text": "To identify defects in the software."
+      },
+      {
+        "id": "d",
+        "text": "To validate user experience."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0102",
+    "type": "mcq",
+    "question": "Which of the following is a key difference between verification and validation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Verification is done before validation."
+      },
+      {
+        "id": "b",
+        "text": "Validation is concerned with requirements; verification is not."
+      },
+      {
+        "id": "c",
+        "text": "Verification involves actual execution of the software."
+      },
+      {
+        "id": "d",
+        "text": "Both A and B."
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Both A and B.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0103",
+    "type": "mcq",
+    "question": "What does validation ensure in the context of software testing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The software has no bugs."
+      },
+      {
+        "id": "b",
+        "text": "The software meets the business needs and requirements."
+      },
+      {
+        "id": "c",
+        "text": "The software complies with coding standards."
+      },
+      {
+        "id": "d",
+        "text": "The software runs on the intended platforms."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0104",
+    "type": "mcq",
+    "question": "What is the main goal of software inspections?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To find defects after testing."
+      },
+      {
+        "id": "b",
+        "text": "To ensure code quality before implementation."
+      },
+      {
+        "id": "c",
+        "text": "To document the development process."
+      },
+      {
+        "id": "d",
+        "text": "To conduct performance testing."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0105",
+    "type": "mcq",
+    "question": "Which of the following is a benefit of conducting code reviews?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Decreased project cost."
+      },
+      {
+        "id": "b",
+        "text": "Improved code readability and maintainability."
+      },
+      {
+        "id": "c",
+        "text": "Increased number of defects."
+      },
+      {
+        "id": "d",
+        "text": "All of the above."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Improved code readability and maintainability.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0106",
+    "type": "mcq",
+    "question": "Which of the following best describes a formal review process?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Casual discussion among team members."
+      },
+      {
+        "id": "b",
+        "text": "Structured meeting with defined roles and outcomes."
+      },
+      {
+        "id": "c",
+        "text": "Ad hoc checking of code."
+      },
+      {
+        "id": "d",
+        "text": "Peer testing without documentation."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Structured meeting with defined roles and outcomes.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0107",
+    "type": "mcq",
+    "question": "What is a procedural unit in software design?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A block of code that performs a specific task."
+      },
+      {
+        "id": "b",
+        "text": "A comprehensive documentation of software functions."
+      },
+      {
+        "id": "c",
+        "text": "An individual software module."
+      },
+      {
+        "id": "d",
+        "text": "A compilation of all software requirements."
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0108",
+    "type": "mcq",
+    "question": "Which of the following is true about procedural units?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They can only be used in object-oriented programming."
+      },
+      {
+        "id": "b",
+        "text": "They are always larger than 100 lines of code."
+      },
+      {
+        "id": "c",
+        "text": "They promote modularity and reusability in software."
+      },
+      {
+        "id": "d",
+        "text": "They cannot interact with other units."
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"They promote modularity and reusability in software.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0109",
+    "type": "mcq",
+    "question": "What does size measure refer to in software metrics?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The performance of the software."
+      },
+      {
+        "id": "b",
+        "text": "The amount of resources consumed by the software."
+      },
+      {
+        "id": "c",
+        "text": "The quantifiable attributes of the software code."
+      },
+      {
+        "id": "d",
+        "text": "The time taken to develop software."
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0110",
+    "type": "mcq",
+    "question": "Which of the following is a commonly used size metric?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lines of Code (LOC)"
+      },
+      {
+        "id": "b",
+        "text": "Function Points"
+      },
+      {
+        "id": "c",
+        "text": "Use Case Points"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0111",
+    "type": "mcq",
+    "question": "What is the primary purpose of complexity metrics?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To assess the cost of software development."
+      },
+      {
+        "id": "b",
+        "text": "To measure the difficulty of understanding and maintaining software."
+      },
+      {
+        "id": "c",
+        "text": "To evaluate user satisfaction."
+      },
+      {
+        "id": "d",
+        "text": "To predict software performance."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"To measure the difficulty of understanding and maintaining software.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0112",
+    "type": "mcq",
+    "question": "Cyclomatic complexity is used to measure what aspect of software?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Memory usage"
+      },
+      {
+        "id": "b",
+        "text": "Control flow complexity"
+      },
+      {
+        "id": "c",
+        "text": "Code readability"
+      },
+      {
+        "id": "d",
+        "text": "User interface complexity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0113",
+    "type": "mcq",
+    "question": "What does the Halstead measure evaluate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The execution time of software."
+      },
+      {
+        "id": "b",
+        "text": "The size and complexity of the software code."
+      },
+      {
+        "id": "c",
+        "text": "The performance of software modules."
+      },
+      {
+        "id": "d",
+        "text": "The user experience of the software."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"The size and complexity of the software code.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0114",
+    "type": "mcq",
+    "question": "Which of the following metrics is part of the Halstead measure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Total number of operators"
+      },
+      {
+        "id": "b",
+        "text": "Cyclomatic complexity"
+      },
+      {
+        "id": "c",
+        "text": "Code coverage"
+      },
+      {
+        "id": "d",
+        "text": "Lines of code"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Total number of operators\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0115",
+    "type": "mcq",
+    "question": "Cyclomatic complexity is calculated based on which of the following?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The number of inputs to a function."
+      },
+      {
+        "id": "b",
+        "text": "The number of paths through a program."
+      },
+      {
+        "id": "c",
+        "text": "The total number of lines of code."
+      },
+      {
+        "id": "d",
+        "text": "The number of comments in the code."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"The number of paths through a program.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0116",
+    "type": "mcq",
+    "question": "What is the primary goal of unit testing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To test the software as a whole."
+      },
+      {
+        "id": "b",
+        "text": "To validate the interaction between components."
+      },
+      {
+        "id": "c",
+        "text": "To verify the correctness of individual components."
+      },
+      {
+        "id": "d",
+        "text": "To ensure user requirements are met."
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software testing helps identify defects and ensures software quality and reliability."
+  },
+  {
+    "id": "ase-0117",
+    "type": "mcq",
+    "question": "Which of the following tools is commonly used for unit testing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Selenium"
+      },
+      {
+        "id": "b",
+        "text": "JUnit"
+      },
+      {
+        "id": "c",
+        "text": "JIRA"
+      },
+      {
+        "id": "d",
+        "text": "Git"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software testing helps identify defects and ensures software quality and reliability."
+  },
+  {
+    "id": "ase-0118",
+    "type": "mcq",
+    "question": "Which of the following best describes a unit test?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A test of the entire application."
+      },
+      {
+        "id": "b",
+        "text": "A test of a specific function or method."
+      },
+      {
+        "id": "c",
+        "text": "A test of user interfaces."
+      },
+      {
+        "id": "d",
+        "text": "A performance test on the software."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"A test of a specific function or method.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0119",
+    "type": "mcq",
+    "question": "In which phase of software development is unit testing performed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "After deployment"
+      },
+      {
+        "id": "b",
+        "text": "During integration"
+      },
+      {
+        "id": "c",
+        "text": "During implementation"
+      },
+      {
+        "id": "d",
+        "text": "During requirements analysis"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0120",
+    "type": "mcq",
+    "question": "What is a common advantage of unit testing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It eliminates the need for system testing."
+      },
+      {
+        "id": "b",
+        "text": "It allows for early detection of bugs."
+      },
+      {
+        "id": "c",
+        "text": "It requires extensive documentation."
+      },
+      {
+        "id": "d",
+        "text": "It increases development time significantly."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software testing helps identify defects and ensures software quality and reliability."
+  },
+  {
+    "id": "ase-0121",
+    "type": "mcq",
+    "question": "What type of testing focuses on user requirements?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Unit Testing"
+      },
+      {
+        "id": "b",
+        "text": "Integration Testing"
+      },
+      {
+        "id": "c",
+        "text": "Acceptance Testing"
+      },
+      {
+        "id": "d",
+        "text": "System Testing"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software testing helps identify defects and ensures software quality and reliability."
+  },
+  {
+    "id": "ase-0122",
+    "type": "mcq",
+    "question": "Which of the following is NOT a verification activity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Inspections"
+      },
+      {
+        "id": "b",
+        "text": "Walkthroughs"
+      },
+      {
+        "id": "c",
+        "text": "Testing"
+      },
+      {
+        "id": "d",
+        "text": "Reviews"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Testing\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0123",
+    "type": "mcq",
+    "question": "Which type of metric helps in assessing maintainability?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Halstead Measure"
+      },
+      {
+        "id": "b",
+        "text": "Performance Metric"
+      },
+      {
+        "id": "c",
+        "text": "Security Metric"
+      },
+      {
+        "id": "d",
+        "text": "User Satisfaction Metric"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Halstead Measure\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0124",
+    "type": "mcq",
+    "question": "What is the result of high cyclomatic complexity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Easier to maintain code"
+      },
+      {
+        "id": "b",
+        "text": "Higher risk of bugs"
+      },
+      {
+        "id": "c",
+        "text": "Faster execution"
+      },
+      {
+        "id": "d",
+        "text": "Improved user experience"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Higher risk of bugs\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0125",
+    "type": "mcq",
+    "question": "Which approach is best for unit testing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Testing only at the end of development"
+      },
+      {
+        "id": "b",
+        "text": "Testing individual components as they are developed"
+      },
+      {
+        "id": "c",
+        "text": "Testing after deployment"
+      },
+      {
+        "id": "d",
+        "text": "Not testing at all"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software testing helps identify defects and ensures software quality and reliability."
+  },
+  {
+    "id": "ase-0126",
+    "type": "mcq",
+    "question": "What is a common practice for effective unit testing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Write tests after coding"
+      },
+      {
+        "id": "b",
+        "text": "Use mock objects for dependencies"
+      },
+      {
+        "id": "c",
+        "text": "Test only the happy paths"
+      },
+      {
+        "id": "d",
+        "text": "Avoid testing edge cases"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software testing helps identify defects and ensures software quality and reliability."
+  },
+  {
+    "id": "ase-0127",
+    "type": "mcq",
+    "question": "Which of the following is a metric to assess code quality?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Test coverage percentage"
+      },
+      {
+        "id": "b",
+        "text": "Lines of code"
+      },
+      {
+        "id": "c",
+        "text": "Number of users"
+      },
+      {
+        "id": "d",
+        "text": "Time to market"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0128",
+    "type": "mcq",
+    "question": "Which of the following statements is true about verification in the software development lifecycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ensuring the product is built correctly"
+      },
+      {
+        "id": "b",
+        "text": "Ensuring the right product is built"
+      },
+      {
+        "id": "c",
+        "text": "User acceptance"
+      },
+      {
+        "id": "d",
+        "text": "Performance testing"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0129",
+    "type": "mcq",
+    "question": "What type of testing ensures that individual components function correctly?",
+    "options": [
+      {
+        "id": "a",
+        "text": "System Testing"
+      },
+      {
+        "id": "b",
+        "text": "Integration Testing"
+      },
+      {
+        "id": "c",
+        "text": "Unit Testing"
+      },
+      {
+        "id": "d",
+        "text": "Acceptance Testing"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software testing helps identify defects and ensures software quality and reliability."
+  },
+  {
+    "id": "ase-0130",
+    "type": "mcq",
+    "question": "Which technique is typically used during code inspections?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Automated testing"
+      },
+      {
+        "id": "b",
+        "text": "Static analysis"
+      },
+      {
+        "id": "c",
+        "text": "Performance testing"
+      },
+      {
+        "id": "d",
+        "text": "Dynamic analysis"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Static analysis\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0131",
+    "type": "mcq",
+    "question": "Which of the following statements is true about unit tests?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They only test user interfaces."
+      },
+      {
+        "id": "b",
+        "text": "They should be run before the code is deployed."
+      },
+      {
+        "id": "c",
+        "text": "They are not essential for agile development."
+      },
+      {
+        "id": "d",
+        "text": "They should only cover positive scenarios."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"They should be run before the code is deployed.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0132",
+    "type": "mcq",
+    "question": "What is the primary focus of quality assurance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Finding defects in products"
+      },
+      {
+        "id": "b",
+        "text": "Preventing defects in processes"
+      },
+      {
+        "id": "c",
+        "text": "Ensuring customer satisfaction"
+      },
+      {
+        "id": "d",
+        "text": "Measuring product quality"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0133",
+    "type": "mcq",
+    "question": "Which of the following is a key activity in quality assurance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Product testing"
+      },
+      {
+        "id": "b",
+        "text": "Process auditing"
+      },
+      {
+        "id": "c",
+        "text": "Defect tracking"
+      },
+      {
+        "id": "d",
+        "text": "Customer feedback"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0134",
+    "type": "mcq",
+    "question": "What does a quality assurance plan typically include?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only testing methods"
+      },
+      {
+        "id": "b",
+        "text": "Project timeline"
+      },
+      {
+        "id": "c",
+        "text": "Standards and procedures"
+      },
+      {
+        "id": "d",
+        "text": "Marketing strategies"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0135",
+    "type": "mcq",
+    "question": "Which of the following is NOT a quality assurance activity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Training personnel"
+      },
+      {
+        "id": "b",
+        "text": "Process definition"
+      },
+      {
+        "id": "c",
+        "text": "Product inspection"
+      },
+      {
+        "id": "d",
+        "text": "Process monitoring"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0136",
+    "type": "mcq",
+    "question": "What is the primary goal of quality control?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To develop processes"
+      },
+      {
+        "id": "b",
+        "text": "To ensure products meet specifications"
+      },
+      {
+        "id": "c",
+        "text": "To train employees"
+      },
+      {
+        "id": "d",
+        "text": "To improve production efficiency"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0137",
+    "type": "mcq",
+    "question": "Which of the following tools is commonly used in quality control?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Flowcharts"
+      },
+      {
+        "id": "b",
+        "text": "Statistical process control (SPC)"
+      },
+      {
+        "id": "c",
+        "text": "Risk analysis"
+      },
+      {
+        "id": "d",
+        "text": "Cost-benefit analysis"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0138",
+    "type": "mcq",
+    "question": "What does quality control primarily involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Planning and documentation"
+      },
+      {
+        "id": "b",
+        "text": "Inspection and testing"
+      },
+      {
+        "id": "c",
+        "text": "Process improvement"
+      },
+      {
+        "id": "d",
+        "text": "Training and development"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0139",
+    "type": "mcq",
+    "question": "Which of the following best describes the concept of 'control limits' in quality control?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The maximum cost of production"
+      },
+      {
+        "id": "b",
+        "text": "The range of acceptable variation in a process"
+      },
+      {
+        "id": "c",
+        "text": "The minimum quality standard"
+      },
+      {
+        "id": "d",
+        "text": "The target market for a product"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0140",
+    "type": "mcq",
+    "question": "Which of the following statements best describes the difference between QA and QC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "QA is process-oriented; QC is product- oriented."
+      },
+      {
+        "id": "b",
+        "text": "QA focuses on documentation; QC focuses on training."
+      },
+      {
+        "id": "c",
+        "text": "QA is done before testing; QC is done after testing."
+      },
+      {
+        "id": "d",
+        "text": "Both A and C."
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Both A and C.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0141",
+    "type": "mcq",
+    "question": "Which of the following is a characteristic of quality assurance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reactive approach"
+      },
+      {
+        "id": "b",
+        "text": "Proactive approach"
+      },
+      {
+        "id": "c",
+        "text": "Focus on finished products"
+      },
+      {
+        "id": "d",
+        "text": "Inspection-oriented"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0142",
+    "type": "mcq",
+    "question": "Which of the following is a characteristic of quality control?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It involves auditing processes."
+      },
+      {
+        "id": "b",
+        "text": "It focuses on customer satisfaction."
+      },
+      {
+        "id": "c",
+        "text": "It is preventive in nature."
+      },
+      {
+        "id": "d",
+        "text": "It includes product testing."
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0143",
+    "type": "mcq",
+    "question": "Which activity would be considered part of quality assurance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Product inspection"
+      },
+      {
+        "id": "b",
+        "text": "Process design review"
+      },
+      {
+        "id": "c",
+        "text": "Defect reporting"
+      },
+      {
+        "id": "d",
+        "text": "Corrective action"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software quality ensures reliability, usability, efficiency, and maintainability."
+  },
+  {
+    "id": "ase-0144",
+    "type": "mcq",
+    "question": "What does CMM stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Capability Maturity Model"
+      },
+      {
+        "id": "b",
+        "text": "Comprehensive Management Method"
+      },
+      {
+        "id": "c",
+        "text": "Controlled Management Model"
+      },
+      {
+        "id": "d",
+        "text": "Critical Maturity Model"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Capability Maturity Model\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0145",
+    "type": "mcq",
+    "question": "Which of the following is NOT a maturity level in CMM?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Initial"
+      },
+      {
+        "id": "b",
+        "text": "Managed"
+      },
+      {
+        "id": "c",
+        "text": "Defined"
+      },
+      {
+        "id": "d",
+        "text": "Evaluated"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Evaluated\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0146",
+    "type": "mcq",
+    "question": "What is the purpose of the CMM?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To establish quality standards"
+      },
+      {
+        "id": "b",
+        "text": "To assess and improve processes"
+      },
+      {
+        "id": "c",
+        "text": "To define project management techniques"
+      },
+      {
+        "id": "d",
+        "text": "To evaluate customer satisfaction"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"To assess and improve processes\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0147",
+    "type": "mcq",
+    "question": "At which maturity level are processes considered unpredictable and reactive?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Level 1: Initial"
+      },
+      {
+        "id": "b",
+        "text": "Level 2: Managed"
+      },
+      {
+        "id": "c",
+        "text": "Level 3: Defined"
+      },
+      {
+        "id": "d",
+        "text": "Level 4: Quantitatively Managed"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Level 1: Initial\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0148",
+    "type": "mcq",
+    "question": "What is the primary focus of ISO 9001?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Environmental management"
+      },
+      {
+        "id": "b",
+        "text": "Quality management systems"
+      },
+      {
+        "id": "c",
+        "text": "Health and safety standards"
+      },
+      {
+        "id": "d",
+        "text": "Risk management"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Quality management systems\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0149",
+    "type": "mcq",
+    "question": "Which of the following is a requirement of ISO 9001?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Continuous improvement"
+      },
+      {
+        "id": "b",
+        "text": "Annual financial audits"
+      },
+      {
+        "id": "c",
+        "text": "Employee training every month"
+      },
+      {
+        "id": "d",
+        "text": "Customer satisfaction surveys"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Requirements define the expected behavior and features of a software system."
+  },
+  {
+    "id": "ase-0150",
+    "type": "mcq",
+    "question": "What is the benefit of obtaining ISO 9001 certification?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased production costs"
+      },
+      {
+        "id": "b",
+        "text": "Enhanced customer satisfaction"
+      },
+      {
+        "id": "c",
+        "text": "Decreased employee involvement"
+      },
+      {
+        "id": "d",
+        "text": "Reduced product quality"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Enhanced customer satisfaction\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0151",
+    "type": "mcq",
+    "question": "Which of the following is an essential principle of ISO 9001?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Focusing solely on the product"
+      },
+      {
+        "id": "b",
+        "text": "Involving top management in quality processes"
+      },
+      {
+        "id": "c",
+        "text": "Isolating quality activities from other operations"
+      },
+      {
+        "id": "d",
+        "text": "Avoiding documentation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Involving top management in quality processes\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0152",
+    "type": "mcq",
+    "question": "What is the primary goal of software reuse?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increase software defects"
+      },
+      {
+        "id": "b",
+        "text": "Reduce development time and cost"
+      },
+      {
+        "id": "c",
+        "text": "Eliminate the need for documentation"
+      },
+      {
+        "id": "d",
+        "text": "Create complex systems"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0153",
+    "type": "mcq",
+    "question": "Which of the following is a benefit of software reuse?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased risk of software obsolescence"
+      },
+      {
+        "id": "b",
+        "text": "Lower development costs"
+      },
+      {
+        "id": "c",
+        "text": "Higher maintenance effort"
+      },
+      {
+        "id": "d",
+        "text": "Increased time to market"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0154",
+    "type": "mcq",
+    "question": "What is a common approach to achieve software reuse?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Creating new software from scratch"
+      },
+      {
+        "id": "b",
+        "text": "Using design patterns"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring existing code"
+      },
+      {
+        "id": "d",
+        "text": "Avoiding documentation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0155",
+    "type": "mcq",
+    "question": "Which of the following best describes a software component?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A complete software application"
+      },
+      {
+        "id": "b",
+        "text": "A reusable piece of software"
+      },
+      {
+        "id": "c",
+        "text": "A set of development tools"
+      },
+      {
+        "id": "d",
+        "text": "A user interface"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0156",
+    "type": "mcq",
+    "question": "What is the main purpose of software reengineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To develop new software applications"
+      },
+      {
+        "id": "b",
+        "text": "To improve existing software systems"
+      },
+      {
+        "id": "c",
+        "text": "To eliminate software documentation"
+      },
+      {
+        "id": "d",
+        "text": "To increase software complexity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0157",
+    "type": "mcq",
+    "question": "Which of the following is NOT a phase of software reengineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reverse engineering"
+      },
+      {
+        "id": "b",
+        "text": "Forward engineering"
+      },
+      {
+        "id": "c",
+        "text": "Code generation"
+      },
+      {
+        "id": "d",
+        "text": "Restructuring"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0158",
+    "type": "mcq",
+    "question": "What is a common technique used in reengineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Code refactoring"
+      },
+      {
+        "id": "b",
+        "text": "Unit testing"
+      },
+      {
+        "id": "c",
+        "text": "Software deployment"
+      },
+      {
+        "id": "d",
+        "text": "User acceptance testing"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Code refactoring\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0159",
+    "type": "mcq",
+    "question": "What does reverse engineering involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Developing new software"
+      },
+      {
+        "id": "b",
+        "text": "Analyzing existing software to understand its components"
+      },
+      {
+        "id": "c",
+        "text": "Testing software functionality"
+      },
+      {
+        "id": "d",
+        "text": "Writing user documentation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Analyzing existing software to understand its components\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0160",
+    "type": "mcq",
+    "question": "What is forward engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Modifying existing software"
+      },
+      {
+        "id": "b",
+        "text": "Converting design specifications into code"
+      },
+      {
+        "id": "c",
+        "text": "Analyzing code to derive design"
+      },
+      {
+        "id": "d",
+        "text": "Documenting software"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Converting design specifications into code\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0161",
+    "type": "mcq",
+    "question": "Which of the following describes a primary goal of reverse engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To create user documentation"
+      },
+      {
+        "id": "b",
+        "text": "To understand system architecture"
+      },
+      {
+        "id": "c",
+        "text": "To design new algorithms"
+      },
+      {
+        "id": "d",
+        "text": "To test software"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"To understand system architecture\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0162",
+    "type": "mcq",
+    "question": "Which tool is commonly used in reverse engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "UML diagrams"
+      },
+      {
+        "id": "b",
+        "text": "Code analyzers"
+      },
+      {
+        "id": "c",
+        "text": "Integrated Development Environments (IDEs)"
+      },
+      {
+        "id": "d",
+        "text": "Version control systems"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Code analyzers\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0163",
+    "type": "mcq",
+    "question": "What is a benefit of forward engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Improved understanding of legacy systems"
+      },
+      {
+        "id": "b",
+        "text": "Enhanced code maintainability"
+      },
+      {
+        "id": "c",
+        "text": "Streamlined development processes"
+      },
+      {
+        "id": "d",
+        "text": "Increased software complexity"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Streamlined development processes\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0164",
+    "type": "mcq",
+    "question": "What is a dependable system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A system that is always available"
+      },
+      {
+        "id": "b",
+        "text": "A system that is secure and performs reliably"
+      },
+      {
+        "id": "c",
+        "text": "A system that is easy to use"
+      },
+      {
+        "id": "d",
+        "text": "A system with low operational costs"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"A system that is secure and performs reliably\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0165",
+    "type": "mcq",
+    "question": "Which of the following qualities is NOT typically associated with dependable systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Availability"
+      },
+      {
+        "id": "b",
+        "text": "Performance"
+      },
+      {
+        "id": "c",
+        "text": "Integrity"
+      },
+      {
+        "id": "d",
+        "text": "Inflexibility"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Inflexibility\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0166",
+    "type": "mcq",
+    "question": "What is the main focus of dependable computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cost reduction"
+      },
+      {
+        "id": "b",
+        "text": "System availability"
+      },
+      {
+        "id": "c",
+        "text": "User satisfaction"
+      },
+      {
+        "id": "d",
+        "text": "Software complexity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"System availability\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0167",
+    "type": "mcq",
+    "question": "Which aspect is NOT a concern for dependable systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Security"
+      },
+      {
+        "id": "b",
+        "text": "Reliability"
+      },
+      {
+        "id": "c",
+        "text": "Usability"
+      },
+      {
+        "id": "d",
+        "text": "Development speed"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Development speed\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0168",
+    "type": "mcq",
+    "question": "What does reliability engineering primarily focus on?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ensuring that a system is secure"
+      },
+      {
+        "id": "b",
+        "text": "Ensuring that a system performs its intended function under specified conditions"
+      },
+      {
+        "id": "c",
+        "text": "Improving user interfaces"
+      },
+      {
+        "id": "d",
+        "text": "Reducing development time"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Ensuring that a system performs its intended function under specified conditions\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0169",
+    "type": "mcq",
+    "question": "Which of the following is a key metric in reliability engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mean Time Between Failures (MTBF)"
+      },
+      {
+        "id": "b",
+        "text": "Code coverage"
+      },
+      {
+        "id": "c",
+        "text": "Lines of code"
+      },
+      {
+        "id": "d",
+        "text": "User satisfaction score"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Mean Time Between Failures (MTBF)\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0170",
+    "type": "mcq",
+    "question": "What is the goal of conducting reliability tests?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To validate performance"
+      },
+      {
+        "id": "b",
+        "text": "To ensure compliance with standards"
+      },
+      {
+        "id": "c",
+        "text": "To identify potential defects"
+      },
+      {
+        "id": "d",
+        "text": "To assess usability"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"To identify potential defects\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0171",
+    "type": "mcq",
+    "question": "Which of the following methods is commonly used in reliability engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stress testing"
+      },
+      {
+        "id": "b",
+        "text": "Performance testing"
+      },
+      {
+        "id": "c",
+        "text": "Unit testing"
+      },
+      {
+        "id": "d",
+        "text": "Regression testing"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Stress testing\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0172",
+    "type": "mcq",
+    "question": "What is the primary focus of safety engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preventing software defects"
+      },
+      {
+        "id": "b",
+        "text": "Ensuring the safety of users and systems"
+      },
+      {
+        "id": "c",
+        "text": "Improving software performance"
+      },
+      {
+        "id": "d",
+        "text": "Enhancing user experience"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Ensuring the safety of users and systems\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0173",
+    "type": "mcq",
+    "question": "Which of the following is a common technique used in safety engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Failure Mode and Effects Analysis (FMEA)"
+      },
+      {
+        "id": "b",
+        "text": "Code reviews"
+      },
+      {
+        "id": "c",
+        "text": "Unit testing"
+      },
+      {
+        "id": "d",
+        "text": "Integration testing"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Failure Mode and Effects Analysis (FMEA)\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0174",
+    "type": "mcq",
+    "question": "What is a critical aspect of safety-critical systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They require extensive documentation."
+      },
+      {
+        "id": "b",
+        "text": "They must meet stringent reliability requirements."
+      },
+      {
+        "id": "c",
+        "text": "They should be user-friendly."
+      },
+      {
+        "id": "d",
+        "text": "They must be developed rapidly."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"They must meet stringent reliability requirements.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0175",
+    "type": "mcq",
+    "question": "What does the term \"safety integrity level\" (SIL) refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The level of code quality"
+      },
+      {
+        "id": "b",
+        "text": "The degree of system reliability"
+      },
+      {
+        "id": "c",
+        "text": "The level of assurance that a system operates safely"
+      },
+      {
+        "id": "d",
+        "text": "The time required for system updates"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"The level of assurance that a system operates safely\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0176",
+    "type": "mcq",
+    "question": "What is the main focus of security engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enhancing user interfaces"
+      },
+      {
+        "id": "b",
+        "text": "Protecting systems from unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "Improving system performance"
+      },
+      {
+        "id": "d",
+        "text": "Increasing software complexity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Protecting systems from unauthorized access\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0177",
+    "type": "mcq",
+    "question": "Which of the following is NOT a goal of security engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Confidentiality"
+      },
+      {
+        "id": "b",
+        "text": "Availability"
+      },
+      {
+        "id": "c",
+        "text": "Maintainability"
+      },
+      {
+        "id": "d",
+        "text": "Integrity"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Maintainability\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0178",
+    "type": "mcq",
+    "question": "What is a common security engineering practice?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Code obfuscation"
+      },
+      {
+        "id": "b",
+        "text": "Performance tuning"
+      },
+      {
+        "id": "c",
+        "text": "Usability testing"
+      },
+      {
+        "id": "d",
+        "text": "System integration"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Code obfuscation\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0179",
+    "type": "mcq",
+    "question": "What does \"defense in depth\" refer to in security engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Relying on a single security measure"
+      },
+      {
+        "id": "b",
+        "text": "Implementing multiple layers of security controls"
+      },
+      {
+        "id": "c",
+        "text": "Focusing solely on perimeter security"
+      },
+      {
+        "id": "d",
+        "text": "Ensuring fast response times"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Implementing multiple layers of security controls\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0180",
+    "type": "mcq",
+    "question": "What is the primary goal of resilience engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ensuring systems can recover from failures"
+      },
+      {
+        "id": "b",
+        "text": "Improving user experience"
+      },
+      {
+        "id": "c",
+        "text": "Increasing software complexity"
+      },
+      {
+        "id": "d",
+        "text": "Reducing development costs"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Ensuring systems can recover from failures\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0181",
+    "type": "mcq",
+    "question": "Which of the following is a key principle of resilience engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Predictability"
+      },
+      {
+        "id": "b",
+        "text": "Flexibility"
+      },
+      {
+        "id": "c",
+        "text": "Simplicity"
+      },
+      {
+        "id": "d",
+        "text": "Rigidity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Flexibility\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0182",
+    "type": "mcq",
+    "question": "What does a resilient system typically have?",
+    "options": [
+      {
+        "id": "a",
+        "text": "High performance under normal conditions"
+      },
+      {
+        "id": "b",
+        "text": "The ability to adapt to changes and recover from disruptions"
+      },
+      {
+        "id": "c",
+        "text": "Minimal documentation"
+      },
+      {
+        "id": "d",
+        "text": "Simplified architecture"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"The ability to adapt to changes and recover from disruptions\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0183",
+    "type": "mcq",
+    "question": "Which approach is commonly used to enhance system resilience?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Adding redundancy"
+      },
+      {
+        "id": "b",
+        "text": "Increasing system complexity"
+      },
+      {
+        "id": "c",
+        "text": "Reducing system resources"
+      },
+      {
+        "id": "d",
+        "text": "Simplifying the user interface"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Adding redundancy\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0184",
+    "type": "mcq",
+    "question": "What is a common challenge in software reuse?",
+    "options": [
+      {
+        "id": "a",
+        "text": "High initial development cost"
+      },
+      {
+        "id": "b",
+        "text": "Compatibility with legacy systems"
+      },
+      {
+        "id": "c",
+        "text": "Reduced software quality"
+      },
+      {
+        "id": "d",
+        "text": "Increased documentation requirements"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0185",
+    "type": "mcq",
+    "question": "What is the relationship between reengineering and maintenance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reengineering is a subset of maintenance."
+      },
+      {
+        "id": "b",
+        "text": "Reengineering and maintenance are the same."
+      },
+      {
+        "id": "c",
+        "text": "Maintenance focuses on new development, while reengineering focuses on existing systems."
+      },
+      {
+        "id": "d",
+        "text": "Reengineering is unrelated to maintenance."
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software maintenance involves updating and improving software after deployment."
+  },
+  {
+    "id": "ase-0186",
+    "type": "mcq",
+    "question": "Which of the following is an example of forward engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analyzing existing software to create documentation"
+      },
+      {
+        "id": "b",
+        "text": "Developing a new application from a set of requirements"
+      },
+      {
+        "id": "c",
+        "text": "Updating legacy systems"
+      },
+      {
+        "id": "d",
+        "text": "Extracting information from a database"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Developing a new application from a set of requirements\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0187",
+    "type": "mcq",
+    "question": "What is a key difference between reliability and safety engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reliability focuses on user needs; safety focuses on system performance."
+      },
+      {
+        "id": "b",
+        "text": "Reliability is about system availability; safety is about preventing accidents."
+      },
+      {
+        "id": "c",
+        "text": "Reliability is only concerned with software; safety applies to hardware."
+      },
+      {
+        "id": "d",
+        "text": "There is no difference."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Reliability is about system availability; safety is about preventing accidents.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0188",
+    "type": "mcq",
+    "question": "What role does usability play in dependable systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is not a concern."
+      },
+      {
+        "id": "b",
+        "text": "It enhances user interaction and satisfaction."
+      },
+      {
+        "id": "c",
+        "text": "It reduces development costs."
+      },
+      {
+        "id": "d",
+        "text": "It simplifies the architecture."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"It enhances user interaction and satisfaction.\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0189",
+    "type": "mcq",
+    "question": "What is the role of a hazard analysis in safety engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To identify potential risks and develop mitigation strategies"
+      },
+      {
+        "id": "b",
+        "text": "To improve code quality"
+      },
+      {
+        "id": "c",
+        "text": "To assess user experience"
+      },
+      {
+        "id": "d",
+        "text": "To design new algorithms"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"To identify potential risks and develop mitigation strategies\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0190",
+    "type": "mcq",
+    "question": "What is the focus of resilience engineering in system design?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Minimizing costs"
+      },
+      {
+        "id": "b",
+        "text": "Enhancing performance"
+      },
+      {
+        "id": "c",
+        "text": "Building systems that can withstand and recover from unexpected disruptions"
+      },
+      {
+        "id": "d",
+        "text": "Simplifying development processes"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software design provides the architecture and structure needed to build maintainable applications."
+  },
+  {
+    "id": "ase-0191",
+    "type": "mcq",
+    "question": "Which of the following best describes a resilient system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "One that is inflexible and rigid"
+      },
+      {
+        "id": "b",
+        "text": "One that performs consistently well under all conditions"
+      },
+      {
+        "id": "c",
+        "text": "One that can adapt to changes and recover from disruptions"
+      },
+      {
+        "id": "d",
+        "text": "One that requires constant monitoring"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"One that can adapt to changes and recover from disruptions\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0192",
+    "type": "mcq",
+    "question": "What is the primary purpose of a Software Requirements Specification (SRS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To outline the development process"
+      },
+      {
+        "id": "b",
+        "text": "To detail the system's architecture"
+      },
+      {
+        "id": "c",
+        "text": "To specify what the software should do"
+      },
+      {
+        "id": "d",
+        "text": "To define the coding standards"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0193",
+    "type": "mcq",
+    "question": "Which of the following is NOT typically included in an SRS document?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Functional requirements"
+      },
+      {
+        "id": "b",
+        "text": "Non-functional requirements"
+      },
+      {
+        "id": "c",
+        "text": "Design specifications"
+      },
+      {
+        "id": "d",
+        "text": "User interface requirements"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Design specifications\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0194",
+    "type": "mcq",
+    "question": "Who is primarily responsible for reviewing the SRS?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Project managers"
+      },
+      {
+        "id": "b",
+        "text": "Software developers"
+      },
+      {
+        "id": "c",
+        "text": "Stakeholders and end-users"
+      },
+      {
+        "id": "d",
+        "text": "Quality assurance team"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"Stakeholders and end-users\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0195",
+    "type": "mcq",
+    "question": "What is a key benefit of having a well-defined SRS?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It increases the development time"
+      },
+      {
+        "id": "b",
+        "text": "It decreases the need for documentation"
+      },
+      {
+        "id": "c",
+        "text": "It helps avoid misunderstandings between stakeholders"
+      },
+      {
+        "id": "d",
+        "text": "It eliminates the need for testing"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"It helps avoid misunderstandings between stakeholders\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0196",
+    "type": "mcq",
+    "question": "In which phase of the software development lifecycle is the SRS typically created?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Implementation"
+      },
+      {
+        "id": "b",
+        "text": "Requirements analysis"
+      },
+      {
+        "id": "c",
+        "text": "Testing"
+      },
+      {
+        "id": "d",
+        "text": "Deployment"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software engineering focuses on systematic approaches for designing, developing, testing, and maintaining software systems."
+  },
+  {
+    "id": "ase-0197",
+    "type": "mcq",
+    "question": "What does a Gantt chart primarily illustrate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The organizational structure of a project"
+      },
+      {
+        "id": "b",
+        "text": "The sequence of tasks and their durations"
+      },
+      {
+        "id": "c",
+        "text": "The budget allocated for a project"
+      },
+      {
+        "id": "d",
+        "text": "The quality standards for a product"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"The sequence of tasks and their durations\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0198",
+    "type": "mcq",
+    "question": "Which of the following elements is typically included in a Gantt chart?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Task dependencies"
+      },
+      {
+        "id": "b",
+        "text": "Resource allocation"
+      },
+      {
+        "id": "c",
+        "text": "Project milestones"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0199",
+    "type": "mcq",
+    "question": "What is a key benefit of using a Gantt chart in project management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It eliminates the need for communication among team members"
+      },
+      {
+        "id": "b",
+        "text": "It provides a visual representation of project timelines and task progress"
+      },
+      {
+        "id": "c",
+        "text": "It guarantees project completion on time"
+      },
+      {
+        "id": "d",
+        "text": "It is the only tool needed for project management"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  },
+  {
+    "id": "ase-0200",
+    "type": "mcq",
+    "question": "In a Gantt chart, what does a task bar represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The resources assigned to a task"
+      },
+      {
+        "id": "b",
+        "text": "The duration of a task"
+      },
+      {
+        "id": "c",
+        "text": "The cost of a task"
+      },
+      {
+        "id": "d",
+        "text": "The priority of a task"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "The correct answer is \"The duration of a task\" because it best matches the software engineering concept asked in the question."
+  },
+  {
+    "id": "ase-0201",
+    "type": "mcq",
+    "question": "How can a Gantt chart be useful for identifying potential project delays?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By showing the tasks that are completed"
+      },
+      {
+        "id": "b",
+        "text": "By highlighting tasks that overlap or have dependencies"
+      },
+      {
+        "id": "c",
+        "text": "By eliminating the need for task assignments"
+      },
+      {
+        "id": "d",
+        "text": "By focusing solely on the budget"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ase"
+    ],
+    "explanation": "Software project management helps organize resources, timelines, and development activities."
+  }
+]

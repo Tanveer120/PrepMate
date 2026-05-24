@@ -1,0 +1,6202 @@
+[
+  {
+    "id": "air-0001",
+    "type": "mcq",
+    "question": "What is a basic definition of Artificial Intelligence (AI)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Machines that can perform any task a human can"
+      },
+      {
+        "id": "b",
+        "text": "The simulation of human intelligence processes by machines"
+      },
+      {
+        "id": "c",
+        "text": "The creation of physical robots"
+      },
+      {
+        "id": "d",
+        "text": "A type of programming language"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Artificial Intelligence focuses on simulating human intelligence processes such as learning, reasoning, and decision-making using machines."
+  },
+  {
+    "id": "air-0002",
+    "type": "mcq",
+    "question": "Which of the following is a common application of AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Weather forecasting"
+      },
+      {
+        "id": "b",
+        "text": "Cooking recipes"
+      },
+      {
+        "id": "c",
+        "text": "Manual bookkeeping"
+      },
+      {
+        "id": "d",
+        "text": "Gardening"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Weather forecasting\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0003",
+    "type": "mcq",
+    "question": "Which of the following techniques is primarily used for problem-solving in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data mining"
+      },
+      {
+        "id": "b",
+        "text": "Search algorithms"
+      },
+      {
+        "id": "c",
+        "text": "Web scraping"
+      },
+      {
+        "id": "d",
+        "text": "Cloud computing"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Search algorithms\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0004",
+    "type": "mcq",
+    "question": "What does the term \"state space\" refer to in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The set of all possible states in a problem"
+      },
+      {
+        "id": "b",
+        "text": "The physical space in which robots operate"
+      },
+      {
+        "id": "c",
+        "text": "A collection of databases"
+      },
+      {
+        "id": "d",
+        "text": "The network of AI agents"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The set of all possible states in a problem\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0005",
+    "type": "mcq",
+    "question": "What is the primary goal of heuristic search techniques?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To explore all possible solutions"
+      },
+      {
+        "id": "b",
+        "text": "To find an optimal solution quickly"
+      },
+      {
+        "id": "c",
+        "text": "To create new heuristics"
+      },
+      {
+        "id": "d",
+        "text": "To prove all solutions exist"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0006",
+    "type": "mcq",
+    "question": "Which representation is commonly used for knowledge representation in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Text files"
+      },
+      {
+        "id": "b",
+        "text": "Neural networks"
+      },
+      {
+        "id": "c",
+        "text": "Semantic networks"
+      },
+      {
+        "id": "d",
+        "text": "Spreadsheets"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Knowledge representation techniques allow AI systems to store and reason using information effectively."
+  },
+  {
+    "id": "air-0007",
+    "type": "mcq",
+    "question": "What is the main difference between procedural and declarative knowledge?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Procedural knowledge is about \"how,\" while declarative is about \"what.\""
+      },
+      {
+        "id": "b",
+        "text": "Procedural knowledge is stored in databases; declarative is not."
+      },
+      {
+        "id": "c",
+        "text": "Procedural knowledge is more complex than declarative knowledge."
+      },
+      {
+        "id": "d",
+        "text": "There is no difference."
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Knowledge representation techniques allow AI systems to store and reason using information effectively."
+  },
+  {
+    "id": "air-0008",
+    "type": "mcq",
+    "question": "What does nonmonotonic reasoning allow in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Static conclusions"
+      },
+      {
+        "id": "b",
+        "text": "Changing conclusions based on new information"
+      },
+      {
+        "id": "c",
+        "text": "Predicting future events"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Changing conclusions based on new information\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0009",
+    "type": "mcq",
+    "question": "What theorem is fundamental in statistical reasoning within AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pythagorean Theorem"
+      },
+      {
+        "id": "b",
+        "text": "Bayes' Theorem"
+      },
+      {
+        "id": "c",
+        "text": "Fundamental Theorem of Calculus"
+      },
+      {
+        "id": "d",
+        "text": "Theorem of Relativity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Bayes' Theorem\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0010",
+    "type": "mcq",
+    "question": "What do Bayesian networks represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Probabilistic relationships among variables"
+      },
+      {
+        "id": "b",
+        "text": "Neural connections"
+      },
+      {
+        "id": "c",
+        "text": "Logical relations"
+      },
+      {
+        "id": "d",
+        "text": "Database schemas"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Bayesian reasoning uses probability theory to make decisions and update beliefs based on evidence."
+  },
+  {
+    "id": "air-0011",
+    "type": "mcq",
+    "question": "What is a key feature of connectionist models in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They rely heavily on logic programming."
+      },
+      {
+        "id": "b",
+        "text": "They use interconnected nodes to process information."
+      },
+      {
+        "id": "c",
+        "text": "They are only suitable for symbolic reasoning."
+      },
+      {
+        "id": "d",
+        "text": "They function independently of neural networks."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"They use interconnected nodes to process information.\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0012",
+    "type": "mcq",
+    "question": "What does robot kinematics primarily deal with?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The emotional responses of robots"
+      },
+      {
+        "id": "b",
+        "text": "The motion of robots without considering forces"
+      },
+      {
+        "id": "c",
+        "text": "The programming of robot behaviors"
+      },
+      {
+        "id": "d",
+        "text": "The internal electronics of robots"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0013",
+    "type": "mcq",
+    "question": "Which of the following is NOT a requirement for a robot programming language?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Clarity"
+      },
+      {
+        "id": "b",
+        "text": "Efficiency"
+      },
+      {
+        "id": "c",
+        "text": "Complexity"
+      },
+      {
+        "id": "d",
+        "text": "Robustness"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0014",
+    "type": "mcq",
+    "question": "What are production systems in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Systems for manufacturing physical goods"
+      },
+      {
+        "id": "b",
+        "text": "A model consisting of rules and data structures"
+      },
+      {
+        "id": "c",
+        "text": "Platforms for deploying AI applications"
+      },
+      {
+        "id": "d",
+        "text": "Networks of AI agents"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A model consisting of rules and data structures\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0015",
+    "type": "mcq",
+    "question": "Which is a design issue for search algorithms?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cost of computation"
+      },
+      {
+        "id": "b",
+        "text": "User interface design"
+      },
+      {
+        "id": "c",
+        "text": "Networking capabilities"
+      },
+      {
+        "id": "d",
+        "text": "Hardware compatibility"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0016",
+    "type": "mcq",
+    "question": "Heuristic functions are used to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Measure the efficiency of an algorithm"
+      },
+      {
+        "id": "b",
+        "text": "Estimate the cost to reach a goal"
+      },
+      {
+        "id": "c",
+        "text": "Store knowledge in databases"
+      },
+      {
+        "id": "d",
+        "text": "Validate user input"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Heuristics are techniques used to estimate the best path or solution quickly without exploring every possibility."
+  },
+  {
+    "id": "air-0017",
+    "type": "mcq",
+    "question": "What characterizes a constraint satisfaction problem (CSP)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "No possible solutions exist"
+      },
+      {
+        "id": "b",
+        "text": "A solution must satisfy a number of constraints"
+      },
+      {
+        "id": "c",
+        "text": "Solutions are generated randomly"
+      },
+      {
+        "id": "d",
+        "text": "They are solved using brute force only"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A solution must satisfy a number of constraints\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0018",
+    "type": "mcq",
+    "question": "Logic programming is primarily associated with which type of knowledge representation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Procedural"
+      },
+      {
+        "id": "b",
+        "text": "Declarative"
+      },
+      {
+        "id": "c",
+        "text": "Implicit"
+      },
+      {
+        "id": "d",
+        "text": "Indirect"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Knowledge representation techniques allow AI systems to store and reason using information effectively."
+  },
+  {
+    "id": "air-0019",
+    "type": "mcq",
+    "question": "In backward reasoning, the process starts with:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Known facts and works backward to reach a conclusion"
+      },
+      {
+        "id": "b",
+        "text": "Assumptions and works forward to prove them"
+      },
+      {
+        "id": "c",
+        "text": "General principles to derive specific instances"
+      },
+      {
+        "id": "d",
+        "text": "Random facts without any order"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Known facts and works backward to reach a conclusion\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0020",
+    "type": "mcq",
+    "question": "Dempster-Shafer theory is used for:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Representing uncertainty in AI"
+      },
+      {
+        "id": "b",
+        "text": "Describing robotic movements"
+      },
+      {
+        "id": "c",
+        "text": "Analyzing databases"
+      },
+      {
+        "id": "d",
+        "text": "Creating machine learning models"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Representing uncertainty in AI\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0021",
+    "type": "mcq",
+    "question": "What is considered a key characteristic of intelligent agents?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They require human intervention to make decisions"
+      },
+      {
+        "id": "b",
+        "text": "They can perceive their environment and act upon it"
+      },
+      {
+        "id": "c",
+        "text": "They are only software-based"
+      },
+      {
+        "id": "d",
+        "text": "They do not need any sensory input"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"They can perceive their environment and act upon it\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0022",
+    "type": "mcq",
+    "question": "Which of the following is NOT a typical feature of AI systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Learning"
+      },
+      {
+        "id": "b",
+        "text": "Reasoning"
+      },
+      {
+        "id": "c",
+        "text": "Emotion"
+      },
+      {
+        "id": "d",
+        "text": "Problem-solving"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Emotion\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0023",
+    "type": "mcq",
+    "question": "What does the Turing Test evaluate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The speed of a computer"
+      },
+      {
+        "id": "b",
+        "text": "The ability of a machine to exhibit intelligent behavior equivalent to a human"
+      },
+      {
+        "id": "c",
+        "text": "The size of a computer's memory"
+      },
+      {
+        "id": "d",
+        "text": "The physical strength of a robot"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The ability of a machine to exhibit intelligent behavior equivalent to a human\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0024",
+    "type": "mcq",
+    "question": "Which application of AI is used in medical diagnosis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Automated transcription"
+      },
+      {
+        "id": "b",
+        "text": "Decision support systems"
+      },
+      {
+        "id": "c",
+        "text": "Weather modeling"
+      },
+      {
+        "id": "d",
+        "text": "Game playing"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Decision support systems\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0025",
+    "type": "mcq",
+    "question": "In which field is AI NOT typically used?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Finance"
+      },
+      {
+        "id": "b",
+        "text": "Agriculture"
+      },
+      {
+        "id": "c",
+        "text": "Fashion design"
+      },
+      {
+        "id": "d",
+        "text": "Basic arithmetic"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Basic arithmetic\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0026",
+    "type": "mcq",
+    "question": "Which AI technology is commonly used in self-driving cars?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Natural language processing"
+      },
+      {
+        "id": "b",
+        "text": "Computer vision"
+      },
+      {
+        "id": "c",
+        "text": "Database management"
+      },
+      {
+        "id": "d",
+        "text": "Blockchain"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Computer vision\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0027",
+    "type": "mcq",
+    "question": "What is a common search strategy in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Breadth-first search"
+      },
+      {
+        "id": "b",
+        "text": "Data mining"
+      },
+      {
+        "id": "c",
+        "text": "Static analysis"
+      },
+      {
+        "id": "d",
+        "text": "Data visualization"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0028",
+    "type": "mcq",
+    "question": "What is the purpose of using abstraction in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To simplify complex problems"
+      },
+      {
+        "id": "b",
+        "text": "To increase data storage"
+      },
+      {
+        "id": "c",
+        "text": "To improve visual representation"
+      },
+      {
+        "id": "d",
+        "text": "To encrypt data"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"To simplify complex problems\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0029",
+    "type": "mcq",
+    "question": "A state space is defined by:",
+    "options": [
+      {
+        "id": "a",
+        "text": "A single solution path"
+      },
+      {
+        "id": "b",
+        "text": "The initial state, actions, and goal state"
+      },
+      {
+        "id": "c",
+        "text": "Random paths without structure"
+      },
+      {
+        "id": "d",
+        "text": "The number of agents involved"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The initial state, actions, and goal state\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0030",
+    "type": "mcq",
+    "question": "Which type of problem is often more complex due to multiple solutions?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Single-path problems"
+      },
+      {
+        "id": "b",
+        "text": "Multi-objective problems"
+      },
+      {
+        "id": "c",
+        "text": "Satisfiability problems"
+      },
+      {
+        "id": "d",
+        "text": "Linear problems"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Multi-objective problems\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0031",
+    "type": "mcq",
+    "question": "Which technique is used to optimize search algorithms?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Random search"
+      },
+      {
+        "id": "b",
+        "text": "Hill climbing"
+      },
+      {
+        "id": "c",
+        "text": "Linear regression"
+      },
+      {
+        "id": "d",
+        "text": "Depth-first search"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0032",
+    "type": "mcq",
+    "question": "What is the main goal of constraint satisfaction techniques?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maximizing resource usage"
+      },
+      {
+        "id": "b",
+        "text": "Finding solutions that meet specific criteria"
+      },
+      {
+        "id": "c",
+        "text": "Reducing processing time"
+      },
+      {
+        "id": "d",
+        "text": "Simplifying user interfaces"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Finding solutions that meet specific criteria\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0033",
+    "type": "mcq",
+    "question": "Which search method uses a priority queue?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Depth-first search"
+      },
+      {
+        "id": "b",
+        "text": "Best-first search"
+      },
+      {
+        "id": "c",
+        "text": "Linear search"
+      },
+      {
+        "id": "d",
+        "text": "Breadth-first search"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0034",
+    "type": "mcq",
+    "question": "Which approach uses frames to represent knowledge?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Logic programming"
+      },
+      {
+        "id": "b",
+        "text": "Semantic networks"
+      },
+      {
+        "id": "c",
+        "text": "Neural networks"
+      },
+      {
+        "id": "d",
+        "text": "Decision trees"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Knowledge representation techniques allow AI systems to store and reason using information effectively."
+  },
+  {
+    "id": "air-0035",
+    "type": "mcq",
+    "question": "The 'frame problem' in AI refers to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Difficulty in representing changing knowledge"
+      },
+      {
+        "id": "b",
+        "text": "Limitations of database storage"
+      },
+      {
+        "id": "c",
+        "text": "Issues with user interface design"
+      },
+      {
+        "id": "d",
+        "text": "The need for real-time processing"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Difficulty in representing changing knowledge\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0036",
+    "type": "mcq",
+    "question": "What does a 'predicate' represent in logic?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A physical action"
+      },
+      {
+        "id": "b",
+        "text": "A condition or relationship"
+      },
+      {
+        "id": "c",
+        "text": "A data structure"
+      },
+      {
+        "id": "d",
+        "text": "A storage mechanism"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Logic-based reasoning helps AI systems derive conclusions from facts and rules."
+  },
+  {
+    "id": "air-0037",
+    "type": "mcq",
+    "question": "Nonmonotonic reasoning allows for:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Static conclusions"
+      },
+      {
+        "id": "b",
+        "text": "Dynamic updates of beliefs based on new evidence"
+      },
+      {
+        "id": "c",
+        "text": "Fixed logic rules"
+      },
+      {
+        "id": "d",
+        "text": "Linear reasoning processes"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Dynamic updates of beliefs based on new evidence\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0038",
+    "type": "mcq",
+    "question": "Which of the following is an example of a nonmonotonic logic?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Propositional logic"
+      },
+      {
+        "id": "b",
+        "text": "First-order logic"
+      },
+      {
+        "id": "c",
+        "text": "Default logic"
+      },
+      {
+        "id": "d",
+        "text": "Modal logic"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Logic-based reasoning helps AI systems derive conclusions from facts and rules."
+  },
+  {
+    "id": "air-0039",
+    "type": "mcq",
+    "question": "Certainty factors are used to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Represent absolute truths"
+      },
+      {
+        "id": "b",
+        "text": "Express degrees of belief in uncertain situations"
+      },
+      {
+        "id": "c",
+        "text": "Analyze statistical data"
+      },
+      {
+        "id": "d",
+        "text": "Validate machine learning models"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Express degrees of belief in uncertain situations\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0040",
+    "type": "mcq",
+    "question": "What do Bayesian networks utilize for reasoning?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Random sampling"
+      },
+      {
+        "id": "b",
+        "text": "Probabilistic inference"
+      },
+      {
+        "id": "c",
+        "text": "Deterministic algorithms"
+      },
+      {
+        "id": "d",
+        "text": "Static data analysis"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Bayesian reasoning uses probability theory to make decisions and update beliefs based on evidence."
+  },
+  {
+    "id": "air-0041",
+    "type": "mcq",
+    "question": "What is a key advantage of neural networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They require less data than traditional algorithms"
+      },
+      {
+        "id": "b",
+        "text": "They can model complex patterns and relationships"
+      },
+      {
+        "id": "c",
+        "text": "They are easier to understand than other models"
+      },
+      {
+        "id": "d",
+        "text": "They do not require training"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0042",
+    "type": "mcq",
+    "question": "Recurrent neural networks are particularly suited for:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Static data"
+      },
+      {
+        "id": "b",
+        "text": "Sequential data"
+      },
+      {
+        "id": "c",
+        "text": "Image processing"
+      },
+      {
+        "id": "d",
+        "text": "Database queries"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0043",
+    "type": "mcq",
+    "question": "The term 'kinematics' in robotics refers to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "The control of robots"
+      },
+      {
+        "id": "b",
+        "text": "The study of motion without considering forces"
+      },
+      {
+        "id": "c",
+        "text": "The energy consumption of robots"
+      },
+      {
+        "id": "d",
+        "text": "The physical materials used in robots"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0044",
+    "type": "mcq",
+    "question": "Which of the following is NOT a component of robot programming?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Control systems"
+      },
+      {
+        "id": "b",
+        "text": "Kinematic modeling"
+      },
+      {
+        "id": "c",
+        "text": "User interface design"
+      },
+      {
+        "id": "d",
+        "text": "Material selection"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0045",
+    "type": "mcq",
+    "question": "What is a common challenge in robot programming?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ensuring the robot is physically strong"
+      },
+      {
+        "id": "b",
+        "text": "Creating efficient algorithms for decision-making"
+      },
+      {
+        "id": "c",
+        "text": "Maintaining battery life"
+      },
+      {
+        "id": "d",
+        "text": "Designing aesthetically pleasing robots"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0046",
+    "type": "mcq",
+    "question": "A key characteristic of a production system is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "It cannot change its rules."
+      },
+      {
+        "id": "b",
+        "text": "It consists of a set of production rules and a database."
+      },
+      {
+        "id": "c",
+        "text": "It relies solely on neural networks."
+      },
+      {
+        "id": "d",
+        "text": "It is always optimal in its solutions."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"It consists of a set of production rules and a database.\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0047",
+    "type": "mcq",
+    "question": "Which of the following is a characteristic of a problem in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Complexity"
+      },
+      {
+        "id": "b",
+        "text": "Lack of constraints"
+      },
+      {
+        "id": "c",
+        "text": "Absence of initial state"
+      },
+      {
+        "id": "d",
+        "text": "Fixed outcomes"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Complexity\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0048",
+    "type": "mcq",
+    "question": "What is a major disadvantage of hill climbing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It can get stuck in local maxima."
+      },
+      {
+        "id": "b",
+        "text": "It requires significant memory."
+      },
+      {
+        "id": "c",
+        "text": "It is always optimal."
+      },
+      {
+        "id": "d",
+        "text": "It cannot be applied to complex problems."
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"It can get stuck in local maxima.\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0049",
+    "type": "mcq",
+    "question": "In means-ends analysis, the primary focus is on:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Finding shortcuts in problem-solving"
+      },
+      {
+        "id": "b",
+        "text": "Reducing the difference between the current state and the goal state"
+      },
+      {
+        "id": "c",
+        "text": "Establishing a sequence of actions"
+      },
+      {
+        "id": "d",
+        "text": "Analyzing the efficiency of the solution"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Reducing the difference between the current state and the goal state\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0050",
+    "type": "mcq",
+    "question": "Which approach is best for representing knowledge with rules?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Semantic networks"
+      },
+      {
+        "id": "b",
+        "text": "Production systems"
+      },
+      {
+        "id": "c",
+        "text": "Neural networks"
+      },
+      {
+        "id": "d",
+        "text": "Decision trees"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Knowledge representation techniques allow AI systems to store and reason using information effectively."
+  },
+  {
+    "id": "air-0051",
+    "type": "mcq",
+    "question": "A key feature of nonmonotonic logic is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "The preservation of truth values"
+      },
+      {
+        "id": "b",
+        "text": "The ability to withdraw conclusions"
+      },
+      {
+        "id": "c",
+        "text": "The reliance on static facts"
+      },
+      {
+        "id": "d",
+        "text": "The avoidance of uncertainty"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Logic-based reasoning helps AI systems derive conclusions from facts and rules."
+  },
+  {
+    "id": "air-0052",
+    "type": "mcq",
+    "question": "Bayesian networks can model:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deterministic relationships only"
+      },
+      {
+        "id": "b",
+        "text": "Probabilistic dependencies"
+      },
+      {
+        "id": "c",
+        "text": "Linear equations"
+      },
+      {
+        "id": "d",
+        "text": "Non-graphical data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Bayesian reasoning uses probability theory to make decisions and update beliefs based on evidence."
+  },
+  {
+    "id": "air-0053",
+    "type": "mcq",
+    "question": "The main benefit of using connectionist models is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "High interpretability"
+      },
+      {
+        "id": "b",
+        "text": "Robustness in handling noisy data"
+      },
+      {
+        "id": "c",
+        "text": "Simple design"
+      },
+      {
+        "id": "d",
+        "text": "Lower computational cost"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Robustness in handling noisy data\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0054",
+    "type": "mcq",
+    "question": "What is the primary purpose of robot sensors?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase speed"
+      },
+      {
+        "id": "b",
+        "text": "To collect data about the environment"
+      },
+      {
+        "id": "c",
+        "text": "To minimize energy consumption"
+      },
+      {
+        "id": "d",
+        "text": "To optimize programming languages"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0055",
+    "type": "mcq",
+    "question": "Which search algorithm is guaranteed to find a solution if one exists?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Random search"
+      },
+      {
+        "id": "b",
+        "text": "Depth-first search"
+      },
+      {
+        "id": "c",
+        "text": "Breadth-first search"
+      },
+      {
+        "id": "d",
+        "text": "Hill climbing"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0056",
+    "type": "mcq",
+    "question": "A heuristic function is designed to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Guarantee the optimal solution"
+      },
+      {
+        "id": "b",
+        "text": "Provide a rough estimate of the cost to reach a goal"
+      },
+      {
+        "id": "c",
+        "text": "Solve problems without search"
+      },
+      {
+        "id": "d",
+        "text": "Validate the correctness of a solution"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Heuristics are techniques used to estimate the best path or solution quickly without exploring every possibility."
+  },
+  {
+    "id": "air-0057",
+    "type": "mcq",
+    "question": "What is the purpose of semantic networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To visualize decision trees"
+      },
+      {
+        "id": "b",
+        "text": "To represent knowledge in a graph format"
+      },
+      {
+        "id": "c",
+        "text": "To store databases efficiently"
+      },
+      {
+        "id": "d",
+        "text": "To analyze statistical data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"To represent knowledge in a graph format\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0058",
+    "type": "mcq",
+    "question": "Default reasoning allows us to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prove all conclusions are true"
+      },
+      {
+        "id": "b",
+        "text": "Make assumptions based on typical situations"
+      },
+      {
+        "id": "c",
+        "text": "Rely on fixed facts"
+      },
+      {
+        "id": "d",
+        "text": "Avoid uncertainty"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Make assumptions based on typical situations\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0059",
+    "type": "mcq",
+    "question": "The concept of 'prior probability' in Bayesian inference refers to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "The probability after observing new evidence"
+      },
+      {
+        "id": "b",
+        "text": "The initial estimate of the likelihood of an event"
+      },
+      {
+        "id": "c",
+        "text": "The average of multiple outcomes"
+      },
+      {
+        "id": "d",
+        "text": "The maximum likelihood estimate"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Bayesian reasoning uses probability theory to make decisions and update beliefs based on evidence."
+  },
+  {
+    "id": "air-0060",
+    "type": "mcq",
+    "question": "In a feedforward neural network:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Information only moves in one direction"
+      },
+      {
+        "id": "b",
+        "text": "There are cycles in the network"
+      },
+      {
+        "id": "c",
+        "text": "Information moves both forward and backward"
+      },
+      {
+        "id": "d",
+        "text": "It requires continuous feedback"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0061",
+    "type": "mcq",
+    "question": "Which of the following is an example of a narrow AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A self-learning robot"
+      },
+      {
+        "id": "b",
+        "text": "An AI that plays chess"
+      },
+      {
+        "id": "c",
+        "text": "A general problem solver"
+      },
+      {
+        "id": "d",
+        "text": "An AI capable of human-like conversation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"An AI that plays chess\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0062",
+    "type": "mcq",
+    "question": "What is a primary goal of artificial general intelligence (AGI)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To outperform humans in specific tasks"
+      },
+      {
+        "id": "b",
+        "text": "To understand and learn any intellectual task that a human can"
+      },
+      {
+        "id": "c",
+        "text": "To automate routine jobs"
+      },
+      {
+        "id": "d",
+        "text": "To process large datasets"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"To understand and learn any intellectual task that a human can\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0063",
+    "type": "mcq",
+    "question": "AI is increasingly being used in which field to enhance user experience?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manufacturing"
+      },
+      {
+        "id": "b",
+        "text": "Customer service"
+      },
+      {
+        "id": "c",
+        "text": "Accounting"
+      },
+      {
+        "id": "d",
+        "text": "Transportation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Customer service\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0064",
+    "type": "mcq",
+    "question": "In AI, what does 'computer vision' refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The ability of computers to interpret visual information"
+      },
+      {
+        "id": "b",
+        "text": "The design of computer screens"
+      },
+      {
+        "id": "c",
+        "text": "The simulation of human vision"
+      },
+      {
+        "id": "d",
+        "text": "The creation of graphic designs"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Computer vision enables machines to interpret and understand visual information from images or videos."
+  },
+  {
+    "id": "air-0065",
+    "type": "mcq",
+    "question": "In search algorithms, what is meant by 'optimality'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The speed of the algorithm"
+      },
+      {
+        "id": "b",
+        "text": "The best possible solution in terms of cost"
+      },
+      {
+        "id": "c",
+        "text": "The simplicity of the solution"
+      },
+      {
+        "id": "d",
+        "text": "The number of solutions found"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0066",
+    "type": "mcq",
+    "question": "Which of the following describes 'exhaustive search'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Searching only a subset of possible solutions"
+      },
+      {
+        "id": "b",
+        "text": "Searching all possible solutions until one is found"
+      },
+      {
+        "id": "c",
+        "text": "Using heuristics to reduce search space"
+      },
+      {
+        "id": "d",
+        "text": "Prioritizing certain paths based on previous experience"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0067",
+    "type": "mcq",
+    "question": "What does 'solution space' refer to in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The set of all possible solutions to a problem"
+      },
+      {
+        "id": "b",
+        "text": "The area where problems are defined"
+      },
+      {
+        "id": "c",
+        "text": "The environment in which a robot operates"
+      },
+      {
+        "id": "d",
+        "text": "The limits of a database"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The set of all possible solutions to a problem\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0068",
+    "type": "mcq",
+    "question": "Which type of search algorithm does not guarantee finding a solution?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Depth-first search"
+      },
+      {
+        "id": "b",
+        "text": "Breadth-first search"
+      },
+      {
+        "id": "c",
+        "text": "A* search"
+      },
+      {
+        "id": "d",
+        "text": "Uniform-cost search"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0069",
+    "type": "mcq",
+    "question": "What is the primary advantage of using heuristic search techniques?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They guarantee optimal solutions"
+      },
+      {
+        "id": "b",
+        "text": "They reduce computational time and resources"
+      },
+      {
+        "id": "c",
+        "text": "They can find any solution"
+      },
+      {
+        "id": "d",
+        "text": "They do not require knowledge of the problem domain"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0070",
+    "type": "mcq",
+    "question": "Which of the following is an example of a heuristic function?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A random number generator"
+      },
+      {
+        "id": "b",
+        "text": "A function estimating the cost to reach the goal"
+      },
+      {
+        "id": "c",
+        "text": "A database query"
+      },
+      {
+        "id": "d",
+        "text": "A rule-based system"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Heuristics are techniques used to estimate the best path or solution quickly without exploring every possibility."
+  },
+  {
+    "id": "air-0071",
+    "type": "mcq",
+    "question": "In knowledge representation, what does 'ontology' refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A study of human emotions"
+      },
+      {
+        "id": "b",
+        "text": "A formal representation of a set of concepts within a domain"
+      },
+      {
+        "id": "c",
+        "text": "A type of machine learning algorithm"
+      },
+      {
+        "id": "d",
+        "text": "A programming language"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Knowledge representation techniques allow AI systems to store and reason using information effectively."
+  },
+  {
+    "id": "air-0072",
+    "type": "mcq",
+    "question": "Which representation is best for capturing hierarchical relationships?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Flat files"
+      },
+      {
+        "id": "b",
+        "text": "Semantic networks"
+      },
+      {
+        "id": "c",
+        "text": "Decision trees"
+      },
+      {
+        "id": "d",
+        "text": "Neural networks"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Semantic networks\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0073",
+    "type": "mcq",
+    "question": "Which of the following best describes the concept of 'belief revision'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Changing facts in response to new evidence"
+      },
+      {
+        "id": "b",
+        "text": "Maintaining static beliefs"
+      },
+      {
+        "id": "c",
+        "text": "Using past experiences to predict future events"
+      },
+      {
+        "id": "d",
+        "text": "Establishing rules based on historical data"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Computer vision enables machines to interpret and understand visual information from images or videos."
+  },
+  {
+    "id": "air-0074",
+    "type": "mcq",
+    "question": "What is a characteristic of nonmonotonic logics?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Truth values cannot be revised"
+      },
+      {
+        "id": "b",
+        "text": "They allow for the addition of new premises without contradiction"
+      },
+      {
+        "id": "c",
+        "text": "They are purely deductive"
+      },
+      {
+        "id": "d",
+        "text": "They cannot represent uncertainty"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Logic-based reasoning helps AI systems derive conclusions from facts and rules."
+  },
+  {
+    "id": "air-0075",
+    "type": "mcq",
+    "question": "In the context of Bayesian networks, what does 'evidence' refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The assumptions made during modeling"
+      },
+      {
+        "id": "b",
+        "text": "Observed data that can affect probabilities"
+      },
+      {
+        "id": "c",
+        "text": "Uncertain factors"
+      },
+      {
+        "id": "d",
+        "text": "The rules governing the network"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Bayesian reasoning uses probability theory to make decisions and update beliefs based on evidence."
+  },
+  {
+    "id": "air-0076",
+    "type": "mcq",
+    "question": "What is the purpose of Markov chains in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To represent decision trees"
+      },
+      {
+        "id": "b",
+        "text": "To model random processes"
+      },
+      {
+        "id": "c",
+        "text": "To analyze neural networks"
+      },
+      {
+        "id": "d",
+        "text": "To create semantic networks"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"To model random processes\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0077",
+    "type": "mcq",
+    "question": "What is the role of activation functions in neural networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To define the architecture"
+      },
+      {
+        "id": "b",
+        "text": "To determine the output of a neuron"
+      },
+      {
+        "id": "c",
+        "text": "To optimize learning"
+      },
+      {
+        "id": "d",
+        "text": "To store knowledge"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0078",
+    "type": "mcq",
+    "question": "Which type of neural network is designed to process data with a grid-like topology?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Recurrent Neural Network"
+      },
+      {
+        "id": "b",
+        "text": "Convolutional Neural Network"
+      },
+      {
+        "id": "c",
+        "text": "Feedforward Neural Network"
+      },
+      {
+        "id": "d",
+        "text": "Hopfield Network"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0079",
+    "type": "mcq",
+    "question": "Which of the following is a common type of robot?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Collaborative robots (cobots)"
+      },
+      {
+        "id": "b",
+        "text": "Static robots"
+      },
+      {
+        "id": "c",
+        "text": "Digital robots"
+      },
+      {
+        "id": "d",
+        "text": "Abstract robots"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0080",
+    "type": "mcq",
+    "question": "The term 'robot actuation' refers to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "The programming of robots"
+      },
+      {
+        "id": "b",
+        "text": "The means by which a robot moves"
+      },
+      {
+        "id": "c",
+        "text": "The sensors used in robots"
+      },
+      {
+        "id": "d",
+        "text": "The design of robot interfaces"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0081",
+    "type": "mcq",
+    "question": "In production systems, what are \"rules\" typically composed of?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A) Conditions and actions"
+      },
+      {
+        "id": "b",
+        "text": "A) Variables and constants"
+      },
+      {
+        "id": "c",
+        "text": "A) Inputs and outputs"
+      },
+      {
+        "id": "d",
+        "text": "A) Functions and algorithms"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A) Conditions and actions\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0082",
+    "type": "mcq",
+    "question": "Which characteristic is true for production systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are always complete"
+      },
+      {
+        "id": "b",
+        "text": "A) They can handle dynamic environments."
+      },
+      {
+        "id": "c",
+        "text": "A) They require a well-defined initial state."
+      },
+      {
+        "id": "d",
+        "text": "A) They do not rely on heuristics."
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A) They require a well-defined initial state.\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0083",
+    "type": "mcq",
+    "question": "Which of the following is a potential drawback of using best-first search?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It guarantees optimality."
+      },
+      {
+        "id": "b",
+        "text": "It may consume a lot of memory."
+      },
+      {
+        "id": "c",
+        "text": "It is difficult to implement."
+      },
+      {
+        "id": "d",
+        "text": "It ignores heuristic information."
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0084",
+    "type": "mcq",
+    "question": "Which heuristic search method is based on evaluating both cost and heuristic estimates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Breadth-first search"
+      },
+      {
+        "id": "b",
+        "text": "Depth-first search"
+      },
+      {
+        "id": "c",
+        "text": "A* search"
+      },
+      {
+        "id": "d",
+        "text": "Greedy search"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0085",
+    "type": "mcq",
+    "question": "What does \"first-order logic\" enable in knowledge representation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only simple statements"
+      },
+      {
+        "id": "b",
+        "text": "The representation of relationships among objects"
+      },
+      {
+        "id": "c",
+        "text": "Probabilistic reasoning"
+      },
+      {
+        "id": "d",
+        "text": "Static knowledge only"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Knowledge representation techniques allow AI systems to store and reason using information effectively."
+  },
+  {
+    "id": "air-0086",
+    "type": "mcq",
+    "question": "In nonmonotonic reasoning, conclusions can be:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Always fixed"
+      },
+      {
+        "id": "b",
+        "text": "Withdrawn based on new evidence"
+      },
+      {
+        "id": "c",
+        "text": "Definitive"
+      },
+      {
+        "id": "d",
+        "text": "Only based on past experiences"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Withdrawn based on new evidence\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0087",
+    "type": "mcq",
+    "question": "What is the concept of \"posterior probability\" in Bayesian analysis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The probability before observing evidence"
+      },
+      {
+        "id": "b",
+        "text": "The probability after observing evidence"
+      },
+      {
+        "id": "c",
+        "text": "The average probability of events"
+      },
+      {
+        "id": "d",
+        "text": "The maximum likelihood estimate"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Bayesian reasoning uses probability theory to make decisions and update beliefs based on evidence."
+  },
+  {
+    "id": "air-0088",
+    "type": "mcq",
+    "question": "What is \"overfitting\" in the context of neural networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "When the model is too simple"
+      },
+      {
+        "id": "b",
+        "text": "When the model learns noise instead of the underlying pattern"
+      },
+      {
+        "id": "c",
+        "text": "When the model is generalizable to new data"
+      },
+      {
+        "id": "d",
+        "text": "When the model has high bias"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0089",
+    "type": "mcq",
+    "question": "What is the role of a robot's \"end effector\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To process data"
+      },
+      {
+        "id": "b",
+        "text": "To move the robot"
+      },
+      {
+        "id": "c",
+        "text": "To interact with the environment"
+      },
+      {
+        "id": "d",
+        "text": "To control the robot's sensors"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0090",
+    "type": "mcq",
+    "question": "What is a \"goal test\" in the context of AI search algorithms?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A measure of speed"
+      },
+      {
+        "id": "b",
+        "text": "A check to determine if the current state matches the goal"
+      },
+      {
+        "id": "c",
+        "text": "A performance metric for algorithms"
+      },
+      {
+        "id": "d",
+        "text": "A data validation process"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0091",
+    "type": "mcq",
+    "question": "In the context of hill climbing, what is a \"local maximum\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The overall best solution"
+      },
+      {
+        "id": "b",
+        "text": "A solution that is better than its neighbors but not the best overall"
+      },
+      {
+        "id": "c",
+        "text": "The worst possible solution"
+      },
+      {
+        "id": "d",
+        "text": "A solution with no neighbors"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A solution that is better than its neighbors but not the best overall\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0092",
+    "type": "mcq",
+    "question": "Which technique is often used to enhance the performance of genetic algorithms?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mutation"
+      },
+      {
+        "id": "b",
+        "text": "Random sampling"
+      },
+      {
+        "id": "c",
+        "text": "Data partitioning"
+      },
+      {
+        "id": "d",
+        "text": "Heuristic evaluation"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Mutation\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0093",
+    "type": "mcq",
+    "question": "What is a \"rule-based system\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of unsupervised learning model"
+      },
+      {
+        "id": "b",
+        "text": "A system that uses rules to derive conclusions"
+      },
+      {
+        "id": "c",
+        "text": "A method of data storage"
+      },
+      {
+        "id": "d",
+        "text": "A programming language for robots"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A system that uses rules to derive conclusions\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0094",
+    "type": "mcq",
+    "question": "Which of the following represents \"declarative knowledge\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Knowing how to ride a bike"
+      },
+      {
+        "id": "b",
+        "text": "Knowing the capital of a country"
+      },
+      {
+        "id": "c",
+        "text": "Knowing how to swim"
+      },
+      {
+        "id": "d",
+        "text": "Knowing how to play a musical instrument"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Knowledge representation techniques allow AI systems to store and reason using information effectively."
+  },
+  {
+    "id": "air-0095",
+    "type": "mcq",
+    "question": "The principle of \"closure\" in nonmonotonic reasoning means:",
+    "options": [
+      {
+        "id": "a",
+        "text": "All conclusions are final."
+      },
+      {
+        "id": "b",
+        "text": "New evidence cannot change existing beliefs."
+      },
+      {
+        "id": "c",
+        "text": "The addition of new information may lead to retraction of previous conclusions."
+      },
+      {
+        "id": "d",
+        "text": "Knowledge is always static."
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The addition of new information may lead to retraction of previous conclusions.\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0096",
+    "type": "mcq",
+    "question": "What does \"Bayes' theorem\" provide?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A method for rule-based reasoning"
+      },
+      {
+        "id": "b",
+        "text": "A way to calculate conditional probabilities"
+      },
+      {
+        "id": "c",
+        "text": "A framework for symbolic reasoning"
+      },
+      {
+        "id": "d",
+        "text": "A technique for data visualization"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Bayesian reasoning uses probability theory to make decisions and update beliefs based on evidence."
+  },
+  {
+    "id": "air-0097",
+    "type": "mcq",
+    "question": "What is a common use case for recurrent neural networks (RNNs)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Image classification"
+      },
+      {
+        "id": "b",
+        "text": "Time series prediction"
+      },
+      {
+        "id": "c",
+        "text": "Static data analysis"
+      },
+      {
+        "id": "d",
+        "text": "Linear regression"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0098",
+    "type": "mcq",
+    "question": "What is \"teleoperation\" in robotics?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Autonomous navigation"
+      },
+      {
+        "id": "b",
+        "text": "Remote control of robots"
+      },
+      {
+        "id": "c",
+        "text": "Self-learning capabilities"
+      },
+      {
+        "id": "d",
+        "text": "Sensor integration"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0099",
+    "type": "mcq",
+    "question": "The term \"supervised learning\" refers to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Learning without labeled data"
+      },
+      {
+        "id": "b",
+        "text": "Learning from labeled data"
+      },
+      {
+        "id": "c",
+        "text": "Learning from user interactions"
+      },
+      {
+        "id": "d",
+        "text": "Learning in an unsupervised manner"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Machine learning allows systems to improve performance using data and experience."
+  },
+  {
+    "id": "air-0100",
+    "type": "mcq",
+    "question": "What is the main difference between \"classification\" and \"regression\" in machine learning?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Classification predicts categories; regression predicts continuous values."
+      },
+      {
+        "id": "b",
+        "text": "Classification is for supervised learning; regression is for unsupervised learning."
+      },
+      {
+        "id": "c",
+        "text": "Classification uses neural networks; regression uses decision trees."
+      },
+      {
+        "id": "d",
+        "text": "There is no difference; they are the same."
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Machine learning allows systems to improve performance using data and experience."
+  },
+  {
+    "id": "air-0101",
+    "type": "mcq",
+    "question": "Which algorithm is primarily used for training support vector machines (SVM)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gradient descent"
+      },
+      {
+        "id": "b",
+        "text": "Linear regression"
+      },
+      {
+        "id": "c",
+        "text": "Quadratic programming"
+      },
+      {
+        "id": "d",
+        "text": "Random forests"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Quadratic programming\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0102",
+    "type": "mcq",
+    "question": "In reinforcement learning, what is the \"reward signal\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A penalty for wrong actions"
+      },
+      {
+        "id": "b",
+        "text": "A feedback mechanism to indicate success or failure"
+      },
+      {
+        "id": "c",
+        "text": "A learning rate adjustment"
+      },
+      {
+        "id": "d",
+        "text": "A state representation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Machine learning allows systems to improve performance using data and experience."
+  },
+  {
+    "id": "air-0103",
+    "type": "mcq",
+    "question": "Which of the following is a major ethical concern in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Efficiency of algorithms"
+      },
+      {
+        "id": "b",
+        "text": "Data privacy and security"
+      },
+      {
+        "id": "c",
+        "text": "Cost of implementation"
+      },
+      {
+        "id": "d",
+        "text": "Speed of computation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Data privacy and security\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0104",
+    "type": "mcq",
+    "question": "What is \"algorithmic bias\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "When algorithms process data too slowly"
+      },
+      {
+        "id": "b",
+        "text": "When algorithms favor certain outcomes over others"
+      },
+      {
+        "id": "c",
+        "text": "When algorithms require too much data"
+      },
+      {
+        "id": "d",
+        "text": "When algorithms are not explainable"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"When algorithms favor certain outcomes over others\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0105",
+    "type": "mcq",
+    "question": "What is a potential future trend in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Decreased reliance on data"
+      },
+      {
+        "id": "b",
+        "text": "Increased collaboration between AI and humans"
+      },
+      {
+        "id": "c",
+        "text": "Elimination of all manual jobs"
+      },
+      {
+        "id": "d",
+        "text": "Reduced complexity of algorithms"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Increased collaboration between AI and humans\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0106",
+    "type": "mcq",
+    "question": "What is a primary function of natural language processing (NLP) in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To analyze numerical data"
+      },
+      {
+        "id": "b",
+        "text": "To enable computers to understand and generate human language"
+      },
+      {
+        "id": "c",
+        "text": "To enhance visual recognition"
+      },
+      {
+        "id": "d",
+        "text": "To manage database systems"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Natural Language Processing helps computers understand, process, and generate human language."
+  },
+  {
+    "id": "air-0107",
+    "type": "mcq",
+    "question": "Which of the following is a common challenge in AI development?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Limited computational power"
+      },
+      {
+        "id": "b",
+        "text": "Abundance of data"
+      },
+      {
+        "id": "c",
+        "text": "Universal applicability"
+      },
+      {
+        "id": "d",
+        "text": "Predictability of outcomes"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Limited computational power\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0108",
+    "type": "mcq",
+    "question": "In which domain is AI used for fraud detection?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Education"
+      },
+      {
+        "id": "b",
+        "text": "Finance"
+      },
+      {
+        "id": "c",
+        "text": "Agriculture"
+      },
+      {
+        "id": "d",
+        "text": "Entertainment"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Finance\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0109",
+    "type": "mcq",
+    "question": "What technology is primarily used in virtual assistants like Siri and Alexa?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Machine learning"
+      },
+      {
+        "id": "b",
+        "text": "Blockchain"
+      },
+      {
+        "id": "c",
+        "text": "Database management"
+      },
+      {
+        "id": "d",
+        "text": "Quantum computing"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Machine learning\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0110",
+    "type": "mcq",
+    "question": "Which algorithm is often used for classification tasks in supervised learning?",
+    "options": [
+      {
+        "id": "a",
+        "text": "K-means clustering"
+      },
+      {
+        "id": "b",
+        "text": "Decision trees"
+      },
+      {
+        "id": "c",
+        "text": "Genetic algorithms"
+      },
+      {
+        "id": "d",
+        "text": "Principal component analysis"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Machine learning allows systems to improve performance using data and experience."
+  },
+  {
+    "id": "air-0111",
+    "type": "mcq",
+    "question": "In AI, what does \"feature extraction\" refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The process of collecting raw data"
+      },
+      {
+        "id": "b",
+        "text": "The process of identifying relevant attributes in the data"
+      },
+      {
+        "id": "c",
+        "text": "The analysis of algorithms"
+      },
+      {
+        "id": "d",
+        "text": "The visualization of data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The process of identifying relevant attributes in the data\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0112",
+    "type": "mcq",
+    "question": "A \"goal state\" in AI problem-solving is defined as:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Any state in the search space"
+      },
+      {
+        "id": "b",
+        "text": "The initial condition of the problem"
+      },
+      {
+        "id": "c",
+        "text": "The desired outcome of the problem-solving process"
+      },
+      {
+        "id": "d",
+        "text": "A state that is impossible to achieve"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The desired outcome of the problem-solving process\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0113",
+    "type": "mcq",
+    "question": "Which search strategy expands the shallowest node first?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Breadth-first search"
+      },
+      {
+        "id": "b",
+        "text": "Depth-first search"
+      },
+      {
+        "id": "c",
+        "text": "A* search"
+      },
+      {
+        "id": "d",
+        "text": "Hill climbing"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0114",
+    "type": "mcq",
+    "question": "What is \"greedy search\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A search that always expands the least costly node"
+      },
+      {
+        "id": "b",
+        "text": "A search that expands the node with the lowest heuristic value"
+      },
+      {
+        "id": "c",
+        "text": "A search that chooses the best immediate option without considering future consequences"
+      },
+      {
+        "id": "d",
+        "text": "A search that examines all possible paths"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0115",
+    "type": "mcq",
+    "question": "In constraint satisfaction problems, what is a \"backtracking algorithm\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An algorithm that records previous states"
+      },
+      {
+        "id": "b",
+        "text": "An algorithm that revisits previous states to find solutions"
+      },
+      {
+        "id": "c",
+        "text": "An algorithm that only searches forward"
+      },
+      {
+        "id": "d",
+        "text": "An algorithm that minimizes resource usage"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"An algorithm that revisits previous states to find solutions\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0116",
+    "type": "mcq",
+    "question": "What type of knowledge does \"procedural knowledge\" represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Knowledge of facts and information"
+      },
+      {
+        "id": "b",
+        "text": "Knowledge of how to perform tasks"
+      },
+      {
+        "id": "c",
+        "text": "Knowledge that is abstract and theoretical"
+      },
+      {
+        "id": "d",
+        "text": "Knowledge that is learned from observation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Knowledge representation techniques allow AI systems to store and reason using information effectively."
+  },
+  {
+    "id": "air-0117",
+    "type": "mcq",
+    "question": "Which of the following best describes \"semantic web\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A web of interconnected databases"
+      },
+      {
+        "id": "b",
+        "text": "A web that allows data to be shared and reused across applications"
+      },
+      {
+        "id": "c",
+        "text": "A web of purely visual data"
+      },
+      {
+        "id": "d",
+        "text": "A web that operates without human input"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A web that allows data to be shared and reused across applications\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0118",
+    "type": "mcq",
+    "question": "What is \"abductive reasoning\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reasoning based on general rules"
+      },
+      {
+        "id": "b",
+        "text": "Reasoning that seeks the best explanation for a set of observations"
+      },
+      {
+        "id": "c",
+        "text": "Reasoning that follows a strict logical deduction"
+      },
+      {
+        "id": "d",
+        "text": "Reasoning that only considers past experiences"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Reasoning that seeks the best explanation for a set of observations\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0119",
+    "type": "mcq",
+    "question": "In the context of AI, what does \"entailment\" refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The process of drawing conclusions based on premises"
+      },
+      {
+        "id": "b",
+        "text": "The exclusion of contradictory information"
+      },
+      {
+        "id": "c",
+        "text": "The collection of data"
+      },
+      {
+        "id": "d",
+        "text": "The verification of facts"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The process of drawing conclusions based on premises\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0120",
+    "type": "mcq",
+    "question": "In statistics, what is a \"confounding variable\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A variable that is dependent on the outcome"
+      },
+      {
+        "id": "b",
+        "text": "A variable that affects both the independent and dependent variables"
+      },
+      {
+        "id": "c",
+        "text": "A variable that is controlled in experiments"
+      },
+      {
+        "id": "d",
+        "text": "A variable that has no impact on the results"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A variable that affects both the independent and dependent variables\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0121",
+    "type": "mcq",
+    "question": "What does \"sampling\" mean in the context of statistics?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The process of collecting all data"
+      },
+      {
+        "id": "b",
+        "text": "The process of selecting a subset of individuals from a population"
+      },
+      {
+        "id": "c",
+        "text": "The analysis of entire datasets"
+      },
+      {
+        "id": "d",
+        "text": "The combination of multiple datasets"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The process of selecting a subset of individuals from a population\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0122",
+    "type": "mcq",
+    "question": "What is \"dropout\" in neural networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A method to reduce overfitting by randomly omitting neurons during training"
+      },
+      {
+        "id": "b",
+        "text": "A process for selecting features"
+      },
+      {
+        "id": "c",
+        "text": "A technique for initializing weights"
+      },
+      {
+        "id": "d",
+        "text": "A way to visualize data"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0123",
+    "type": "mcq",
+    "question": "What type of data is typically used to train convolutional neural networks (CNNs)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Time-series data"
+      },
+      {
+        "id": "b",
+        "text": "Text data"
+      },
+      {
+        "id": "c",
+        "text": "Image data"
+      },
+      {
+        "id": "d",
+        "text": "Graph data"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0124",
+    "type": "mcq",
+    "question": "What is the purpose of \"path planning\" in robotics?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To control the robot's speed"
+      },
+      {
+        "id": "b",
+        "text": "To determine a route for the robot to follow"
+      },
+      {
+        "id": "c",
+        "text": "To analyze the robot's sensors"
+      },
+      {
+        "id": "d",
+        "text": "To program the robot's responses"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0125",
+    "type": "mcq",
+    "question": "Which of the following best describes \"simultaneous localization and mapping\" (SLAM)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A method for building static maps"
+      },
+      {
+        "id": "b",
+        "text": "A technique for mapping an unknown environment while keeping track of the robot's location"
+      },
+      {
+        "id": "c",
+        "text": "A technique for data storage"
+      },
+      {
+        "id": "d",
+        "text": "A process for image recognition"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A technique for mapping an unknown environment while keeping track of the robot's location\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0126",
+    "type": "mcq",
+    "question": "In a production system, what is a \"state space\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A model of all possible states the system can be in"
+      },
+      {
+        "id": "b",
+        "text": "The physical location of the robot"
+      },
+      {
+        "id": "c",
+        "text": "The storage of all rules"
+      },
+      {
+        "id": "d",
+        "text": "The algorithm used for searching"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A model of all possible states the system can be in\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0127",
+    "type": "mcq",
+    "question": "What is the \"initial state\" in problem-solving?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The state after the goal is achieved"
+      },
+      {
+        "id": "b",
+        "text": "The starting point of the problem"
+      },
+      {
+        "id": "c",
+        "text": "The final state of the solution"
+      },
+      {
+        "id": "d",
+        "text": "The state with the highest cost"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The starting point of the problem\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0128",
+    "type": "mcq",
+    "question": "Which heuristic technique uses a fixed rule to determine the next step?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Best-first search"
+      },
+      {
+        "id": "b",
+        "text": "A* search"
+      },
+      {
+        "id": "c",
+        "text": "Greedy search"
+      },
+      {
+        "id": "d",
+        "text": "Depth-first search"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Heuristics are techniques used to estimate the best path or solution quickly without exploring every possibility."
+  },
+  {
+    "id": "air-0129",
+    "type": "mcq",
+    "question": "In hill climbing, what happens if the algorithm reaches a plateau?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It stops searching"
+      },
+      {
+        "id": "b",
+        "text": "It continues to explore other nodes"
+      },
+      {
+        "id": "c",
+        "text": "It reverts to the previous state"
+      },
+      {
+        "id": "d",
+        "text": "It guarantees a solution"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"It continues to explore other nodes\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0130",
+    "type": "mcq",
+    "question": "Which of the following is a disadvantage of semantic networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They can represent relationships effectively"
+      },
+      {
+        "id": "b",
+        "text": "They are difficult to understand"
+      },
+      {
+        "id": "c",
+        "text": "They do not handle uncertainty well"
+      },
+      {
+        "id": "d",
+        "text": "They require extensive data"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"They do not handle uncertainty well\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0131",
+    "type": "mcq",
+    "question": "What is the main purpose of default logic?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To create fixed rules for reasoning"
+      },
+      {
+        "id": "b",
+        "text": "To allow reasoning in the presence of incomplete information"
+      },
+      {
+        "id": "c",
+        "text": "To enforce strict logical conclusions"
+      },
+      {
+        "id": "d",
+        "text": "To model probabilistic events"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Logic-based reasoning helps AI systems derive conclusions from facts and rules."
+  },
+  {
+    "id": "air-0132",
+    "type": "mcq",
+    "question": "What is \"multicollinearity\" in regression analysis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The presence of multiple independent variables"
+      },
+      {
+        "id": "b",
+        "text": "When two or more independent variables are highly correlated"
+      },
+      {
+        "id": "c",
+        "text": "The relationship between dependent and independent variables"
+      },
+      {
+        "id": "d",
+        "text": "The number of observations in the dataset"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"When two or more independent variables are highly correlated\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0133",
+    "type": "mcq",
+    "question": "In which scenario are \"generative adversarial networks\" (GANs) commonly used?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Image classification"
+      },
+      {
+        "id": "b",
+        "text": "Generating new data samples"
+      },
+      {
+        "id": "c",
+        "text": "Reinforcement learning"
+      },
+      {
+        "id": "d",
+        "text": "Time series forecasting"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Generating new data samples\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0134",
+    "type": "mcq",
+    "question": "What does \"robot perception\" involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analyzing performance metrics"
+      },
+      {
+        "id": "b",
+        "text": "Interpreting data from sensors to understand the environment"
+      },
+      {
+        "id": "c",
+        "text": "Programming robot tasks"
+      },
+      {
+        "id": "d",
+        "text": "Designing robot interfaces"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0135",
+    "type": "mcq",
+    "question": "What is a \"smart contract\" in blockchain technology?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A traditional legal contract"
+      },
+      {
+        "id": "b",
+        "text": "An agreement executed automatically by code"
+      },
+      {
+        "id": "c",
+        "text": "A paper-based agreement"
+      },
+      {
+        "id": "d",
+        "text": "A visual representation of a contract"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"An agreement executed automatically by code\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0136",
+    "type": "mcq",
+    "question": "Which area uses AI for real-time language translation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Computer vision"
+      },
+      {
+        "id": "b",
+        "text": "Natural language processing"
+      },
+      {
+        "id": "c",
+        "text": "Data mining"
+      },
+      {
+        "id": "d",
+        "text": "Predictive modeling"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Natural Language Processing helps computers understand, process, and generate human language."
+  },
+  {
+    "id": "air-0137",
+    "type": "mcq",
+    "question": "What is \"autonomous AI\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "AI that operates without human intervention"
+      },
+      {
+        "id": "b",
+        "text": "AI that requires constant human supervision"
+      },
+      {
+        "id": "c",
+        "text": "AI designed for specific tasks only"
+      },
+      {
+        "id": "d",
+        "text": "AI that functions only in controlled environments"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"AI that operates without human intervention\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0138",
+    "type": "mcq",
+    "question": "What is a potential application of AI in climate change?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Monitoring and analyzing environmental data"
+      },
+      {
+        "id": "b",
+        "text": "Reducing human jobs in environmental sectors"
+      },
+      {
+        "id": "c",
+        "text": "Enhancing traditional farming techniques"
+      },
+      {
+        "id": "d",
+        "text": "Increasing energy consumption"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Monitoring and analyzing environmental data\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0139",
+    "type": "mcq",
+    "question": "What does \"transfer learning\" help achieve in deep learning?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Faster training from scratch"
+      },
+      {
+        "id": "b",
+        "text": "Reusing a pre-trained model on a new but related task"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring data quality issues"
+      },
+      {
+        "id": "d",
+        "text": "Reducing the need for labeled data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Machine learning allows systems to improve performance using data and experience."
+  },
+  {
+    "id": "air-0140",
+    "type": "mcq",
+    "question": "Which algorithm is widely used in natural language processing for generating text?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Linear regression"
+      },
+      {
+        "id": "b",
+        "text": "Recurrent Neural Networks (RNNs)"
+      },
+      {
+        "id": "c",
+        "text": "Decision Trees"
+      },
+      {
+        "id": "d",
+        "text": "Support Vector Machines"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Natural Language Processing helps computers understand, process, and generate human language."
+  },
+  {
+    "id": "air-0141",
+    "type": "mcq",
+    "question": "What is \"robot navigation\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Designing robot hardware"
+      },
+      {
+        "id": "b",
+        "text": "The process of determining a robot's path from one point to another"
+      },
+      {
+        "id": "c",
+        "text": "Programming a robot’s tasks"
+      },
+      {
+        "id": "d",
+        "text": "Gathering sensor data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0142",
+    "type": "mcq",
+    "question": "What does \"swarm robotics\" involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A single robot performing tasks"
+      },
+      {
+        "id": "b",
+        "text": "A group of robots coordinating to accomplish tasks"
+      },
+      {
+        "id": "c",
+        "text": "Isolated robot systems"
+      },
+      {
+        "id": "d",
+        "text": "Manual control of multiple robots"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0143",
+    "type": "mcq",
+    "question": "What is the purpose of \"outlier detection\" in data analysis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To reduce data size"
+      },
+      {
+        "id": "b",
+        "text": "To identify unusual data points that differ significantly from the rest"
+      },
+      {
+        "id": "c",
+        "text": "To enhance data accuracy"
+      },
+      {
+        "id": "d",
+        "text": "To visualize data trends"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"To identify unusual data points that differ significantly from the rest\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0144",
+    "type": "mcq",
+    "question": "What does \"confidence level\" refer to in statistics?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The degree of certainty in a statistical estimate"
+      },
+      {
+        "id": "b",
+        "text": "The average of a sample"
+      },
+      {
+        "id": "c",
+        "text": "The total number of samples collected"
+      },
+      {
+        "id": "d",
+        "text": "The probability of collecting new data"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The degree of certainty in a statistical estimate\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0145",
+    "type": "mcq",
+    "question": "What is \"support vector machine\" (SVM) primarily used for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Regression analysis"
+      },
+      {
+        "id": "b",
+        "text": "Classification tasks"
+      },
+      {
+        "id": "c",
+        "text": "Clustering"
+      },
+      {
+        "id": "d",
+        "text": "Dimensionality reduction"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Classification tasks\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0146",
+    "type": "mcq",
+    "question": "What does \"cross-entropy loss\" measure in classification problems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The difference between predicted and actual probabilities"
+      },
+      {
+        "id": "b",
+        "text": "The total number of samples"
+      },
+      {
+        "id": "c",
+        "text": "The speed of the algorithm"
+      },
+      {
+        "id": "d",
+        "text": "The number of layers in a neural network"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The difference between predicted and actual probabilities\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0147",
+    "type": "mcq",
+    "question": "In which industry is AI used for predictive maintenance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Retail"
+      },
+      {
+        "id": "b",
+        "text": "Manufacturing"
+      },
+      {
+        "id": "c",
+        "text": "Education"
+      },
+      {
+        "id": "d",
+        "text": "Hospitality"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Manufacturing\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0148",
+    "type": "mcq",
+    "question": "How is AI applied in agriculture?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manual crop monitoring"
+      },
+      {
+        "id": "b",
+        "text": "Autonomous vehicles for planting and harvesting"
+      },
+      {
+        "id": "c",
+        "text": "Basic data entry"
+      },
+      {
+        "id": "d",
+        "text": "Traditional farming methods"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Autonomous vehicles for planting and harvesting\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0149",
+    "type": "mcq",
+    "question": "What is \"AI explainability\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Making AI decisions faster"
+      },
+      {
+        "id": "b",
+        "text": "The ability to understand and interpret how AI systems make decisions"
+      },
+      {
+        "id": "c",
+        "text": "Reducing the complexity of algorithms"
+      },
+      {
+        "id": "d",
+        "text": "Enhancing the performance of AI systems"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The ability to understand and interpret how AI systems make decisions\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0150",
+    "type": "mcq",
+    "question": "What is a common challenge in developing AI systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Excessive data storage"
+      },
+      {
+        "id": "b",
+        "text": "Ensuring data privacy and security"
+      },
+      {
+        "id": "c",
+        "text": "Reducing computational power"
+      },
+      {
+        "id": "d",
+        "text": "Simplifying algorithms"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Ensuring data privacy and security\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0151",
+    "type": "mcq",
+    "question": "What is \"zero-shot learning\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Learning with no training data"
+      },
+      {
+        "id": "b",
+        "text": "Learning to recognize objects without prior examples"
+      },
+      {
+        "id": "c",
+        "text": "Learning only from negative examples"
+      },
+      {
+        "id": "d",
+        "text": "Learning through reinforcement"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Machine learning allows systems to improve performance using data and experience."
+  },
+  {
+    "id": "air-0152",
+    "type": "mcq",
+    "question": "In the context of AI, what is a \"token\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A data point used for training"
+      },
+      {
+        "id": "b",
+        "text": "A representation of a word or term in text processing"
+      },
+      {
+        "id": "c",
+        "text": "A variable in programming"
+      },
+      {
+        "id": "d",
+        "text": "A measurement unit for data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A representation of a word or term in text processing\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0153",
+    "type": "mcq",
+    "question": "What is the role of AI in enhancing cybersecurity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Automating all security tasks"
+      },
+      {
+        "id": "b",
+        "text": "Identifying and responding to threats in real-time"
+      },
+      {
+        "id": "c",
+        "text": "Reducing the need for human analysts"
+      },
+      {
+        "id": "d",
+        "text": "Ignoring potential vulnerabilities"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Identifying and responding to threats in real-time\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0154",
+    "type": "mcq",
+    "question": "What is \"augmented intelligence\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The idea that AI will fully replace human intelligence"
+      },
+      {
+        "id": "b",
+        "text": "AI systems that assist and enhance human decision-making"
+      },
+      {
+        "id": "c",
+        "text": "AI functioning independently of human input"
+      },
+      {
+        "id": "d",
+        "text": "Simplified algorithms"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"AI systems that assist and enhance human decision-making\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0155",
+    "type": "mcq",
+    "question": "What is \"ensemble learning\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using multiple models to improve prediction accuracy"
+      },
+      {
+        "id": "b",
+        "text": "Training a single model repeatedly"
+      },
+      {
+        "id": "c",
+        "text": "Reducing the number of features"
+      },
+      {
+        "id": "d",
+        "text": "Ignoring outliers in data"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Machine learning allows systems to improve performance using data and experience."
+  },
+  {
+    "id": "air-0156",
+    "type": "mcq",
+    "question": "What does \"data labeling\" involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Organizing data into folders"
+      },
+      {
+        "id": "b",
+        "text": "Assigning tags or categories to data for supervised learning"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring unimportant data"
+      },
+      {
+        "id": "d",
+        "text": "Deleting redundant data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Assigning tags or categories to data for supervised learning\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0157",
+    "type": "mcq",
+    "question": "What is \"human-robot interaction\" (HRI)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The study of robots in isolation"
+      },
+      {
+        "id": "b",
+        "text": "The field focusing on how humans and robots communicate and collaborate"
+      },
+      {
+        "id": "c",
+        "text": "Programming robots to function without humans"
+      },
+      {
+        "id": "d",
+        "text": "The mechanical design of robots"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0158",
+    "type": "mcq",
+    "question": "What does \"autonomous navigation\" entail for robots?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manually controlled movement"
+      },
+      {
+        "id": "b",
+        "text": "The ability to navigate and make decisions without human input"
+      },
+      {
+        "id": "c",
+        "text": "Following predefined paths only"
+      },
+      {
+        "id": "d",
+        "text": "Limited movement capabilities"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0159",
+    "type": "mcq",
+    "question": "What is a significant concern regarding AI surveillance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased efficiency"
+      },
+      {
+        "id": "b",
+        "text": "Privacy and civil liberties"
+      },
+      {
+        "id": "c",
+        "text": "Enhanced security"
+      },
+      {
+        "id": "d",
+        "text": "Data storage costs"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Privacy and civil liberties\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0160",
+    "type": "mcq",
+    "question": "What role does AI play in social media?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reducing user interaction"
+      },
+      {
+        "id": "b",
+        "text": "Personalized content recommendations"
+      },
+      {
+        "id": "c",
+        "text": "Manual content moderation"
+      },
+      {
+        "id": "d",
+        "text": "Eliminating user-generated content"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Personalized content recommendations\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0161",
+    "type": "mcq",
+    "question": "What is a primary goal of AI research?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To reduce the need for human intelligence"
+      },
+      {
+        "id": "b",
+        "text": "To create systems that can improve human decision-making and efficiency"
+      },
+      {
+        "id": "c",
+        "text": "To simplify all technology"
+      },
+      {
+        "id": "d",
+        "text": "To limit data usage"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0162",
+    "type": "mcq",
+    "question": "What does the term \"digital twin\" refer to in AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A physical duplicate of an object"
+      },
+      {
+        "id": "b",
+        "text": "A digital replica of a physical object or system used for simulations"
+      },
+      {
+        "id": "c",
+        "text": "A backup of digital data"
+      },
+      {
+        "id": "d",
+        "text": "A redundant data model"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"A digital replica of a physical object or system used for simulations\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0163",
+    "type": "mcq",
+    "question": "How can AI contribute to enhancing education?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By replacing teachers entirely"
+      },
+      {
+        "id": "b",
+        "text": "By providing personalized learning experiences"
+      },
+      {
+        "id": "c",
+        "text": "By simplifying classroom management"
+      },
+      {
+        "id": "d",
+        "text": "By standardizing all teaching methods"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"By providing personalized learning experiences\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0164",
+    "type": "mcq",
+    "question": "What does \"smart manufacturing\" involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manual assembly lines"
+      },
+      {
+        "id": "b",
+        "text": "The integration of AI and IoT to optimize production processes"
+      },
+      {
+        "id": "c",
+        "text": "Traditional manufacturing techniques"
+      },
+      {
+        "id": "d",
+        "text": "Reducing the use of technology"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The integration of AI and IoT to optimize production processes\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0165",
+    "type": "mcq",
+    "question": "What is \"digital ethics\" in the context of AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The study of data storage techniques"
+      },
+      {
+        "id": "b",
+        "text": "The principles guiding the responsible use of digital technologies"
+      },
+      {
+        "id": "c",
+        "text": "The focus on improving digital marketing"
+      },
+      {
+        "id": "d",
+        "text": "The legal framework for software development"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"The principles guiding the responsible use of digital technologies\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0166",
+    "type": "mcq",
+    "question": "What is \"algorithm transparency\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Making algorithms more complex"
+      },
+      {
+        "id": "b",
+        "text": "Ensuring that the workings of algorithms are clear and understandable to users"
+      },
+      {
+        "id": "c",
+        "text": "Reducing the need for documentation"
+      },
+      {
+        "id": "d",
+        "text": "Simplifying data analysis"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Ensuring that the workings of algorithms are clear and understandable to users\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0167",
+    "type": "mcq",
+    "question": "What is a key advantage of neural networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They require less data"
+      },
+      {
+        "id": "b",
+        "text": "They model complex patterns"
+      },
+      {
+        "id": "c",
+        "text": "They are easy to interpret"
+      },
+      {
+        "id": "d",
+        "text": "They are low-cost"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0168",
+    "type": "mcq",
+    "question": "Recurrent neural networks are ideal for:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Static data"
+      },
+      {
+        "id": "b",
+        "text": "Sequential data"
+      },
+      {
+        "id": "c",
+        "text": "Image processing"
+      },
+      {
+        "id": "d",
+        "text": "Database queries"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0169",
+    "type": "mcq",
+    "question": "What does kinematics in robotics study?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Control systems"
+      },
+      {
+        "id": "b",
+        "text": "Forces"
+      },
+      {
+        "id": "c",
+        "text": "Motion without forces"
+      },
+      {
+        "id": "d",
+        "text": "Energy use"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0170",
+    "type": "mcq",
+    "question": "Which is NOT part of robot programming?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Control systems"
+      },
+      {
+        "id": "b",
+        "text": "Kinematic modeling"
+      },
+      {
+        "id": "c",
+        "text": "User interfaces"
+      },
+      {
+        "id": "d",
+        "text": "Material selection"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0171",
+    "type": "mcq",
+    "question": "What is a challenge in robot programming?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strength of robots"
+      },
+      {
+        "id": "b",
+        "text": "Aesthetic design"
+      },
+      {
+        "id": "c",
+        "text": "Efficient decision-making"
+      },
+      {
+        "id": "d",
+        "text": "Battery life"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0172",
+    "type": "mcq",
+    "question": "A key feature of production systems is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "It can’t change rules"
+      },
+      {
+        "id": "b",
+        "text": "Uses rules and a database"
+      },
+      {
+        "id": "c",
+        "text": "Only uses neural networks"
+      },
+      {
+        "id": "d",
+        "text": "Always optimal"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Uses rules and a database\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0173",
+    "type": "mcq",
+    "question": "A problem in AI typically involves:",
+    "options": [
+      {
+        "id": "a",
+        "text": "No constraints"
+      },
+      {
+        "id": "b",
+        "text": "Fixed outcomes"
+      },
+      {
+        "id": "c",
+        "text": "Complexity"
+      },
+      {
+        "id": "d",
+        "text": "Static facts"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Complexity\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0174",
+    "type": "mcq",
+    "question": "What is a disadvantage of hill climbing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stuck in local maxima"
+      },
+      {
+        "id": "b",
+        "text": "Needs memory"
+      },
+      {
+        "id": "c",
+        "text": "Is always optimal"
+      },
+      {
+        "id": "d",
+        "text": "Can’t apply to complex problems"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Stuck in local maxima\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0175",
+    "type": "mcq",
+    "question": "Means-ends analysis focuses on:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Finding shortcuts"
+      },
+      {
+        "id": "b",
+        "text": "Reducing difference to the goal"
+      },
+      {
+        "id": "c",
+        "text": "Action sequence"
+      },
+      {
+        "id": "d",
+        "text": "Solution efficiency"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Reducing difference to the goal\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0176",
+    "type": "mcq",
+    "question": "What represents knowledge with rules?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Semantic networks"
+      },
+      {
+        "id": "b",
+        "text": "Production systems"
+      },
+      {
+        "id": "c",
+        "text": "Neural networks"
+      },
+      {
+        "id": "d",
+        "text": "Decision trees"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Knowledge representation techniques allow AI systems to store and reason using information effectively."
+  },
+  {
+    "id": "air-0177",
+    "type": "mcq",
+    "question": "Nonmonotonic logic allows:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Static conclusions"
+      },
+      {
+        "id": "b",
+        "text": "Withdraw conclusions"
+      },
+      {
+        "id": "c",
+        "text": "Fixed rules"
+      },
+      {
+        "id": "d",
+        "text": "No uncertainty"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Logic-based reasoning helps AI systems derive conclusions from facts and rules."
+  },
+  {
+    "id": "air-0178",
+    "type": "mcq",
+    "question": "Bayesian networks model:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deterministic relationships"
+      },
+      {
+        "id": "b",
+        "text": "Probabilistic dependencies"
+      },
+      {
+        "id": "c",
+        "text": "Linear equations"
+      },
+      {
+        "id": "d",
+        "text": "Static data"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Bayesian reasoning uses probability theory to make decisions and update beliefs based on evidence."
+  },
+  {
+    "id": "air-0179",
+    "type": "mcq",
+    "question": "Connectionist models benefit by:",
+    "options": [
+      {
+        "id": "a",
+        "text": "High interpretability"
+      },
+      {
+        "id": "b",
+        "text": "Handling noisy data"
+      },
+      {
+        "id": "c",
+        "text": "Simple design"
+      },
+      {
+        "id": "d",
+        "text": "Low cost"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Handling noisy data\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0180",
+    "type": "mcq",
+    "question": "Purpose of robot sensors is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increase speed"
+      },
+      {
+        "id": "b",
+        "text": "Collect environment data"
+      },
+      {
+        "id": "c",
+        "text": "Save energy"
+      },
+      {
+        "id": "d",
+        "text": "Optimize programming"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Robotics combines sensing, movement, control, and AI techniques to enable machines to interact with environments."
+  },
+  {
+    "id": "air-0181",
+    "type": "mcq",
+    "question": "Which search is guaranteed to find a solution?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Random search"
+      },
+      {
+        "id": "b",
+        "text": "Depth-first"
+      },
+      {
+        "id": "c",
+        "text": "Breadth-first"
+      },
+      {
+        "id": "d",
+        "text": "Hill climbing"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0182",
+    "type": "mcq",
+    "question": "Heuristic functions aim to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Guarantee solutions"
+      },
+      {
+        "id": "b",
+        "text": "Estimate cost to goal"
+      },
+      {
+        "id": "c",
+        "text": "Solve without search"
+      },
+      {
+        "id": "d",
+        "text": "Validate solutions"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Heuristics are techniques used to estimate the best path or solution quickly without exploring every possibility."
+  },
+  {
+    "id": "air-0183",
+    "type": "mcq",
+    "question": "What is the goal of semantic networks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Visualize trees"
+      },
+      {
+        "id": "b",
+        "text": "Represent knowledge in graphs"
+      },
+      {
+        "id": "c",
+        "text": "Store data efficiently"
+      },
+      {
+        "id": "d",
+        "text": "Analyze statistics"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Represent knowledge in graphs\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0184",
+    "type": "mcq",
+    "question": "Default reasoning assumes:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proven true conclusions"
+      },
+      {
+        "id": "b",
+        "text": "Fixed facts"
+      },
+      {
+        "id": "c",
+        "text": "Assumptions from typical cases"
+      },
+      {
+        "id": "d",
+        "text": "Avoids uncertainty"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Assumptions from typical cases\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0185",
+    "type": "mcq",
+    "question": "Prior probability in Bayesian inference means:",
+    "options": [
+      {
+        "id": "a",
+        "text": "After observing evidence"
+      },
+      {
+        "id": "b",
+        "text": "Initial likelihood estimate"
+      },
+      {
+        "id": "c",
+        "text": "Average of outcomes"
+      },
+      {
+        "id": "d",
+        "text": "Maximum likelihood"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Bayesian reasoning uses probability theory to make decisions and update beliefs based on evidence."
+  },
+  {
+    "id": "air-0186",
+    "type": "mcq",
+    "question": "In feedforward neural networks, info:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Moves in one direction"
+      },
+      {
+        "id": "b",
+        "text": "Cycles in network"
+      },
+      {
+        "id": "c",
+        "text": "Moves forward/back"
+      },
+      {
+        "id": "d",
+        "text": "Needs feedback"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Neural networks use interconnected artificial neurons to learn patterns and relationships from data."
+  },
+  {
+    "id": "air-0187",
+    "type": "mcq",
+    "question": "An example of narrow AI is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Self-learning robot"
+      },
+      {
+        "id": "b",
+        "text": "AI playing chess"
+      },
+      {
+        "id": "c",
+        "text": "General problem solver"
+      },
+      {
+        "id": "d",
+        "text": "Human-like conversation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"AI playing chess\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0188",
+    "type": "mcq",
+    "question": "Artificial General Intelligence aims to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Outperform humans"
+      },
+      {
+        "id": "b",
+        "text": "Learn any intellectual task"
+      },
+      {
+        "id": "c",
+        "text": "Automate jobs"
+      },
+      {
+        "id": "d",
+        "text": "Process large datasets"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Learn any intellectual task\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0189",
+    "type": "mcq",
+    "question": "AI enhances user experience in:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manufacturing"
+      },
+      {
+        "id": "b",
+        "text": "Customer service"
+      },
+      {
+        "id": "c",
+        "text": "Accounting"
+      },
+      {
+        "id": "d",
+        "text": "Transportation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Customer service\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0190",
+    "type": "mcq",
+    "question": "Computer vision refers to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Interpret visual info"
+      },
+      {
+        "id": "b",
+        "text": "Design screens"
+      },
+      {
+        "id": "c",
+        "text": "Simulate human vision"
+      },
+      {
+        "id": "d",
+        "text": "Create graphic designs"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Computer vision enables machines to interpret and understand visual information from images or videos."
+  },
+  {
+    "id": "air-0191",
+    "type": "mcq",
+    "question": "In search algorithms, optimality means:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Speed"
+      },
+      {
+        "id": "b",
+        "text": "Best solution cost-wise"
+      },
+      {
+        "id": "c",
+        "text": "Simplicity"
+      },
+      {
+        "id": "d",
+        "text": "Number of solutions"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0192",
+    "type": "mcq",
+    "question": "Exhaustive search involves:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Searching a subset"
+      },
+      {
+        "id": "b",
+        "text": "Searching all solutions"
+      },
+      {
+        "id": "c",
+        "text": "Using heuristics"
+      },
+      {
+        "id": "d",
+        "text": "Prioritizing paths"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0193",
+    "type": "mcq",
+    "question": "Solution space refers to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Problem definitions"
+      },
+      {
+        "id": "b",
+        "text": "All solutions to a problem"
+      },
+      {
+        "id": "c",
+        "text": "Robot environment"
+      },
+      {
+        "id": "d",
+        "text": "Database limits"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"All solutions to a problem\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0194",
+    "type": "mcq",
+    "question": "Which search algorithm doesn’t guarantee solutions?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Depth-first"
+      },
+      {
+        "id": "b",
+        "text": "Breadth-first"
+      },
+      {
+        "id": "c",
+        "text": "A* search"
+      },
+      {
+        "id": "d",
+        "text": "Uniform-cost search"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Search algorithms help AI systems explore possible states and find solutions efficiently."
+  },
+  {
+    "id": "air-0195",
+    "type": "mcq",
+    "question": "Frames represent knowledge in:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Logic programming"
+      },
+      {
+        "id": "b",
+        "text": "Semantic networks"
+      },
+      {
+        "id": "c",
+        "text": "Neural networks"
+      },
+      {
+        "id": "d",
+        "text": "Decision trees"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Knowledge representation techniques allow AI systems to store and reason using information effectively."
+  },
+  {
+    "id": "air-0196",
+    "type": "mcq",
+    "question": "What does the frame problem deal with?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Representing changing knowledge"
+      },
+      {
+        "id": "b",
+        "text": "Database limits"
+      },
+      {
+        "id": "c",
+        "text": "Interface issues"
+      },
+      {
+        "id": "d",
+        "text": "Real-time processing"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Representing changing knowledge\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0197",
+    "type": "mcq",
+    "question": "Predicate in logic represents:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical action"
+      },
+      {
+        "id": "b",
+        "text": "Condition/relationship"
+      },
+      {
+        "id": "c",
+        "text": "Data structure"
+      },
+      {
+        "id": "d",
+        "text": "Storage"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Logic-based reasoning helps AI systems derive conclusions from facts and rules."
+  },
+  {
+    "id": "air-0198",
+    "type": "mcq",
+    "question": "Certainty factors express:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Absolute truths"
+      },
+      {
+        "id": "b",
+        "text": "Degrees of belief"
+      },
+      {
+        "id": "c",
+        "text": "Statistical data"
+      },
+      {
+        "id": "d",
+        "text": "Model validation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Degrees of belief\" because it best matches the AI concept being asked in the question."
+  },
+  {
+    "id": "air-0199",
+    "type": "mcq",
+    "question": "What does Bayesian reasoning use?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Random sampling"
+      },
+      {
+        "id": "b",
+        "text": "Probabilistic inference"
+      },
+      {
+        "id": "c",
+        "text": "Deterministic algorithms"
+      },
+      {
+        "id": "d",
+        "text": "Static analysis"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "Bayesian reasoning uses probability theory to make decisions and update beliefs based on evidence."
+  },
+  {
+    "id": "air-0200",
+    "type": "mcq",
+    "question": "A multi-objective problem involves:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Multiple solutions"
+      },
+      {
+        "id": "b",
+        "text": "Single solution"
+      },
+      {
+        "id": "c",
+        "text": "Random outcomes"
+      },
+      {
+        "id": "d",
+        "text": "Simple structure"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "air"
+    ],
+    "explanation": "The correct answer is \"Multiple solutions\" because it best matches the AI concept being asked in the question."
+  }
+]

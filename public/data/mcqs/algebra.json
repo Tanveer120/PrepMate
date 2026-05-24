@@ -1,0 +1,77 @@
+[
+  {
+    "id": "alg-0001",
+    "type": "mcq",
+    "question": "Solve for x: 2x + 3 = 7",
+    "options": [
+      { "id": "a", "text": "1" },
+      { "id": "b", "text": "2" },
+      { "id": "c", "text": "3" },
+      { "id": "d", "text": "4" }
+    ],
+    "correct": ["b"],
+    "explanation": "Subtract 3 from both sides: 2x = 4, then divide by 2, x = 2.",
+    "difficulty": 1,
+    "tags": ["linear-equations", "algebra"]
+  },
+  {
+    "id": "alg-0002",
+    "type": "mcq",
+    "question": "What is the value of 5²?",
+    "options": [
+      { "id": "a", "text": "10" },
+      { "id": "b", "text": "15" },
+      { "id": "c", "text": "20" },
+      { "id": "d", "text": "25" }
+    ],
+    "correct": ["d"],
+    "explanation": "5 multiplied by itself (5 × 5) equals 25.",
+    "difficulty": 1,
+    "tags": ["exponents", "algebra"]
+  },
+  {
+    "id": "alg-0003",
+    "type": "mcq",
+    "question": "If y = 3x - 2, what is y when x = 4?",
+    "options": [
+      { "id": "a", "text": "10" },
+      { "id": "b", "text": "14" },
+      { "id": "c", "text": "8" },
+      { "id": "d", "text": "12" }
+    ],
+    "correct": ["a"],
+    "explanation": "Substitute 4 for x: y = 3(4) - 2 = 12 - 2 = 10.",
+    "difficulty": 2,
+    "tags": ["functions", "algebra"]
+  },
+  {
+    "id": "alg-0004",
+    "type": "mcq",
+    "question": "Factor: x² - 9",
+    "options": [
+      { "id": "a", "text": "(x - 3)(x - 3)" },
+      { "id": "b", "text": "(x + 3)(x + 3)" },
+      { "id": "c", "text": "(x - 3)(x + 3)" },
+      { "id": "d", "text": "x(x - 9)" }
+    ],
+    "correct": ["c"],
+    "explanation": "This is a difference of squares: a² - b² = (a - b)(a + b). Here a = x, b = 3.",
+    "difficulty": 2,
+    "tags": ["factoring", "algebra"]
+  },
+  {
+    "id": "alg-0005",
+    "type": "mcq",
+    "question": "Solve for x: x/4 = 8",
+    "options": [
+      { "id": "a", "text": "2" },
+      { "id": "b", "text": "12" },
+      { "id": "c", "text": "24" },
+      { "id": "d", "text": "32" }
+    ],
+    "correct": ["d"],
+    "explanation": "Multiply both sides by 4: x = 8 × 4 = 32.",
+    "difficulty": 1,
+    "tags": ["linear-equations", "algebra"]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "air-0001",
+    "type": "mcq",
+    "question": "What is a basic definition of Artificial Intelligence (AI)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Machines that can perform any task a human can"
+      },
+      {
+        "id": "b",
+        "text": "The simulation of human intelligence processes by machines"
+      },
+      {
+        "id": "c",
+        "text": "The creation of physical robots"
+      },
+      {
+        "id": "d",
+        "text": "A type of programming language"
+      }
+    ],
+    "correct": ["b"],
+    "difficulty": 1,
+    "tags": ["basics"]
+  },
+  {
+    "id": "air-0002",
+    "type": "mcq",
+    "question": "Which of the following is a common application of AI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Weather forecasting"
+      },
+      {
+        "id": "b",
+        "text": "Cooking recipes"
+      },
+      {
+        "id": "c",
+        "text": "Manual bookkeeping"
+      },
+      {
+        "id": "d",
+        "text": "Gardening"
+      }
+    ],
+    "correct": ["a"],
+    "difficulty": 1,
+    "tags": ["applications"]
+  }
+]

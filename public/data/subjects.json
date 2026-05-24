@@ -1,0 +1,113 @@
+[
+  {
+    "slug": "air-quiz",
+    "title": "AIR Quiz - Artificial Intelligence and Robotics",
+    "description": "Artificial Intelligence and Robotics MCQs covering AI concepts, search algorithms, neural networks, robotics, NLP, machine learning, and reasoning systems",
+    "icon": "Brain",
+    "color": "accent-lavender",
+    "questionsFile": "mcqs/air_mcq_with_explanations.json",
+    "version": "1.0",
+    "count": 200,
+    "tags": [
+      "Sem - 2",
+      "artificial-intelligence",
+      "robotics",
+      "machine-learning",
+      "neural-networks",
+      "nlp",
+      "search-algorithms"
+    ]
+  },
+  {
+    "slug": "ajp-quiz",
+    "title": "AJP Quiz - Advanced Java Programming",
+    "description": "Advanced Java Programming MCQs covering OOP, inheritance, polymorphism, exception handling, collections, multithreading, JDBC, and Java concepts",
+    "icon": "Code2",
+    "color": "accent-peach",
+    "questionsFile": "mcqs/ajp_mcq_with_explanations.json",
+    "version": "1.0",
+    "count": 201,
+    "tags": [
+      "Sem - 2",
+      "advanced-java",
+      "oop",
+      "jdbc",
+      "multithreading",
+      "collections",
+      "programming"
+    ]
+  },
+  {
+    "slug": "ase-quiz",
+    "title": "ASE Quiz - Advanced Software Engineering",
+    "description": "Advanced Software Engineering MCQs covering SDLC, Agile, UML, software testing, requirements engineering, maintenance, and project management",
+    "icon": "Workflow",
+    "color": "accent-peach",
+    "questionsFile": "mcqs/ase_mcq_with_explanations.json",
+    "version": "1.0",
+    "count": 201,
+    "tags": [
+      "Sem - 2",
+      "agile",
+      "uml",
+      "testing",
+      "sdlc",
+      "project-management"
+    ]
+  },
+  {
+    "slug": "cis-quiz",
+    "title": "CIS Quiz - Cyber and Information Security",
+    "description": "Cyber and Information Security MCQs covering encryption, firewalls, malware, authentication, network security, phishing, and cybersecurity concepts",
+    "icon": "ShieldCheck",
+    "color": "accent-peach",
+    "questionsFile": "mcqs/cis_mcq_with_explanations.json",
+    "version": "1.0",
+    "count": 204,
+    "tags": [
+      "Sem - 2",
+      "network-security",
+      "encryption",
+      "firewalls",
+      "authentication",
+      "malware"
+    ]
+  },
+  {
+    "slug": "dcn-quiz",
+    "title": "DCN Quiz - Data Communication and Networking",
+    "description": "Data Communication and Networking MCQs covering OSI model, TCP/IP, routing, switching, protocols, DNS, HTTP, and wireless networking",
+    "icon": "Network",
+    "color": "accent-peach",
+    "questionsFile": "mcqs/dcn_mcq_with_explanations.json",
+    "version": "1.0",
+    "count": 200,
+    "tags": [
+      "Sem - 2",
+      "tcp-ip",
+      "osi-model",
+      "routing",
+      "switching",
+      "protocols"
+    ]
+  },
+  {
+    "slug": "ost-php-quiz",
+    "title": "OST PHP Quiz - Open Source Technologies and PHP",
+    "description": "OST and PHP MCQs covering PHP, MySQL, HTML, CSS, JavaScript, sessions, cookies, forms, Apache, and web technologies",
+    "icon": "Globe",
+    "color": "accent-peach",
+    "questionsFile": "mcqs/ost_php_mcq_with_explanations.json",
+    "version": "1.0",
+    "count": 199,
+    "tags": [
+      "Sem - 2",
+      "mysql",
+      "web-development",
+      "html",
+      "css",
+      "javascript",
+      "apache"
+    ]
+  }
+]

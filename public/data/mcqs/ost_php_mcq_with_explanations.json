@@ -1,0 +1,6370 @@
+[
+  {
+    "id": "ost-0001",
+    "type": "mcq",
+    "question": "PHP is an acronym for         .",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prefix Hypertext Preprocessor"
+      },
+      {
+        "id": "b",
+        "text": "Prototype Hypertext Preprocessor"
+      },
+      {
+        "id": "c",
+        "text": "Hypertext Preprocessor"
+      },
+      {
+        "id": "d",
+        "text": "PHP: Hypertext Preprocessor"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0002",
+    "type": "mcq",
+    "question": "Which is/are statement(s) true about PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is an open-source scripting language"
+      },
+      {
+        "id": "b",
+        "text": "PHP scripts execute on the server"
+      },
+      {
+        "id": "c",
+        "text": "It is used for developing dynamic & interactive websites"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0003",
+    "type": "mcq",
+    "question": "What is the extension of a PHP file?",
+    "options": [
+      {
+        "id": "a",
+        "text": "php"
+      },
+      {
+        "id": "b",
+        "text": ".ph"
+      },
+      {
+        "id": "c",
+        "text": ".phpfile"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0004",
+    "type": "mcq",
+    "question": "Who developed PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Guido van Rossum"
+      },
+      {
+        "id": "b",
+        "text": "Rasmus Lerdorf"
+      },
+      {
+        "id": "c",
+        "text": "Jesse James Garrett"
+      },
+      {
+        "id": "d",
+        "text": "Douglas Crockford"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0005",
+    "type": "mcq",
+    "question": "In which year PHP was developed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1993"
+      },
+      {
+        "id": "b",
+        "text": "1994"
+      },
+      {
+        "id": "c",
+        "text": "1995"
+      },
+      {
+        "id": "d",
+        "text": "1996"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0006",
+    "type": "mcq",
+    "question": "A PHP script starts with          and ends with       .",
+    "options": [
+      {
+        "id": "a",
+        "text": "<?php and ?>"
+      },
+      {
+        "id": "b",
+        "text": "<php> and </php>"
+      },
+      {
+        "id": "c",
+        "text": "<?php and /?php>"
+      },
+      {
+        "id": "d",
+        "text": "</php and />"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0007",
+    "type": "mcq",
+    "question": "PHP keywords are case-sensitive?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes"
+      },
+      {
+        "id": "b",
+        "text": "No"
+      },
+      {
+        "id": "c",
+        "text": "Both A & B"
+      },
+      {
+        "id": "d",
+        "text": "nan"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0008",
+    "type": "mcq",
+    "question": "Single line comments can be placed in PHP script by using which symbol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "//"
+      },
+      {
+        "id": "b",
+        "text": "#"
+      },
+      {
+        "id": "c",
+        "text": "$"
+      },
+      {
+        "id": "d",
+        "text": "Both and B."
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0009",
+    "type": "mcq",
+    "question": "Multi-line comments can be written within the         .",
+    "options": [
+      {
+        "id": "a",
+        "text": "// and //"
+      },
+      {
+        "id": "b",
+        "text": "## and ##"
+      },
+      {
+        "id": "c",
+        "text": "/* and */"
+      },
+      {
+        "id": "d",
+        "text": "/// and ///"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"/* and */\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0010",
+    "type": "mcq",
+    "question": "PHP statements end with a             .",
+    "options": [
+      {
+        "id": "a",
+        "text": "semicolon (;)"
+      },
+      {
+        "id": "b",
+        "text": "colon (:)"
+      },
+      {
+        "id": "c",
+        "text": "dot (.)"
+      },
+      {
+        "id": "d",
+        "text": "comma (,)"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0011",
+    "type": "mcq",
+    "question": "Which sign is used to declare variables in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@"
+      },
+      {
+        "id": "b",
+        "text": "&"
+      },
+      {
+        "id": "c",
+        "text": "$"
+      },
+      {
+        "id": "d",
+        "text": "_"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0012",
+    "type": "mcq",
+    "question": "Which is not a valid variable name in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "age"
+      },
+      {
+        "id": "b",
+        "text": "_age"
+      },
+      {
+        "id": "c",
+        "text": "PersonAge"
+      },
+      {
+        "id": "d",
+        "text": "1age"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0013",
+    "type": "mcq",
+    "question": "Are variable names case-sensitive?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes"
+      },
+      {
+        "id": "b",
+        "text": "No"
+      },
+      {
+        "id": "c",
+        "text": "nan"
+      },
+      {
+        "id": "d",
+        "text": "nan"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"Yes\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0014",
+    "type": "mcq",
+    "question": "Which statement is commonly used for PHP output?",
+    "options": [
+      {
+        "id": "a",
+        "text": "write"
+      },
+      {
+        "id": "b",
+        "text": "php.write"
+      },
+      {
+        "id": "c",
+        "text": "log"
+      },
+      {
+        "id": "d",
+        "text": "echo"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0015",
+    "type": "mcq",
+    "question": "How many variable scopes are there in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1"
+      },
+      {
+        "id": "b",
+        "text": "2"
+      },
+      {
+        "id": "c",
+        "text": "3"
+      },
+      {
+        "id": "d",
+        "text": "4"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0016",
+    "type": "mcq",
+    "question": "Which is not a valid variable scope in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "local"
+      },
+      {
+        "id": "b",
+        "text": "global"
+      },
+      {
+        "id": "c",
+        "text": "static"
+      },
+      {
+        "id": "d",
+        "text": "external"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0017",
+    "type": "mcq",
+    "question": "A variable declared outside a function has a         .",
+    "options": [
+      {
+        "id": "a",
+        "text": "local scope"
+      },
+      {
+        "id": "b",
+        "text": "global scope"
+      },
+      {
+        "id": "c",
+        "text": "main scope"
+      },
+      {
+        "id": "d",
+        "text": "external scope"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"global scope\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0018",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?<?php $x = 5;\nfunction myFunction(){ echo \"Result $x\";\n}\nmyFunction();",
+    "options": [
+      {
+        "id": "a",
+        "text": "Result $x"
+      },
+      {
+        "id": "b",
+        "text": "Result 5"
+      },
+      {
+        "id": "c",
+        "text": "Result"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0019",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code? <?php function myFunction()\n{\n$x = 5;\necho \"Result1: $x , \";\n}",
+    "options": [
+      {
+        "id": "a",
+        "text": "Result1: 5 , Result2:"
+      },
+      {
+        "id": "b",
+        "text": "Result1: 5 , Result2: 0"
+      },
+      {
+        "id": "c",
+        "text": "Result1: 5 , Result2: 5"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0020",
+    "type": "mcq",
+    "question": "Which PHP keyword is used to access a global variable inside the function?",
+    "options": [
+      {
+        "id": "a",
+        "text": "php_ global"
+      },
+      {
+        "id": "b",
+        "text": "global"
+      },
+      {
+        "id": "c",
+        "text": "global_variable"
+      },
+      {
+        "id": "d",
+        "text": "globalscope"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0021",
+    "type": "mcq",
+    "question": "There are two variables a, b which declared in global scope, which is the correct PHP statement to access them within a function?",
+    "options": [
+      {
+        "id": "a",
+        "text": "global $a, $b;"
+      },
+      {
+        "id": "b",
+        "text": "global $a $b;"
+      },
+      {
+        "id": "c",
+        "text": "global ($a, $b);"
+      },
+      {
+        "id": "d",
+        "text": "php_global $a, $b;"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0022",
+    "type": "mcq",
+    "question": "What is the name of an array that stores all global variables in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "$GLOBAL[]"
+      },
+      {
+        "id": "b",
+        "text": "$global[]"
+      },
+      {
+        "id": "c",
+        "text": "$GLOBALS[]"
+      },
+      {
+        "id": "d",
+        "text": "$PHP_GLOBALS[]"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0023",
+    "type": "mcq",
+    "question": "In the syntax of $GLOBALS[index], what does \"index\" hold?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Index (starting from 0) of the variable"
+      },
+      {
+        "id": "b",
+        "text": "Index (starting from 1) of the variable"
+      },
+      {
+        "id": "c",
+        "text": "Name of the variable"
+      },
+      {
+        "id": "d",
+        "text": "Line number of the variable where the variable was declared"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"Name of the variable\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0024",
+    "type": "mcq",
+    "question": "Which statement is faster echo or print?",
+    "options": [
+      {
+        "id": "a",
+        "text": "echo"
+      },
+      {
+        "id": "b",
+        "text": "print"
+      },
+      {
+        "id": "c",
+        "text": "printf"
+      },
+      {
+        "id": "d",
+        "text": "system"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"echo\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0025",
+    "type": "mcq",
+    "question": "What is the correct syntax of echo statement in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "echo"
+      },
+      {
+        "id": "b",
+        "text": "echo()"
+      },
+      {
+        "id": "c",
+        "text": "echo = ()"
+      },
+      {
+        "id": "d",
+        "text": "Both and B."
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0026",
+    "type": "mcq",
+    "question": "There is a variable \"name\" that contains the name of a person, which is/are the correct echo statement(s) to print the \"name\" suffix with \"Hello\".",
+    "options": [
+      {
+        "id": "a",
+        "text": "echo \"Hello $name\";"
+      },
+      {
+        "id": "b",
+        "text": "echo \"Hello \" . $name;"
+      },
+      {
+        "id": "c",
+        "text": "echo (\"Hello $name\");"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0027",
+    "type": "mcq",
+    "question": "What is the correct syntax of print statement in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "print"
+      },
+      {
+        "id": "b",
+        "text": "print()"
+      },
+      {
+        "id": "c",
+        "text": "print = ()"
+      },
+      {
+        "id": "d",
+        "text": "Both and B."
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0028",
+    "type": "mcq",
+    "question": "There is a variable \"name\" that contains the name of a person, which is/are the correct print statement(s) to print the \"name\" suffix with \"Hello\".",
+    "options": [
+      {
+        "id": "a",
+        "text": "print \"Hello $name\";"
+      },
+      {
+        "id": "b",
+        "text": "print \"Hello \" . $name;"
+      },
+      {
+        "id": "c",
+        "text": "print (\"Hello $name\");"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0029",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code? <?php function myFunction()\n{\n$x = 5;\necho \"Result1: $x , \";\n}",
+    "options": [
+      {
+        "id": "a",
+        "text": "5, 10+10"
+      },
+      {
+        "id": "b",
+        "text": "5, 20"
+      },
+      {
+        "id": "c",
+        "text": "5 10+10"
+      },
+      {
+        "id": "d",
+        "text": "520"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0030",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code? <?php var_dump (print \"Hello\");\n?>",
+    "options": [
+      {
+        "id": "a",
+        "text": "Helloint(5)"
+      },
+      {
+        "id": "b",
+        "text": "Helloint(6)"
+      },
+      {
+        "id": "c",
+        "text": "Helloint(1)"
+      },
+      {
+        "id": "d",
+        "text": "Hellonumber(5)"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0031",
+    "type": "mcq",
+    "question": "Which data type is not supported by PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Integer"
+      },
+      {
+        "id": "b",
+        "text": "Complex"
+      },
+      {
+        "id": "c",
+        "text": "Float"
+      },
+      {
+        "id": "d",
+        "text": "String"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0032",
+    "type": "mcq",
+    "question": "String is placed within           .",
+    "options": [
+      {
+        "id": "a",
+        "text": "Double quotes (\"\")"
+      },
+      {
+        "id": "b",
+        "text": "Single quotes ('')"
+      },
+      {
+        "id": "c",
+        "text": "Both and B."
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"Both and B.\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0033",
+    "type": "mcq",
+    "question": "String is placed within           .",
+    "options": [
+      {
+        "id": "a",
+        "text": "Double quotes (\"\")"
+      },
+      {
+        "id": "b",
+        "text": "Single quotes ('')"
+      },
+      {
+        "id": "c",
+        "text": "Both and B."
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"Both and B.\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0034",
+    "type": "mcq",
+    "question": "A PHP integer data type can store values between         .",
+    "options": [
+      {
+        "id": "a",
+        "text": "-65,536 and 65,535"
+      },
+      {
+        "id": "b",
+        "text": "0 and 4,294,967,295"
+      },
+      {
+        "id": "c",
+        "text": "-(2^63) and (2^63)-1"
+      },
+      {
+        "id": "d",
+        "text": "-2,147,483,648 and 2,147,483,647"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0035",
+    "type": "mcq",
+    "question": "\"Array\" is a data type in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes"
+      },
+      {
+        "id": "b",
+        "text": "No"
+      },
+      {
+        "id": "c",
+        "text": "Can't say"
+      },
+      {
+        "id": "d",
+        "text": "Both a and b"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0036",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$Laptops = array( \"MAC\",\n\"Lenovo\",\n\"Dell\",",
+    "options": [
+      {
+        "id": "a",
+        "text": "array"
+      },
+      {
+        "id": "b",
+        "text": "array(4)"
+      },
+      {
+        "id": "c",
+        "text": "object"
+      },
+      {
+        "id": "d",
+        "text": "string"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0037",
+    "type": "mcq",
+    "question": "What is NULL in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Value"
+      },
+      {
+        "id": "b",
+        "text": "Keyword"
+      },
+      {
+        "id": "c",
+        "text": "Data Type"
+      },
+      {
+        "id": "d",
+        "text": "Function"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0038",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$value1 = NULL;\n$value2 = null;\nvar_dump($value1);",
+    "options": [
+      {
+        "id": "a",
+        "text": "Error"
+      },
+      {
+        "id": "b",
+        "text": "NULL undefined"
+      },
+      {
+        "id": "c",
+        "text": "NULL object"
+      },
+      {
+        "id": "d",
+        "text": "NULL NULL"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0039",
+    "type": "mcq",
+    "question": "Which type is used to store the database call?",
+    "options": [
+      {
+        "id": "a",
+        "text": "object"
+      },
+      {
+        "id": "b",
+        "text": "class"
+      },
+      {
+        "id": "c",
+        "text": "resource"
+      },
+      {
+        "id": "d",
+        "text": "string"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "Databases organize and manage structured information efficiently."
+  },
+  {
+    "id": "ost-0040",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\necho strpos(\"Hello, Includehelp!\", \"Includehelp!\");\n?>",
+    "options": [
+      {
+        "id": "a",
+        "text": "6"
+      },
+      {
+        "id": "b",
+        "text": "7"
+      },
+      {
+        "id": "c",
+        "text": "8"
+      },
+      {
+        "id": "d",
+        "text": "-1"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0041",
+    "type": "mcq",
+    "question": "Which function is used to replace text within a string?",
+    "options": [
+      {
+        "id": "a",
+        "text": "str_replace()"
+      },
+      {
+        "id": "b",
+        "text": "replace()"
+      },
+      {
+        "id": "c",
+        "text": "replace_str()"
+      },
+      {
+        "id": "d",
+        "text": "string-replace()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"str_replace()\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0042",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$str = addcslashes(\"IncludeHelp\",\"e\"); echo($str);\n?>",
+    "options": [
+      {
+        "id": "a",
+        "text": "Includehelp"
+      },
+      {
+        "id": "b",
+        "text": "IncludeH\\elp"
+      },
+      {
+        "id": "c",
+        "text": "Includ\\eHelp"
+      },
+      {
+        "id": "d",
+        "text": "Includ\\eH\\elp"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0043",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$str = addslashes('Hello \"Includehelp!\"'); echo($str);\n?>",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hello Includehelp!"
+      },
+      {
+        "id": "b",
+        "text": "Hello \"Includehelp!\""
+      },
+      {
+        "id": "c",
+        "text": "Hello \"\"Includehelp!\"\""
+      },
+      {
+        "id": "d",
+        "text": "Hello \\\"Includehelp!\\\""
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0044",
+    "type": "mcq",
+    "question": "Which function converts a string of ASCII characters to hexadecimal values?",
+    "options": [
+      {
+        "id": "a",
+        "text": "bin2hex()"
+      },
+      {
+        "id": "b",
+        "text": "str2hex()"
+      },
+      {
+        "id": "c",
+        "text": "hex()"
+      },
+      {
+        "id": "d",
+        "text": "str_hex()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"bin2hex()\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0045",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$str = \"Includehelp\";\necho pack(\"H*\",bin2hex($str));\n?>",
+    "options": [
+      {
+        "id": "a",
+        "text": "496e636c75646568656c70"
+      },
+      {
+        "id": "b",
+        "text": "Includehelp"
+      },
+      {
+        "id": "c",
+        "text": "496e636c75646568656c70Includehelp"
+      },
+      {
+        "id": "d",
+        "text": "Includehelp496e636c75646568656c70"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0046",
+    "type": "mcq",
+    "question": "Which function is used to convert the ASCII value to the character?",
+    "options": [
+      {
+        "id": "a",
+        "text": "asc()"
+      },
+      {
+        "id": "b",
+        "text": "str()"
+      },
+      {
+        "id": "c",
+        "text": "char()"
+      },
+      {
+        "id": "d",
+        "text": "chr()"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"chr()\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0047",
+    "type": "mcq",
+    "question": "What is the complete syntax of chunk_split() function in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "chunk_split(string,length,end)"
+      },
+      {
+        "id": "b",
+        "text": "chunk_split(string)"
+      },
+      {
+        "id": "c",
+        "text": "chunk_split(string,end)"
+      },
+      {
+        "id": "d",
+        "text": "chunk_split(length)"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0048",
+    "type": "mcq",
+    "question": "Which function is used to convert hexadecimal values to the ASCII characters?",
+    "options": [
+      {
+        "id": "a",
+        "text": "hex2bin()"
+      },
+      {
+        "id": "b",
+        "text": "hex2str()"
+      },
+      {
+        "id": "c",
+        "text": "hex2asc()"
+      },
+      {
+        "id": "d",
+        "text": "hex_string()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"hex2bin()\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0049",
+    "type": "mcq",
+    "question": "What is the complete syntax of join() function in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "join(string1, string2)"
+      },
+      {
+        "id": "b",
+        "text": "join(string1, string2, separator)"
+      },
+      {
+        "id": "c",
+        "text": "join(separator, array)"
+      },
+      {
+        "id": "d",
+        "text": "join(separator, string1, string2)"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0050",
+    "type": "mcq",
+    "question": "There are two strings (in an array) \"Hello\" and \"World\", which is the correct PHP statement to join them with the separator \",\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "join(\",\",\"Hello\",\"World\")"
+      },
+      {
+        "id": "b",
+        "text": "join(\"Hello\",\"World\",\",\")"
+      },
+      {
+        "id": "c",
+        "text": "join(\",\", (\"Hello\",\"World\"))"
+      },
+      {
+        "id": "d",
+        "text": "join(\",\",array(\"Hello\",\"World\"))"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0051",
+    "type": "mcq",
+    "question": "Which PHP function is used to print (output) a formatted string?",
+    "options": [
+      {
+        "id": "a",
+        "text": "echo()"
+      },
+      {
+        "id": "b",
+        "text": "print()"
+      },
+      {
+        "id": "c",
+        "text": "printf()"
+      },
+      {
+        "id": "d",
+        "text": "prints()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0052",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php printf(\"%x\",65535);\n?>",
+    "options": [
+      {
+        "id": "a",
+        "text": "ffff"
+      },
+      {
+        "id": "b",
+        "text": "0xffff"
+      },
+      {
+        "id": "c",
+        "text": "FFFF"
+      },
+      {
+        "id": "d",
+        "text": "0XFFFF"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0053",
+    "type": "mcq",
+    "question": "Which PHP function is used to get the length of the string?",
+    "options": [
+      {
+        "id": "a",
+        "text": "strlength()"
+      },
+      {
+        "id": "b",
+        "text": "strlen()"
+      },
+      {
+        "id": "c",
+        "text": "length()"
+      },
+      {
+        "id": "d",
+        "text": "str_len()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0054",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\necho ucwords(\"hi, there how are you?\");\n?>",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hi, there how are you?"
+      },
+      {
+        "id": "b",
+        "text": "Hi, There How Are You?"
+      },
+      {
+        "id": "c",
+        "text": "hi, there how are you?"
+      },
+      {
+        "id": "d",
+        "text": "HI, THERE HOW ARE YOU?"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0055",
+    "type": "mcq",
+    "question": "Which PHP functions are used to convert string to lowercase and uppercase?",
+    "options": [
+      {
+        "id": "a",
+        "text": "strupper() and strlower()"
+      },
+      {
+        "id": "b",
+        "text": "str_toupper() and str_tolower()"
+      },
+      {
+        "id": "c",
+        "text": "toupper() and tolower()"
+      },
+      {
+        "id": "d",
+        "text": "strtoupper() and strtolower()"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0056",
+    "type": "mcq",
+    "question": "Which PHP constant returns the largest integer supported?",
+    "options": [
+      {
+        "id": "a",
+        "text": "INT_MAX"
+      },
+      {
+        "id": "b",
+        "text": "MAX_INT"
+      },
+      {
+        "id": "c",
+        "text": "MAXINT"
+      },
+      {
+        "id": "d",
+        "text": "PHP_INT_MAX"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0057",
+    "type": "mcq",
+    "question": "Which PHP constant returns the size of an integer in bytes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "INT_SIZE"
+      },
+      {
+        "id": "b",
+        "text": "SIZE_INT"
+      },
+      {
+        "id": "c",
+        "text": "INTSIZE"
+      },
+      {
+        "id": "d",
+        "text": "PHP_INT_SIZE"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0058",
+    "type": "mcq",
+    "question": "Which is/are the function(s) to check if the type of a variable is integer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "is_int()"
+      },
+      {
+        "id": "b",
+        "text": "is_integer()"
+      },
+      {
+        "id": "c",
+        "text": "is_long()"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0059",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$x = -123.45;\necho var_dump(is_int($x));\n?>",
+    "options": [
+      {
+        "id": "a",
+        "text": "bool(false)"
+      },
+      {
+        "id": "b",
+        "text": "bool(true)"
+      },
+      {
+        "id": "c",
+        "text": "FALSE"
+      },
+      {
+        "id": "d",
+        "text": "TRUE"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0060",
+    "type": "mcq",
+    "question": "Which is/are the function(s) to check if the type of a variable is float?",
+    "options": [
+      {
+        "id": "a",
+        "text": "is_float()"
+      },
+      {
+        "id": "b",
+        "text": "is_double()"
+      },
+      {
+        "id": "c",
+        "text": "is_longfloat()"
+      },
+      {
+        "id": "d",
+        "text": "Both and B."
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"Both and B.\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0061",
+    "type": "mcq",
+    "question": "Which is/are the function(s) to check if a numeric value is finite or infinite?",
+    "options": [
+      {
+        "id": "a",
+        "text": "is_finite()"
+      },
+      {
+        "id": "b",
+        "text": "is_infinite()"
+      },
+      {
+        "id": "c",
+        "text": "is_inf()"
+      },
+      {
+        "id": "d",
+        "text": "Both and B."
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"Both and B.\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0062",
+    "type": "mcq",
+    "question": "PHP NaN stands for         .",
+    "options": [
+      {
+        "id": "a",
+        "text": "not-a-number"
+      },
+      {
+        "id": "b",
+        "text": "not-a-numerical"
+      },
+      {
+        "id": "c",
+        "text": "nothing-a-number"
+      },
+      {
+        "id": "d",
+        "text": "numeric-a-number"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0063",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\necho var_dump(is_nan(10));\n?>",
+    "options": [
+      {
+        "id": "a",
+        "text": "bool(false)"
+      },
+      {
+        "id": "b",
+        "text": "bool(true)"
+      },
+      {
+        "id": "c",
+        "text": "FALSE"
+      },
+      {
+        "id": "d",
+        "text": "TRUE"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0064",
+    "type": "mcq",
+    "question": "Which is the correct syntax to cast float to integer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "(int) float_variable"
+      },
+      {
+        "id": "b",
+        "text": "int (float_variable)"
+      },
+      {
+        "id": "c",
+        "text": "(int) (float_variable)"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"(int) float_variable\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0065",
+    "type": "mcq",
+    "question": "Which PHP function is used to get the value of PI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "php_pi()"
+      },
+      {
+        "id": "b",
+        "text": "pivalue()"
+      },
+      {
+        "id": "c",
+        "text": "pi()"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0066",
+    "type": "mcq",
+    "question": "Which PHP functions are used to find the lowest and highest values from a list of arguments?",
+    "options": [
+      {
+        "id": "a",
+        "text": "minimum() and maximum()"
+      },
+      {
+        "id": "b",
+        "text": "min() and max()"
+      },
+      {
+        "id": "c",
+        "text": "find_min() and find_max()"
+      },
+      {
+        "id": "d",
+        "text": "getmin() and getmax()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0067",
+    "type": "mcq",
+    "question": "Which PHP function is used to get the absolute value of the given number?",
+    "options": [
+      {
+        "id": "a",
+        "text": "abs()"
+      },
+      {
+        "id": "b",
+        "text": "absolute()"
+      },
+      {
+        "id": "c",
+        "text": "find_abs()"
+      },
+      {
+        "id": "d",
+        "text": "php_abs()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0068",
+    "type": "mcq",
+    "question": "Which PHP function is used to get the square root of the given number?",
+    "options": [
+      {
+        "id": "a",
+        "text": "sqrt()"
+      },
+      {
+        "id": "b",
+        "text": "squareroot()"
+      },
+      {
+        "id": "c",
+        "text": "find_sqrt()"
+      },
+      {
+        "id": "d",
+        "text": "php_sqrt()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0069",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\necho (round(0.49) . \",\" . round(0.50) . \",\" . round(0.51));\n?>",
+    "options": [
+      {
+        "id": "a",
+        "text": "0,0,0"
+      },
+      {
+        "id": "b",
+        "text": "1,1,1"
+      },
+      {
+        "id": "c",
+        "text": "0,0,1"
+      },
+      {
+        "id": "d",
+        "text": "0,1,1"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0070",
+    "type": "mcq",
+    "question": "Which PHP function is used to get the random number?",
+    "options": [
+      {
+        "id": "a",
+        "text": "random()"
+      },
+      {
+        "id": "b",
+        "text": "randomize()"
+      },
+      {
+        "id": "c",
+        "text": "rand()"
+      },
+      {
+        "id": "d",
+        "text": "randnumbers()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0071",
+    "type": "mcq",
+    "question": "Which PHP function is used to convert a number from one number base to another?",
+    "options": [
+      {
+        "id": "a",
+        "text": "convert()"
+      },
+      {
+        "id": "b",
+        "text": "base_convert()"
+      },
+      {
+        "id": "c",
+        "text": "parseInt()"
+      },
+      {
+        "id": "d",
+        "text": "base_conversion()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0072",
+    "type": "mcq",
+    "question": "What is the correct syntax of PHP base_convert() function?",
+    "options": [
+      {
+        "id": "a",
+        "text": "base_convert(number, from_base, to_base);"
+      },
+      {
+        "id": "b",
+        "text": "base_convert(number, to_base, from_base);"
+      },
+      {
+        "id": "c",
+        "text": "base_convert(number);"
+      },
+      {
+        "id": "d",
+        "text": "base_convert(number, to_base);"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0073",
+    "type": "mcq",
+    "question": "What is the use of PHP mt_rand() function?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Generates a random number using the milliseconds time."
+      },
+      {
+        "id": "b",
+        "text": "Generates a random number using the microseconds time."
+      },
+      {
+        "id": "c",
+        "text": "Generates a random number using the milliseconds time."
+      },
+      {
+        "id": "d",
+        "text": "Generates a random number using the Mersenne Twister algorithm."
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0074",
+    "type": "mcq",
+    "question": "What is the use of PHP lcg_value() function?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Generates a pseudo random number in a range between 0 and 1"
+      },
+      {
+        "id": "b",
+        "text": "Generates a pseudo random number in a range between the given minimum to maximum numbers"
+      },
+      {
+        "id": "c",
+        "text": "Generates a pseudo random number in a range between 0 and 1 using the Mersenne Twister algorithm"
+      },
+      {
+        "id": "d",
+        "text": "Generates a pseudo random number in a range between -1 and +1"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0075",
+    "type": "mcq",
+    "question": "Which keyword/function is used to create a constant in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "define keyword"
+      },
+      {
+        "id": "b",
+        "text": "define() function"
+      },
+      {
+        "id": "c",
+        "text": "const keyword"
+      },
+      {
+        "id": "d",
+        "text": "const() function"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0076",
+    "type": "mcq",
+    "question": "Which is the correct syntax of define() function in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "define(constant_name)"
+      },
+      {
+        "id": "b",
+        "text": "define(constant_name, value)"
+      },
+      {
+        "id": "c",
+        "text": "define(constant_name, value, case-insensitive)"
+      },
+      {
+        "id": "d",
+        "text": "define(constant_name = value)"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0077",
+    "type": "mcq",
+    "question": "What can be the value of case-insensitive parameter in define() function?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TRUE"
+      },
+      {
+        "id": "b",
+        "text": "FALSE"
+      },
+      {
+        "id": "c",
+        "text": "Anything"
+      },
+      {
+        "id": "d",
+        "text": "Both and B."
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"Both and B.\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0078",
+    "type": "mcq",
+    "question": "Give an example, how to define a constant array in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "const cities = new array([\"New Delhi\",\"Mumbai\",\"Banglore\"]);"
+      },
+      {
+        "id": "b",
+        "text": "define(\"cities\"=[\"New Delhi\",\"Mumbai\",\"Banglore\"]);"
+      },
+      {
+        "id": "c",
+        "text": "define(\"cities\", [\"New Delhi\",\"Mumbai\",\"Banglore\"]);"
+      },
+      {
+        "id": "d",
+        "text": "define(\"cities\":[\"New Delhi\",\"Mumbai\",\"Banglore\"]);"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0079",
+    "type": "mcq",
+    "question": "What is the scope of a constant in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Local"
+      },
+      {
+        "id": "b",
+        "text": "Global"
+      },
+      {
+        "id": "c",
+        "text": "Static"
+      },
+      {
+        "id": "d",
+        "text": "Fixed"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0080",
+    "type": "mcq",
+    "question": "What is name of PHP \"===\" operator?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Equal"
+      },
+      {
+        "id": "b",
+        "text": "Safe Equal"
+      },
+      {
+        "id": "c",
+        "text": "Identity"
+      },
+      {
+        "id": "d",
+        "text": "Identical"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0081",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$a = 123;\n$b = \"123\";\nvar_dump($a !== $b);",
+    "options": [
+      {
+        "id": "a",
+        "text": "Error"
+      },
+      {
+        "id": "b",
+        "text": "bool(false)"
+      },
+      {
+        "id": "c",
+        "text": "bool(true)"
+      },
+      {
+        "id": "d",
+        "text": "TRUE"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0082",
+    "type": "mcq",
+    "question": "What is name of PHP \"<=>\" operator?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spaceship"
+      },
+      {
+        "id": "b",
+        "text": "Safe Spaceship"
+      },
+      {
+        "id": "c",
+        "text": "Identity"
+      },
+      {
+        "id": "d",
+        "text": "Identical"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0083",
+    "type": "mcq",
+    "question": "Does PHP support Ternary Operator?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes"
+      },
+      {
+        "id": "b",
+        "text": "No"
+      },
+      {
+        "id": "c",
+        "text": "Can't say"
+      },
+      {
+        "id": "d",
+        "text": "nan"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0084",
+    "type": "mcq",
+    "question": "Which PHP operator known as \"Null coalescing\" operator?",
+    "options": [
+      {
+        "id": "a",
+        "text": "?"
+      },
+      {
+        "id": "b",
+        "text": "?=>"
+      },
+      {
+        "id": "c",
+        "text": "??"
+      },
+      {
+        "id": "d",
+        "text": "???"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0085",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$x = 100;\nif ($x < 200){ echo \"True\";",
+    "options": [
+      {
+        "id": "a",
+        "text": "TRUE"
+      },
+      {
+        "id": "b",
+        "text": "FALSE"
+      },
+      {
+        "id": "c",
+        "text": "Both A & B"
+      },
+      {
+        "id": "d",
+        "text": "nan"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0086",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$a = 15;\n$b = 20;\nif ($a < ++$a || $b < ++$b){",
+    "options": [
+      {
+        "id": "a",
+        "text": "TRUE"
+      },
+      {
+        "id": "b",
+        "text": "FALSE"
+      },
+      {
+        "id": "c",
+        "text": "TrueFalse"
+      },
+      {
+        "id": "d",
+        "text": "Parse Error"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0087",
+    "type": "mcq",
+    "question": "Which PHP statement is used to select one of many blocks of code to be executed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The if statement"
+      },
+      {
+        "id": "b",
+        "text": "The if...else statement"
+      },
+      {
+        "id": "c",
+        "text": "The switch statement"
+      },
+      {
+        "id": "d",
+        "text": "The select statement"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0088",
+    "type": "mcq",
+    "question": "In PHP, the break statements with case blocks are optional?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes"
+      },
+      {
+        "id": "b",
+        "text": "No"
+      },
+      {
+        "id": "c",
+        "text": "Can't say"
+      },
+      {
+        "id": "d",
+        "text": "nan"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0089",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$car = \"Honda\";\nswitch ($car) { case \"Honda\":",
+    "options": [
+      {
+        "id": "a",
+        "text": "You selected Honda."
+      },
+      {
+        "id": "b",
+        "text": "You selected Honda.You selected BMW."
+      },
+      {
+        "id": "c",
+        "text": "You selected Honda.You selected BMW.You selected Audi."
+      },
+      {
+        "id": "d",
+        "text": "You selected Honda.You selected BMW.You selected Audi.None is selecte"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0090",
+    "type": "mcq",
+    "question": "How many loops are there in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "text": "4"
+      },
+      {
+        "id": "d",
+        "text": "5"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0091",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$counter = 1;\nwhile ($counter++ <= 5)\n{",
+    "options": [
+      {
+        "id": "a",
+        "text": "2,4,"
+      },
+      {
+        "id": "b",
+        "text": "1,2,3,4,5,"
+      },
+      {
+        "id": "c",
+        "text": "2,4,6,"
+      },
+      {
+        "id": "d",
+        "text": "1,2,4,"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0092",
+    "type": "mcq",
+    "question": "Which loop statement is used to loop through a block of code a specified number of times?",
+    "options": [
+      {
+        "id": "a",
+        "text": "while"
+      },
+      {
+        "id": "b",
+        "text": "do...while"
+      },
+      {
+        "id": "c",
+        "text": "for"
+      },
+      {
+        "id": "d",
+        "text": "foreach"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"for\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0093",
+    "type": "mcq",
+    "question": "Which loop statement is used to loop through a block of code for each element in an array?",
+    "options": [
+      {
+        "id": "a",
+        "text": "while"
+      },
+      {
+        "id": "b",
+        "text": "do...while"
+      },
+      {
+        "id": "c",
+        "text": "for"
+      },
+      {
+        "id": "d",
+        "text": "foreach"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"for\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0094",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$cars = array( \"BMW\",\n\"Mercedes\", \"Honda\",",
+    "options": [
+      {
+        "id": "a",
+        "text": "BMW Mercedes Honda"
+      },
+      {
+        "id": "b",
+        "text": "Honda Mercedes BMW"
+      },
+      {
+        "id": "c",
+        "text": "SyntaxError"
+      },
+      {
+        "id": "d",
+        "text": "TypeError"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0095",
+    "type": "mcq",
+    "question": "Which PHP statement is used to jump out of a loop?",
+    "options": [
+      {
+        "id": "a",
+        "text": "exit"
+      },
+      {
+        "id": "b",
+        "text": "break"
+      },
+      {
+        "id": "c",
+        "text": "continue"
+      },
+      {
+        "id": "d",
+        "text": "stop"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0096",
+    "type": "mcq",
+    "question": "What is the use of PHP \"continue\" statement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "breaks the loop and transfers the control to the statement written just after the loop body"
+      },
+      {
+        "id": "b",
+        "text": "breaks the all loop statement (outer loops and inner loops)"
+      },
+      {
+        "id": "c",
+        "text": "breaks one iteration of the loop and transfers the control to the next loop iteration"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0097",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\nfor ($i = 1;$i <= 10;$i++){ if ($i == 6){\ncontinue;\n}",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 2 3 4 5 7 8 9 10"
+      },
+      {
+        "id": "b",
+        "text": "1 2 3 4 5 6 7 8 9 10"
+      },
+      {
+        "id": "c",
+        "text": "1 2 3 4 5 6"
+      },
+      {
+        "id": "d",
+        "text": "1 2 3 4 5"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0098",
+    "type": "mcq",
+    "question": "The \"break\" statement is used in switch and loop statements, can the \"continue\" statement be used in the switch statement instead of the \"break\" statement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes"
+      },
+      {
+        "id": "b",
+        "text": "No"
+      },
+      {
+        "id": "c",
+        "text": "Both A & B"
+      },
+      {
+        "id": "d",
+        "text": "nan"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"No\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0099",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$x = 10;\nwhile ($x < 10) {\n$x++;",
+    "options": [
+      {
+        "id": "a",
+        "text": "Infinite loop"
+      },
+      {
+        "id": "b",
+        "text": "Error"
+      },
+      {
+        "id": "c",
+        "text": "10, 11,"
+      },
+      {
+        "id": "d",
+        "text": "No output"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0100",
+    "type": "mcq",
+    "question": "Which keyword is used to define a function in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "def"
+      },
+      {
+        "id": "b",
+        "text": "fun"
+      },
+      {
+        "id": "c",
+        "text": "func"
+      },
+      {
+        "id": "d",
+        "text": "function"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0101",
+    "type": "mcq",
+    "question": "The PHP function names are case-sensitive?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes"
+      },
+      {
+        "id": "b",
+        "text": "No"
+      },
+      {
+        "id": "c",
+        "text": "Both A & B"
+      },
+      {
+        "id": "d",
+        "text": "nan"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0102",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php declare(strict_types = 1);\nfunction details(string $name, int $age){ echo \"Name: $name, Age: $age\";\n}",
+    "options": [
+      {
+        "id": "a",
+        "text": "Name: Alvin, Age: 21"
+      },
+      {
+        "id": "b",
+        "text": "Name: Alvin, Age:"
+      },
+      {
+        "id": "c",
+        "text": "Name: Alvin, Age: 0"
+      },
+      {
+        "id": "d",
+        "text": "Fatal Error"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0103",
+    "type": "mcq",
+    "question": "Which is the correct syntax of defining a default argument value in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "function function_name(type\n$argument_name : value) { /* function body*/ }"
+      },
+      {
+        "id": "b",
+        "text": "function function_name(type\n$argument_name , value) { /* function body*/ }"
+      },
+      {
+        "id": "c",
+        "text": "function function_name(type\n$argument_name = value) { /* function body*/ }"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0104",
+    "type": "mcq",
+    "question": "Which is the correct syntax of defining function return type in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "function function_name(type $arguments) : return_type { /* function body*/ }"
+      },
+      {
+        "id": "b",
+        "text": "function function_name(type $arguments) , return_type { /* function body*/ }"
+      },
+      {
+        "id": "c",
+        "text": "return_type function function_name(type\n$arguments) { /* function body*/ }"
+      },
+      {
+        "id": "d",
+        "text": "function return_type function_name(type\n$arguments) { /* function body*/ }"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0105",
+    "type": "mcq",
+    "question": "Which PHP function is used to create an array?",
+    "options": [
+      {
+        "id": "a",
+        "text": "array()"
+      },
+      {
+        "id": "b",
+        "text": "arr()"
+      },
+      {
+        "id": "c",
+        "text": "new_array()"
+      },
+      {
+        "id": "d",
+        "text": "array()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0106",
+    "type": "mcq",
+    "question": "How many types of arrays are there in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1"
+      },
+      {
+        "id": "b",
+        "text": "2"
+      },
+      {
+        "id": "c",
+        "text": "3"
+      },
+      {
+        "id": "d",
+        "text": "4"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0107",
+    "type": "mcq",
+    "question": "Which is/are valid types of arrays in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Indexed arrays"
+      },
+      {
+        "id": "b",
+        "text": "Associative arrays"
+      },
+      {
+        "id": "c",
+        "text": "Multidimensional arrays"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0108",
+    "type": "mcq",
+    "question": "What is the difference between Indexed array and Associative array in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Index array has numeric index while associative array has named keys"
+      },
+      {
+        "id": "b",
+        "text": "Index array has numeric index while associative array has named keys and numeric index both"
+      },
+      {
+        "id": "c",
+        "text": "Index array is one-dimensional array with numeric index while associative array is two-dimensional array with numeric index"
+      },
+      {
+        "id": "d",
+        "text": "Index array has numeric index while associative array has one or more arrays"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0109",
+    "type": "mcq",
+    "question": "Which is the correct example of an Indexed array in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "$cities = array(\"Delhi\"; \"Mumbai\"; \"Banglore\");"
+      },
+      {
+        "id": "b",
+        "text": "$cities = array(\"Delhi\", \"Mumbai\", \"Banglore\");"
+      },
+      {
+        "id": "c",
+        "text": "$cities = new array(\"Delhi\", \"Mumbai\", \"Banglore\");"
+      },
+      {
+        "id": "d",
+        "text": "$cities = new array(3) (\"Delhi\", \"Mumbai\", \"Banglore\");"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0110",
+    "type": "mcq",
+    "question": "Which is the correct example of an Associative array in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "$person = array(\"Alvin\"=>\"Delhi\", \"Alex\"=>\"Mumbai\", \"Bhavik\"=>\"Banglore\");"
+      },
+      {
+        "id": "b",
+        "text": "$person = array(\"Alvin\"=>\"Delhi\"; \"Alex\"=>\"Mumbai\"; \"Bhavik\"=>\"Banglore\");"
+      },
+      {
+        "id": "c",
+        "text": "$person = new array(\"Alvin\"=>\"Delhi\", \"Alex\"=>\"Mumbai\", \"Bhavik\"=>\"Banglore\");"
+      },
+      {
+        "id": "d",
+        "text": "$person = new array(\"Alvin\"=>\"Delhi\"; \"Alex\"=>\"Mumbai\"; \"Bhavik\"=>\"Banglore\");"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0111",
+    "type": "mcq",
+    "question": "Which PHP function(s) is/are used to compare arrays and returns the differences?",
+    "options": [
+      {
+        "id": "a",
+        "text": "array_diff()"
+      },
+      {
+        "id": "b",
+        "text": "array_diff_assoc()"
+      },
+      {
+        "id": "c",
+        "text": "array_diff_key()"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0112",
+    "type": "mcq",
+    "question": "What is the difference between array_diff() and array_diff_assoc() functions?",
+    "options": [
+      {
+        "id": "a",
+        "text": "array_diff() compares the values only while array_diff_assoc() compares the keys only"
+      },
+      {
+        "id": "b",
+        "text": "array_diff() compares the values only while array_diff_assoc() compares the keys and values"
+      },
+      {
+        "id": "c",
+        "text": "Both functions can be used to compare the values and keys"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"array_diff() compares the values only while array_diff_assoc() compares the keys and values\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0113",
+    "type": "mcq",
+    "question": "Which PHP function is used to sort multi-dimensional arrays?",
+    "options": [
+      {
+        "id": "a",
+        "text": "array_sort()"
+      },
+      {
+        "id": "b",
+        "text": "sort()"
+      },
+      {
+        "id": "c",
+        "text": "multisort()"
+      },
+      {
+        "id": "d",
+        "text": "array_multisort()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0114",
+    "type": "mcq",
+    "question": "What is the use of PHP sort() function?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sorts an indexed array"
+      },
+      {
+        "id": "b",
+        "text": "Sorts an associative array"
+      },
+      {
+        "id": "c",
+        "text": "Sorts a multi-dimensional array"
+      },
+      {
+        "id": "d",
+        "text": "Sorts any kind of array"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0115",
+    "type": "mcq",
+    "question": "Which PHP function is used to sort an indexed array in descending order?",
+    "options": [
+      {
+        "id": "a",
+        "text": "sort_reverse()"
+      },
+      {
+        "id": "b",
+        "text": "reverse_sort()"
+      },
+      {
+        "id": "c",
+        "text": "revsort()"
+      },
+      {
+        "id": "d",
+        "text": "rsort()"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0116",
+    "type": "mcq",
+    "question": "Which PHP function is used to return the current element in an array?",
+    "options": [
+      {
+        "id": "a",
+        "text": "get()"
+      },
+      {
+        "id": "b",
+        "text": "start()"
+      },
+      {
+        "id": "c",
+        "text": "current()"
+      },
+      {
+        "id": "d",
+        "text": "cur()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0117",
+    "type": "mcq",
+    "question": "Which PHP function is used to check if a specified value exists in an array?",
+    "options": [
+      {
+        "id": "a",
+        "text": "in_array()"
+      },
+      {
+        "id": "b",
+        "text": "check_array()"
+      },
+      {
+        "id": "c",
+        "text": "exist()"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0118",
+    "type": "mcq",
+    "question": "Which PHP function is used to sort an associative array in descending order, according to the key?",
+    "options": [
+      {
+        "id": "a",
+        "text": "sort()"
+      },
+      {
+        "id": "b",
+        "text": "rsort()"
+      },
+      {
+        "id": "c",
+        "text": "ksort()"
+      },
+      {
+        "id": "d",
+        "text": "krsort()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0119",
+    "type": "mcq",
+    "question": "Which PHP function is used to get one or more random keys from an array?",
+    "options": [
+      {
+        "id": "a",
+        "text": "array_random()"
+      },
+      {
+        "id": "b",
+        "text": "array_randomize()"
+      },
+      {
+        "id": "c",
+        "text": "array_rand()"
+      },
+      {
+        "id": "d",
+        "text": "krand()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0120",
+    "type": "mcq",
+    "question": "Which is not a valid PHP superglobal variable?",
+    "options": [
+      {
+        "id": "a",
+        "text": "$GLOBALS"
+      },
+      {
+        "id": "b",
+        "text": "$_SERVER"
+      },
+      {
+        "id": "c",
+        "text": "$_ENV"
+      },
+      {
+        "id": "d",
+        "text": "$_SESSIONS"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0121",
+    "type": "mcq",
+    "question": "What is the use of PHP $_SERVER variable?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To update the content on the server"
+      },
+      {
+        "id": "b",
+        "text": "To access the information about headers, paths, and script locations"
+      },
+      {
+        "id": "c",
+        "text": "To access and update the database records on the server"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0122",
+    "type": "mcq",
+    "question": "Which element of the of PHP $_SERVER variable is used to get the path of the current script?",
+    "options": [
+      {
+        "id": "a",
+        "text": "SCRIPT_NAME"
+      },
+      {
+        "id": "b",
+        "text": "SCRIPT_PATH"
+      },
+      {
+        "id": "c",
+        "text": "PATH"
+      },
+      {
+        "id": "d",
+        "text": "FILE_PATH"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0123",
+    "type": "mcq",
+    "question": "Which element of the of PHP $_SERVER variable is used to get the filename of the currently executing script?",
+    "options": [
+      {
+        "id": "a",
+        "text": "PATH"
+      },
+      {
+        "id": "b",
+        "text": "FILE_PATH"
+      },
+      {
+        "id": "c",
+        "text": "PHP_SELF"
+      },
+      {
+        "id": "d",
+        "text": "SELF"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0124",
+    "type": "mcq",
+    "question": "Which PHP global variable is used to collect data after submitting an HTML form?",
+    "options": [
+      {
+        "id": "a",
+        "text": "$_GET"
+      },
+      {
+        "id": "b",
+        "text": "$_REQUEST"
+      },
+      {
+        "id": "c",
+        "text": "$_POST"
+      },
+      {
+        "id": "d",
+        "text": "$_ENV"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0125",
+    "type": "mcq",
+    "question": "Which PHP global variable is used to collect form data after submitting an HTML form with method=\"post\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "$_GET"
+      },
+      {
+        "id": "b",
+        "text": "$_REQUEST"
+      },
+      {
+        "id": "c",
+        "text": "$_POST"
+      },
+      {
+        "id": "d",
+        "text": "$_ENV"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0126",
+    "type": "mcq",
+    "question": "What is the return value of preg_match() function?",
+    "options": [
+      {
+        "id": "a",
+        "text": "0 or 1"
+      },
+      {
+        "id": "b",
+        "text": "False or True"
+      },
+      {
+        "id": "c",
+        "text": "0, less than 1, or greater then 1"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"0 or 1\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0127",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$str = \"Hello, IncludeHelp\";\n$pattern = \"/includehelp/i\";\necho preg_match($pattern, $str);",
+    "options": [
+      {
+        "id": "a",
+        "text": "0"
+      },
+      {
+        "id": "b",
+        "text": "1"
+      },
+      {
+        "id": "c",
+        "text": "5"
+      },
+      {
+        "id": "d",
+        "text": "7"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0128",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code?\n<?php\n$str = \"Hello, IncludeHelp\";\n$pattern = \"/el/m\";\necho preg_match($pattern, $str);",
+    "options": [
+      {
+        "id": "a",
+        "text": "0"
+      },
+      {
+        "id": "b",
+        "text": "1"
+      },
+      {
+        "id": "c",
+        "text": "5"
+      },
+      {
+        "id": "d",
+        "text": "7"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0129",
+    "type": "mcq",
+    "question": "What are the metacharacters in PHP Regular Expression?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Metacharacters are characters with a special meaning"
+      },
+      {
+        "id": "b",
+        "text": "Metacharacters are set of symbols to perform the mathematical operations on the characters"
+      },
+      {
+        "id": "c",
+        "text": "Metacharacters are characters written within the double quotes to search in the string"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0130",
+    "type": "mcq",
+    "question": "What is the search pattern to find any character from the range 5 to 8?",
+    "options": [
+      {
+        "id": "a",
+        "text": "[5 to 8]"
+      },
+      {
+        "id": "b",
+        "text": "[5...8]"
+      },
+      {
+        "id": "c",
+        "text": "[5-8]"
+      },
+      {
+        "id": "d",
+        "text": "[4-9]"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"[5-8]\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0131",
+    "type": "mcq",
+    "question": "What is the valid set of characters (or, metacharacters) to find the Unicode character specified by the hexadecimal number xxxx?",
+    "options": [
+      {
+        "id": "a",
+        "text": "\\uxxxx"
+      },
+      {
+        "id": "b",
+        "text": "\\xxxx"
+      },
+      {
+        "id": "c",
+        "text": "\\+uxxxx"
+      },
+      {
+        "id": "d",
+        "text": "\\+Uxxxx"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"\\uxxxx\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0132",
+    "type": "mcq",
+    "question": "What is the complete syntax of PHP date() function?",
+    "options": [
+      {
+        "id": "a",
+        "text": "date(format)"
+      },
+      {
+        "id": "b",
+        "text": "date(timestamp)"
+      },
+      {
+        "id": "c",
+        "text": "date(format, timestamp)"
+      },
+      {
+        "id": "d",
+        "text": "date(format, value, timestamp)"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0133",
+    "type": "mcq",
+    "question": "Which is the correct PHP statement to print the current date in DD-MON-YYY format?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<?php echo date(\"DD-MON-YYYY\"); ?>"
+      },
+      {
+        "id": "b",
+        "text": "<?php echo date(\"dd-mon-yyyy\"); ?>"
+      },
+      {
+        "id": "c",
+        "text": "<?php echo date(\"d-m-y\"); ?>"
+      },
+      {
+        "id": "d",
+        "text": "<?php echo date(\"d-M-Y\"); ?>"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0134",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code (if the date is 30th December 2021)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "30th - Dec - 2021"
+      },
+      {
+        "id": "b",
+        "text": "30 (Thursday) - Dec - 2021"
+      },
+      {
+        "id": "c",
+        "text": "30 (Thu) - Dec - 2021"
+      },
+      {
+        "id": "d",
+        "text": "30 (l) - Dec - 2021"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0135",
+    "type": "mcq",
+    "question": "Which is the correct PHP statement to print the current time in the format of hour:minutes:seconds(am/pm) i.e., 10:22:54pm?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<?php echo date(\"h:i:sa\");?>"
+      },
+      {
+        "id": "b",
+        "text": "<?php echo date(\"h:m:sa\");?>"
+      },
+      {
+        "id": "c",
+        "text": "<?php echo date(\"h:mi:sa\");?>"
+      },
+      {
+        "id": "d",
+        "text": "<?php echo date(\"hh:min:sa\");?>"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0136",
+    "type": "mcq",
+    "question": "The PHP date() function returns the         .",
+    "options": [
+      {
+        "id": "a",
+        "text": "Current date and time of the localhost"
+      },
+      {
+        "id": "b",
+        "text": "Current date and time of the server"
+      },
+      {
+        "id": "c",
+        "text": "Current UTC time"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0137",
+    "type": "mcq",
+    "question": "Which PHP function is used to add days, months, years, hours, minutes, and seconds to a date?",
+    "options": [
+      {
+        "id": "a",
+        "text": "add()"
+      },
+      {
+        "id": "b",
+        "text": "add_date()"
+      },
+      {
+        "id": "c",
+        "text": "date_add()"
+      },
+      {
+        "id": "d",
+        "text": "add_dates()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0138",
+    "type": "mcq",
+    "question": "Which PHP function modifies the timestamp?",
+    "options": [
+      {
+        "id": "a",
+        "text": "date_modify()"
+      },
+      {
+        "id": "b",
+        "text": "modify_timestamp()"
+      },
+      {
+        "id": "c",
+        "text": "date_stamp()"
+      },
+      {
+        "id": "d",
+        "text": "stamp()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0139",
+    "type": "mcq",
+    "question": "Which PHP function is used to get the current Unix timestamp with microseconds?",
+    "options": [
+      {
+        "id": "a",
+        "text": "date_microtime()"
+      },
+      {
+        "id": "b",
+        "text": "microtime()"
+      },
+      {
+        "id": "c",
+        "text": "mtime()"
+      },
+      {
+        "id": "d",
+        "text": "microsecondstime()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0140",
+    "type": "mcq",
+    "question": "Which PHP function is used to get the current time in the number of seconds since the Unix Epoch (January 1 1970 00:00:00 GMT)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "time()"
+      },
+      {
+        "id": "b",
+        "text": "gettime()"
+      },
+      {
+        "id": "c",
+        "text": "stime()"
+      },
+      {
+        "id": "d",
+        "text": "time_seconds()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0141",
+    "type": "mcq",
+    "question": "What will be the output of the following PHP code (if the date is 30th December 2021)?\n<?php\n$d=mktime(12, 13, 14, 1, 2, 2021);\necho date(\"d-M-Y h:i:sa\", $d);\n?>",
+    "options": [
+      {
+        "id": "a",
+        "text": "01-Feb-2021 12:13:14pm"
+      },
+      {
+        "id": "b",
+        "text": "01-feb-2021 14:13:12pm"
+      },
+      {
+        "id": "c",
+        "text": "02-Jan-2021 12:13:14pm"
+      },
+      {
+        "id": "d",
+        "text": "02-Jan-2021 14:13:12pm"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0142",
+    "type": "mcq",
+    "question": "What is the difference of include and require statements in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "There is not difference both are the same"
+      },
+      {
+        "id": "b",
+        "text": "require is an alias of include"
+      },
+      {
+        "id": "c",
+        "text": "require returns the Fatal Error, while include returns the Warning"
+      },
+      {
+        "id": "d",
+        "text": "include includes one PHP file while require can include multiple PHP files"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0143",
+    "type": "mcq",
+    "question": "What is the syntax of PHP \"include\" statement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "include {'filename'};"
+      },
+      {
+        "id": "b",
+        "text": "<include 'filename'>;"
+      },
+      {
+        "id": "c",
+        "text": "include <'filename'>;"
+      },
+      {
+        "id": "d",
+        "text": "include 'filename';"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0144",
+    "type": "mcq",
+    "question": "What is the syntax of PHP \"require\" statement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "require {'filename'};"
+      },
+      {
+        "id": "b",
+        "text": "<require 'filename'>;"
+      },
+      {
+        "id": "c",
+        "text": "require <'filename'>;"
+      },
+      {
+        "id": "d",
+        "text": "require 'filename';"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0145",
+    "type": "mcq",
+    "question": "Which PHP function is used to open a file?",
+    "options": [
+      {
+        "id": "a",
+        "text": "fopen()"
+      },
+      {
+        "id": "b",
+        "text": "open()"
+      },
+      {
+        "id": "c",
+        "text": "open_file()"
+      },
+      {
+        "id": "d",
+        "text": "PHP_open()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0146",
+    "type": "mcq",
+    "question": "Which PHP function is used to close a file?",
+    "options": [
+      {
+        "id": "a",
+        "text": "fclose()"
+      },
+      {
+        "id": "b",
+        "text": "close()"
+      },
+      {
+        "id": "c",
+        "text": "close_file()"
+      },
+      {
+        "id": "d",
+        "text": "PHP_close()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0147",
+    "type": "mcq",
+    "question": "Which PHP function is used to read the content of a file?",
+    "options": [
+      {
+        "id": "a",
+        "text": "read()"
+      },
+      {
+        "id": "b",
+        "text": "getfile()"
+      },
+      {
+        "id": "c",
+        "text": "readfile()"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0148",
+    "type": "mcq",
+    "question": "Which PHP function reads a single line from a file?",
+    "options": [
+      {
+        "id": "a",
+        "text": "readline()"
+      },
+      {
+        "id": "b",
+        "text": "getline()"
+      },
+      {
+        "id": "c",
+        "text": "fget()"
+      },
+      {
+        "id": "d",
+        "text": "fgets()"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0149",
+    "type": "mcq",
+    "question": "Which PHP function reads a single character from a file?",
+    "options": [
+      {
+        "id": "a",
+        "text": "readcharacter()"
+      },
+      {
+        "id": "b",
+        "text": "getchar()"
+      },
+      {
+        "id": "c",
+        "text": "fgetc()"
+      },
+      {
+        "id": "d",
+        "text": "fchars()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0150",
+    "type": "mcq",
+    "question": "What does PHP stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Personal Hypertext Processor"
+      },
+      {
+        "id": "b",
+        "text": "PHP: Hypertext Preprocessor"
+      },
+      {
+        "id": "c",
+        "text": "Private Home Page"
+      },
+      {
+        "id": "d",
+        "text": "Personal Home Page"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0151",
+    "type": "mcq",
+    "question": "Which symbol is used to start a PHP variable?",
+    "options": [
+      {
+        "id": "a",
+        "text": "&"
+      },
+      {
+        "id": "b",
+        "text": "$"
+      },
+      {
+        "id": "c",
+        "text": "#"
+      },
+      {
+        "id": "d",
+        "text": "@"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0152",
+    "type": "mcq",
+    "question": "Which of the following is the correct way to include a PHP file?",
+    "options": [
+      {
+        "id": "a",
+        "text": "#include 'file.php';"
+      },
+      {
+        "id": "b",
+        "text": "include('file.php');"
+      },
+      {
+        "id": "c",
+        "text": "import 'file.php';"
+      },
+      {
+        "id": "d",
+        "text": "require('file.php');"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0153",
+    "type": "mcq",
+    "question": "Which PHP function is used to display text?",
+    "options": [
+      {
+        "id": "a",
+        "text": "echo()"
+      },
+      {
+        "id": "b",
+        "text": "print()"
+      },
+      {
+        "id": "c",
+        "text": "write()"
+      },
+      {
+        "id": "d",
+        "text": "Both a and b"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0154",
+    "type": "mcq",
+    "question": "PHP files have a default file extension of:",
+    "options": [
+      {
+        "id": "a",
+        "text": ".html"
+      },
+      {
+        "id": "b",
+        "text": ".xml"
+      },
+      {
+        "id": "c",
+        "text": ".php"
+      },
+      {
+        "id": "d",
+        "text": ".js"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0155",
+    "type": "mcq",
+    "question": "Which of the following is used to get the length of a string in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "strlen()"
+      },
+      {
+        "id": "b",
+        "text": "strlength()"
+      },
+      {
+        "id": "c",
+        "text": "lengthof()"
+      },
+      {
+        "id": "d",
+        "text": "count()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0156",
+    "type": "mcq",
+    "question": "How do you comment out a single line in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "// comment"
+      },
+      {
+        "id": "b",
+        "text": "# comment"
+      },
+      {
+        "id": "c",
+        "text": "/* comment */"
+      },
+      {
+        "id": "d",
+        "text": "Both a and b"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0157",
+    "type": "mcq",
+    "question": "Which of the following is used to check if a variable is set in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "isset()"
+      },
+      {
+        "id": "b",
+        "text": "set()"
+      },
+      {
+        "id": "c",
+        "text": "exist()"
+      },
+      {
+        "id": "d",
+        "text": "defined()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0158",
+    "type": "mcq",
+    "question": "How can you define a constant in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "const()"
+      },
+      {
+        "id": "b",
+        "text": "define()"
+      },
+      {
+        "id": "c",
+        "text": "constant()"
+      },
+      {
+        "id": "d",
+        "text": "var()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0159",
+    "type": "mcq",
+    "question": "Which of the following loops does PHP support?",
+    "options": [
+      {
+        "id": "a",
+        "text": "for"
+      },
+      {
+        "id": "b",
+        "text": "foreach"
+      },
+      {
+        "id": "c",
+        "text": "while"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0160",
+    "type": "mcq",
+    "question": "What will 5 % 2 return in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "1"
+      },
+      {
+        "id": "c",
+        "text": "5"
+      },
+      {
+        "id": "d",
+        "text": "0"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0161",
+    "type": "mcq",
+    "question": "How do you access a value in an associative array?",
+    "options": [
+      {
+        "id": "a",
+        "text": "$array[]"
+      },
+      {
+        "id": "b",
+        "text": "$array(key)"
+      },
+      {
+        "id": "c",
+        "text": "$array[key]"
+      },
+      {
+        "id": "d",
+        "text": "$array->key"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"$array[key]\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0162",
+    "type": "mcq",
+    "question": "Which function is used to get the current date in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "current_date()"
+      },
+      {
+        "id": "b",
+        "text": "getdate()"
+      },
+      {
+        "id": "c",
+        "text": "date()"
+      },
+      {
+        "id": "d",
+        "text": "now()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0163",
+    "type": "mcq",
+    "question": "What does the $_POST superglobal represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Form data sent via GET"
+      },
+      {
+        "id": "b",
+        "text": "Form data sent via POST"
+      },
+      {
+        "id": "c",
+        "text": "Cookie data"
+      },
+      {
+        "id": "d",
+        "text": "Server information"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"Form data sent via POST\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0164",
+    "type": "mcq",
+    "question": "How can you include an external PHP file into a script?",
+    "options": [
+      {
+        "id": "a",
+        "text": "add()"
+      },
+      {
+        "id": "b",
+        "text": "include()"
+      },
+      {
+        "id": "c",
+        "text": "insert()"
+      },
+      {
+        "id": "d",
+        "text": "push()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0165",
+    "type": "mcq",
+    "question": "Which of the following is the correct way to declare a function in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "function myFunc[]"
+      },
+      {
+        "id": "b",
+        "text": "function myFunc()"
+      },
+      {
+        "id": "c",
+        "text": "myFunc()"
+      },
+      {
+        "id": "d",
+        "text": "def myFunc()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0166",
+    "type": "mcq",
+    "question": "How can you check if a file exists in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "is_file()"
+      },
+      {
+        "id": "b",
+        "text": "check_file()"
+      },
+      {
+        "id": "c",
+        "text": "file_exist()"
+      },
+      {
+        "id": "d",
+        "text": "file_exists()"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0167",
+    "type": "mcq",
+    "question": "What will the function round(2.4) return in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "text": "2.4"
+      },
+      {
+        "id": "d",
+        "text": "2"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0168",
+    "type": "mcq",
+    "question": "What will the count() function do when used on an array?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Return the length of the array"
+      },
+      {
+        "id": "b",
+        "text": "Return the last element"
+      },
+      {
+        "id": "c",
+        "text": "Return the number of elements"
+      },
+      {
+        "id": "d",
+        "text": "Return the index of the array"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"Return the number of elements\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0169",
+    "type": "mcq",
+    "question": "How do you start a session in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "session_start();"
+      },
+      {
+        "id": "b",
+        "text": "session();"
+      },
+      {
+        "id": "c",
+        "text": "start_session();"
+      },
+      {
+        "id": "d",
+        "text": "begin_session();"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0170",
+    "type": "mcq",
+    "question": "What is the default data type of a variable in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "integer"
+      },
+      {
+        "id": "b",
+        "text": "float"
+      },
+      {
+        "id": "c",
+        "text": "string"
+      },
+      {
+        "id": "d",
+        "text": "None (dynamically typed)"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0171",
+    "type": "mcq",
+    "question": "Which function is used to send an email in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "mail()"
+      },
+      {
+        "id": "b",
+        "text": "send()"
+      },
+      {
+        "id": "c",
+        "text": "email()"
+      },
+      {
+        "id": "d",
+        "text": "message()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0172",
+    "type": "mcq",
+    "question": "What does json_encode() do in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Decodes JSON"
+      },
+      {
+        "id": "b",
+        "text": "Encodes a string to JSON"
+      },
+      {
+        "id": "c",
+        "text": "Encodes an array to JSON"
+      },
+      {
+        "id": "d",
+        "text": "Both b and c"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0173",
+    "type": "mcq",
+    "question": "How can you delete a cookie in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "delete_cookie()"
+      },
+      {
+        "id": "b",
+        "text": "remove_cookie()"
+      },
+      {
+        "id": "c",
+        "text": "Set cookie with a past expiry date"
+      },
+      {
+        "id": "d",
+        "text": "unset_cookie()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0174",
+    "type": "mcq",
+    "question": "Which of the following is not a valid PHP data type?",
+    "options": [
+      {
+        "id": "a",
+        "text": "String"
+      },
+      {
+        "id": "b",
+        "text": "Float"
+      },
+      {
+        "id": "c",
+        "text": "Boolean"
+      },
+      {
+        "id": "d",
+        "text": "Character"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0175",
+    "type": "mcq",
+    "question": "What is the result of strpos(\"Hello world\", \"world\")?",
+    "options": [
+      {
+        "id": "a",
+        "text": "0"
+      },
+      {
+        "id": "b",
+        "text": "1"
+      },
+      {
+        "id": "c",
+        "text": "6"
+      },
+      {
+        "id": "d",
+        "text": "-1"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"6\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0176",
+    "type": "mcq",
+    "question": "Which superglobal contains information about uploaded files?",
+    "options": [
+      {
+        "id": "a",
+        "text": "$_FILES"
+      },
+      {
+        "id": "b",
+        "text": "$_POST"
+      },
+      {
+        "id": "c",
+        "text": "$_GET"
+      },
+      {
+        "id": "d",
+        "text": "$_SESSION"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "HTML forms collect user input and send it to the server for processing."
+  },
+  {
+    "id": "ost-0177",
+    "type": "mcq",
+    "question": "What is the output of echo 10 <=> 20;?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1"
+      },
+      {
+        "id": "b",
+        "text": "0"
+      },
+      {
+        "id": "c",
+        "text": "-1"
+      },
+      {
+        "id": "d",
+        "text": "nan"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"1\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0178",
+    "type": "mcq",
+    "question": "Which of the following is the correct way to concatenate two strings in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "strcat()"
+      },
+      {
+        "id": "b",
+        "text": "&"
+      },
+      {
+        "id": "c",
+        "text": "."
+      },
+      {
+        "id": "d",
+        "text": "+"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0179",
+    "type": "mcq",
+    "question": "How can you destroy a PHP session?",
+    "options": [
+      {
+        "id": "a",
+        "text": "session_end()"
+      },
+      {
+        "id": "b",
+        "text": "destroy_session()"
+      },
+      {
+        "id": "c",
+        "text": "session_destroy()"
+      },
+      {
+        "id": "d",
+        "text": "unset_session()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0180",
+    "type": "mcq",
+    "question": "How do you declare an array in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "$array = array();"
+      },
+      {
+        "id": "b",
+        "text": "$array = {};"
+      },
+      {
+        "id": "c",
+        "text": "$array = new Array();"
+      },
+      {
+        "id": "d",
+        "text": "$array = [];"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0181",
+    "type": "mcq",
+    "question": "Which of the following method is used to send HTTP headers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "send_header()"
+      },
+      {
+        "id": "b",
+        "text": "header()"
+      },
+      {
+        "id": "c",
+        "text": "set_header()"
+      },
+      {
+        "id": "d",
+        "text": "header_set()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"send_header()\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0182",
+    "type": "mcq",
+    "question": "Which method is used to create a cookie in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "create_cookie()"
+      },
+      {
+        "id": "b",
+        "text": "setcookie()"
+      },
+      {
+        "id": "c",
+        "text": "cookie_create()"
+      },
+      {
+        "id": "d",
+        "text": "makecookie()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0183",
+    "type": "mcq",
+    "question": "What is the default value of a function parameter in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Null"
+      },
+      {
+        "id": "b",
+        "text": "Empty String"
+      },
+      {
+        "id": "c",
+        "text": "FALSE"
+      },
+      {
+        "id": "d",
+        "text": "No default"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0184",
+    "type": "mcq",
+    "question": "What is a trait in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A keyword to define a class"
+      },
+      {
+        "id": "b",
+        "text": "A code reuse mechanism"
+      },
+      {
+        "id": "c",
+        "text": "A new data type"
+      },
+      {
+        "id": "d",
+        "text": "A PHP constant"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0185",
+    "type": "mcq",
+    "question": "What will the function time() return?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Current date and time"
+      },
+      {
+        "id": "b",
+        "text": "Unix timestamp"
+      },
+      {
+        "id": "c",
+        "text": "GMT date and time"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "The correct answer is \"Unix timestamp\" because it best matches the PHP and web technology concept asked in the question."
+  },
+  {
+    "id": "ost-0186",
+    "type": "mcq",
+    "question": "How can you connect to a MySQL database using PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "connect_db()"
+      },
+      {
+        "id": "b",
+        "text": "mysql_connect()"
+      },
+      {
+        "id": "c",
+        "text": "mysqli_connect()"
+      },
+      {
+        "id": "d",
+        "text": "db_connect()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0187",
+    "type": "mcq",
+    "question": "What is the output of intdiv(10, 3) in PHP 7?",
+    "options": [
+      {
+        "id": "a",
+        "text": "3.33"
+      },
+      {
+        "id": "b",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "text": "4"
+      },
+      {
+        "id": "d",
+        "text": "nan"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0188",
+    "type": "mcq",
+    "question": "What does empty($var) do in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Checks if $var is empty"
+      },
+      {
+        "id": "b",
+        "text": "Sets $var to empty"
+      },
+      {
+        "id": "c",
+        "text": "Deletes $var"
+      },
+      {
+        "id": "d",
+        "text": "Initializes $var"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0189",
+    "type": "mcq",
+    "question": "How can you redirect a user to a new page using PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "redirect();"
+      },
+      {
+        "id": "b",
+        "text": "header(\"Location: page.php\");"
+      },
+      {
+        "id": "c",
+        "text": "move();"
+      },
+      {
+        "id": "d",
+        "text": "set_header(\"page.php\");"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0190",
+    "type": "mcq",
+    "question": "Which of the following functions is used to create a new database table in PHP with MySQL?",
+    "options": [
+      {
+        "id": "a",
+        "text": "mysql_query()"
+      },
+      {
+        "id": "b",
+        "text": "mysqli_query()"
+      },
+      {
+        "id": "c",
+        "text": "query()"
+      },
+      {
+        "id": "d",
+        "text": "execute()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0191",
+    "type": "mcq",
+    "question": "How do you include a file only once in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "include()"
+      },
+      {
+        "id": "b",
+        "text": "include_once()"
+      },
+      {
+        "id": "c",
+        "text": "require_once()"
+      },
+      {
+        "id": "d",
+        "text": "Both b and c"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0192",
+    "type": "mcq",
+    "question": "Which function is used to terminate script execution in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "exit()"
+      },
+      {
+        "id": "b",
+        "text": "die()"
+      },
+      {
+        "id": "c",
+        "text": "Both a and b"
+      },
+      {
+        "id": "d",
+        "text": "stop()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0193",
+    "type": "mcq",
+    "question": "How do you convert a string to lowercase in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "lower()"
+      },
+      {
+        "id": "b",
+        "text": "strlower()"
+      },
+      {
+        "id": "c",
+        "text": "tolower()"
+      },
+      {
+        "id": "d",
+        "text": "strtolower()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0194",
+    "type": "mcq",
+    "question": "Which of the following is used to get the last inserted ID in MySQL with PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "mysqli_insert_id()"
+      },
+      {
+        "id": "b",
+        "text": "insert_id()"
+      },
+      {
+        "id": "c",
+        "text": "last_id()"
+      },
+      {
+        "id": "d",
+        "text": "get_id()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0195",
+    "type": "mcq",
+    "question": "What does print_r() do in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prints an array"
+      },
+      {
+        "id": "b",
+        "text": "Prints the values in a human-readable format"
+      },
+      {
+        "id": "c",
+        "text": "Prints an integer"
+      },
+      {
+        "id": "d",
+        "text": "Prints the result"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0196",
+    "type": "mcq",
+    "question": "What does === signify in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Assignment"
+      },
+      {
+        "id": "b",
+        "text": "Comparison of type and value"
+      },
+      {
+        "id": "c",
+        "text": "Reference"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0197",
+    "type": "mcq",
+    "question": "Which function is used to read a file in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "file_get_contents()"
+      },
+      {
+        "id": "b",
+        "text": "file()"
+      },
+      {
+        "id": "c",
+        "text": "fread()"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0198",
+    "type": "mcq",
+    "question": "How can you encode a URL in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "urlencode()"
+      },
+      {
+        "id": "b",
+        "text": "encode_url()"
+      },
+      {
+        "id": "c",
+        "text": "encode()"
+      },
+      {
+        "id": "d",
+        "text": "url_format()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  },
+  {
+    "id": "ost-0199",
+    "type": "mcq",
+    "question": "How can you retrieve browser details in PHP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "$_SERVER['HTTP_USER_AGENT']"
+      },
+      {
+        "id": "b",
+        "text": "$_SESSION['HTTP_USER_AGENT']"
+      },
+      {
+        "id": "c",
+        "text": "$_BROWSER['AGENT']"
+      },
+      {
+        "id": "d",
+        "text": "$_ENV['USER_AGENT']"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ost",
+      "php"
+    ],
+    "explanation": "PHP is a widely used server-side scripting language designed for web development."
+  }
+]

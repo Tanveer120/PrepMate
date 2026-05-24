@@ -1,0 +1,6326 @@
+[
+  {
+    "id": "cis-0001",
+    "type": "mcq",
+    "question": "What is a key characteristic of cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "On-premises infrastructure"
+      },
+      {
+        "id": "b",
+        "text": "Limited scalability"
+      },
+      {
+        "id": "c",
+        "text": "On-demand self-service"
+      },
+      {
+        "id": "d",
+        "text": "Manual resource provisioning"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"On-demand self-service\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0002",
+    "type": "mcq",
+    "question": "Which of the following is a cloud computing service model?",
+    "options": [
+      {
+        "id": "a",
+        "text": "On-premise as a Service"
+      },
+      {
+        "id": "b",
+        "text": "Infrastructure as a Service (IaaS)"
+      },
+      {
+        "id": "c",
+        "text": "Hardware as a Service"
+      },
+      {
+        "id": "d",
+        "text": "Network as a Service"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Infrastructure as a Service (IaaS)\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0003",
+    "type": "mcq",
+    "question": "Which deployment model involves cloud infrastructure provisioned for exclusive use by a single organization?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Private Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0004",
+    "type": "mcq",
+    "question": "What technology allows for the creation of virtual instances of computing resources?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Containers"
+      },
+      {
+        "id": "b",
+        "text": "Virtualization"
+      },
+      {
+        "id": "c",
+        "text": "Microservices"
+      },
+      {
+        "id": "d",
+        "text": "Serverless Computing"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Virtualization\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0005",
+    "type": "mcq",
+    "question": "Which cloud service model provides users with access to an operating system and development tools?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "SaaS"
+      },
+      {
+        "id": "d",
+        "text": "XaaS"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Access control restricts system resources to authorized users only."
+  },
+  {
+    "id": "cis-0006",
+    "type": "mcq",
+    "question": "What is a common challenge associated with cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "High initial investment"
+      },
+      {
+        "id": "b",
+        "text": "Limited accessibility"
+      },
+      {
+        "id": "c",
+        "text": "Vendor lock-in"
+      },
+      {
+        "id": "d",
+        "text": "Reduced flexibility"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Vendor lock-in\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0007",
+    "type": "mcq",
+    "question": "Which of the following is a core component of cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bare-metal servers"
+      },
+      {
+        "id": "b",
+        "text": "Physical data centers"
+      },
+      {
+        "id": "c",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "d",
+        "text": "On-site storage arrays"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Virtual Machines\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0008",
+    "type": "mcq",
+    "question": "What does SaaS stand for in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Software as a Solution"
+      },
+      {
+        "id": "b",
+        "text": "Service as a Software"
+      },
+      {
+        "id": "c",
+        "text": "Software as a Service"
+      },
+      {
+        "id": "d",
+        "text": "System as a Service"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Software as a Service\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0009",
+    "type": "mcq",
+    "question": "Which cloud deployment model combines two or more distinct cloud infrastructures?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Hybrid Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0010",
+    "type": "mcq",
+    "question": "What is a key security consideration in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical security of local servers"
+      },
+      {
+        "id": "b",
+        "text": "Data encryption"
+      },
+      {
+        "id": "c",
+        "text": "On-premise network monitoring"
+      },
+      {
+        "id": "d",
+        "text": "Traditional firewall management"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0011",
+    "type": "mcq",
+    "question": "What is the primary purpose of monitoring cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase hardware costs"
+      },
+      {
+        "id": "b",
+        "text": "To reduce network bandwidth"
+      },
+      {
+        "id": "c",
+        "text": "To ensure optimal performance and availability"
+      },
+      {
+        "id": "d",
+        "text": "To limit data access"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To ensure optimal performance and availability\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0012",
+    "type": "mcq",
+    "question": "Which concept allows applications to be broken down into small, independent services?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Monolithic architecture"
+      },
+      {
+        "id": "b",
+        "text": "Virtualization"
+      },
+      {
+        "id": "c",
+        "text": "Microservices"
+      },
+      {
+        "id": "d",
+        "text": "Serverless Computing"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Microservices\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0013",
+    "type": "mcq",
+    "question": "What is a common tool for managing cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Command Line Interface (CLI)"
+      },
+      {
+        "id": "b",
+        "text": "Spreadsheet software"
+      },
+      {
+        "id": "c",
+        "text": "Word processor"
+      },
+      {
+        "id": "d",
+        "text": "Graphics design tool"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Command Line Interface (CLI)\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0014",
+    "type": "mcq",
+    "question": "What is a crucial aspect to consider for cost optimization in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maximizing idle resources"
+      },
+      {
+        "id": "b",
+        "text": "Choosing expensive services"
+      },
+      {
+        "id": "c",
+        "text": "Right-sizing resources"
+      },
+      {
+        "id": "d",
+        "text": "Avoiding monitoring tools"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Right-sizing resources\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0015",
+    "type": "mcq",
+    "question": "What does \"Disaster Recovery in Cloud Computing\" primarily focus on?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preventing all outages"
+      },
+      {
+        "id": "b",
+        "text": "Restoring operations after a disruption"
+      },
+      {
+        "id": "c",
+        "text": "Increasing data loss"
+      },
+      {
+        "id": "d",
+        "text": "Ignoring backup procedures"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Restoring operations after a disruption\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0016",
+    "type": "mcq",
+    "question": "What is a benefit of cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased upfront hardware costs"
+      },
+      {
+        "id": "b",
+        "text": "Reduced flexibility"
+      },
+      {
+        "id": "c",
+        "text": "Enhanced scalability and elasticity"
+      },
+      {
+        "id": "d",
+        "text": "Limited global reach"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Enhanced scalability and elasticity\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0017",
+    "type": "mcq",
+    "question": "Which service model is primarily concerned with providing a complete development and deployment environment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "SaaS"
+      },
+      {
+        "id": "d",
+        "text": "BaaS"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"PaaS\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0018",
+    "type": "mcq",
+    "question": "What type of cloud is provisioned for exclusive use by a specific community of consumers from organizations that have shared concerns?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Community Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0019",
+    "type": "mcq",
+    "question": "What is a key concept related to running applications without managing the underlying infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "b",
+        "text": "Containers"
+      },
+      {
+        "id": "c",
+        "text": "Serverless Computing"
+      },
+      {
+        "id": "d",
+        "text": "Bare-metal"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Serverless Computing\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0020",
+    "type": "mcq",
+    "question": "What is a common challenge in ensuring security in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "On-premise security audits"
+      },
+      {
+        "id": "b",
+        "text": "Shared responsibility model"
+      },
+      {
+        "id": "c",
+        "text": "Local network vulnerabilities"
+      },
+      {
+        "id": "d",
+        "text": "Physical server access control"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0021",
+    "type": "mcq",
+    "question": "Which course outcome focuses on understanding the concept and evolution of cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analyze architectural components"
+      },
+      {
+        "id": "b",
+        "text": "Design and deploy cloud infrastructure"
+      },
+      {
+        "id": "c",
+        "text": "Understand concept and identify models"
+      },
+      {
+        "id": "d",
+        "text": "Implement best practices"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Understand concept and identify models\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0022",
+    "type": "mcq",
+    "question": "What is a key aspect of \"Capacity Planning for Cloud Infrastructure\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Over-provisioning resources"
+      },
+      {
+        "id": "b",
+        "text": "Underestimating future needs"
+      },
+      {
+        "id": "c",
+        "text": "Optimizing resource allocation for expected demand"
+      },
+      {
+        "id": "d",
+        "text": "Ignoring usage trends"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Optimizing resource allocation for expected demand\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0023",
+    "type": "mcq",
+    "question": "What is a common practice for monitoring cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manual log inspection"
+      },
+      {
+        "id": "b",
+        "text": "Using cloud infrastructure management tools"
+      },
+      {
+        "id": "c",
+        "text": "Relying solely on vendor reports"
+      },
+      {
+        "id": "d",
+        "text": "Avoiding automation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Using cloud infrastructure management tools\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0024",
+    "type": "mcq",
+    "question": "Which of the following is a practical implementation related to virtualization mentioned in the curriculum?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Working with SaaS platforms"
+      },
+      {
+        "id": "b",
+        "text": "Creating and running VM on Hosted Hypervisor"
+      },
+      {
+        "id": "c",
+        "text": "Implementing a private cloud using AWS"
+      },
+      {
+        "id": "d",
+        "text": "Understanding bare-metal security"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Creating and running VM on Hosted Hypervisor\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0025",
+    "type": "mcq",
+    "question": "What does \"Optimizing Cost and Performance in Cloud Computing\" involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maximizing unused resources"
+      },
+      {
+        "id": "b",
+        "text": "Minimizing performance metrics"
+      },
+      {
+        "id": "c",
+        "text": "Aligning resource usage with business needs"
+      },
+      {
+        "id": "d",
+        "text": "Ignoring service level agreements"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Aligning resource usage with business needs\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0026",
+    "type": "mcq",
+    "question": "Which course outcome involves designing and deploying cloud-based infrastructure using virtual machines, storage, networking, and databases?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understanding the concept of cloud computing"
+      },
+      {
+        "id": "b",
+        "text": "Analyzing architectural components"
+      },
+      {
+        "id": "c",
+        "text": "Design and deploy cloud-based infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Evaluating security issues"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Network security protects communication systems and connected devices from threats."
+  },
+  {
+    "id": "cis-0027",
+    "type": "mcq",
+    "question": "What is a security control used in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical access to data centers"
+      },
+      {
+        "id": "b",
+        "text": "Strong authentication and access control"
+      },
+      {
+        "id": "c",
+        "text": "Using only public clouds"
+      },
+      {
+        "id": "d",
+        "text": "Ignoring compliance regulations"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0028",
+    "type": "mcq",
+    "question": "Which practical focuses on the implementation of a private cloud platform?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understanding Hosted KVM"
+      },
+      {
+        "id": "b",
+        "text": "Working with IaaS of Public cloud platforms"
+      },
+      {
+        "id": "c",
+        "text": "Implementation of private cloud platform using open stack cloud"
+      },
+      {
+        "id": "d",
+        "text": "Implementation of Storage as a service"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Implementation of private cloud platform using open stack cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0029",
+    "type": "mcq",
+    "question": "What is the primary focus of \"Cloud Security Threats\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical security of on-premise servers"
+      },
+      {
+        "id": "b",
+        "text": "Data breaches, unauthorized access, and denial of service attacks"
+      },
+      {
+        "id": "c",
+        "text": "Software development methodologies"
+      },
+      {
+        "id": "d",
+        "text": "Network cable management"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0030",
+    "type": "mcq",
+    "question": "What is the purpose of \"Disaster Recovery in Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To ensure data loss"
+      },
+      {
+        "id": "b",
+        "text": "To provide high availability and business continuity in case of disruptions"
+      },
+      {
+        "id": "c",
+        "text": "To increase downtime"
+      },
+      {
+        "id": "d",
+        "text": "To avoid data backups"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To provide high availability and business continuity in case of disruptions\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0031",
+    "type": "mcq",
+    "question": "What is the primary characteristic of Infrastructure as a Service (IaaS)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Provides complete applications"
+      },
+      {
+        "id": "b",
+        "text": "Offers a platform for application development"
+      },
+      {
+        "id": "c",
+        "text": "Provides virtualized computing resources over the internet"
+      },
+      {
+        "id": "d",
+        "text": "Delivers software over the internet"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Provides virtualized computing resources over the internet\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0032",
+    "type": "mcq",
+    "question": "Which of the following is a key benefit of cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased capital expenditure"
+      },
+      {
+        "id": "b",
+        "text": "Reduced operational flexibility"
+      },
+      {
+        "id": "c",
+        "text": "Global accessibility and elasticity"
+      },
+      {
+        "id": "d",
+        "text": "Limited resource pooling"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Global accessibility and elasticity\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0033",
+    "type": "mcq",
+    "question": "What does \"Containers\" refer to in the context of cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical storage units"
+      },
+      {
+        "id": "b",
+        "text": "Lightweight, portable, self-sufficient environments for applications"
+      },
+      {
+        "id": "c",
+        "text": "Large virtual machines"
+      },
+      {
+        "id": "d",
+        "text": "Traditional server racks"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Lightweight, portable, self-sufficient environments for applications\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0034",
+    "type": "mcq",
+    "question": "Which course outcome involves analyzing the architectural components of cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understanding service models"
+      },
+      {
+        "id": "b",
+        "text": "Analyzing architectural components"
+      },
+      {
+        "id": "c",
+        "text": "Evaluating security issues"
+      },
+      {
+        "id": "d",
+        "text": "Implementing management tools"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Analyzing architectural components\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0035",
+    "type": "mcq",
+    "question": "What is a key consideration for \"Compliance in Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignoring regulatory requirements"
+      },
+      {
+        "id": "b",
+        "text": "Adhering to industry standards and legal mandates"
+      },
+      {
+        "id": "c",
+        "text": "Developing proprietary security protocols"
+      },
+      {
+        "id": "d",
+        "text": "Using only private clouds"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Adhering to industry standards and legal mandates\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0036",
+    "type": "mcq",
+    "question": "Which practical focuses on understanding and implementation of Hosted KVM?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Working with IaaS platforms"
+      },
+      {
+        "id": "b",
+        "text": "Understanding and Implementation of Hosted KVM"
+      },
+      {
+        "id": "c",
+        "text": "Implementation of Storage as a service"
+      },
+      {
+        "id": "d",
+        "text": "Creating VM on Oracle Virtual Box"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Understanding and Implementation of Hosted KVM\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0037",
+    "type": "mcq",
+    "question": "What is the primary goal of \"Cloud Computing Performance Metrics\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increasing latency"
+      },
+      {
+        "id": "b",
+        "text": "Measuring and optimizing efficiency and responsiveness"
+      },
+      {
+        "id": "c",
+        "text": "Reducing data storage"
+      },
+      {
+        "id": "d",
+        "text": "Limiting network throughput"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Measuring and optimizing efficiency and responsiveness\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0038",
+    "type": "mcq",
+    "question": "Which service model allows users to access software applications over the internet without managing the underlying infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "SaaS"
+      },
+      {
+        "id": "d",
+        "text": "DaaS"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Access control restricts system resources to authorized users only."
+  },
+  {
+    "id": "cis-0039",
+    "type": "mcq",
+    "question": "What is a common challenge in cloud computing related to data management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Abundant local storage"
+      },
+      {
+        "id": "b",
+        "text": "Data sovereignty and residency"
+      },
+      {
+        "id": "c",
+        "text": "Simple data migration"
+      },
+      {
+        "id": "d",
+        "text": "Limited data volume"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Data sovereignty and residency\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0040",
+    "type": "mcq",
+    "question": "What does \"Microservices\" emphasize in application development?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Building large, monolithic applications"
+      },
+      {
+        "id": "b",
+        "text": "Breaking down applications into small, independent services"
+      },
+      {
+        "id": "c",
+        "text": "Relying on single-server deployments"
+      },
+      {
+        "id": "d",
+        "text": "Avoiding network communication"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Breaking down applications into small, independent services\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0041",
+    "type": "mcq",
+    "question": "Which practical involves working with IaaS of Public cloud platforms?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Implementation of private cloud"
+      },
+      {
+        "id": "b",
+        "text": "Creating and running VM on KVM"
+      },
+      {
+        "id": "c",
+        "text": "Working with IaaS of Public cloud platforms"
+      },
+      {
+        "id": "d",
+        "text": "Implementation of Storage as a service"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Working with IaaS of Public cloud platforms\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0042",
+    "type": "mcq",
+    "question": "What is a primary focus of \"Cloud Security Best Practices\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using default passwords"
+      },
+      {
+        "id": "b",
+        "text": "Implementing strong access controls and encryption"
+      },
+      {
+        "id": "c",
+        "text": "Sharing sensitive data publicly"
+      },
+      {
+        "id": "d",
+        "text": "Avoiding security updates"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0043",
+    "type": "mcq",
+    "question": "What is the definition of a \"Hybrid Cloud\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A single private cloud instance"
+      },
+      {
+        "id": "b",
+        "text": "A combination of public and private clouds"
+      },
+      {
+        "id": "c",
+        "text": "A cloud used by a specific community"
+      },
+      {
+        "id": "d",
+        "text": "A cloud accessible to everyone"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"A combination of public and private clouds\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0044",
+    "type": "mcq",
+    "question": "Which of the following is a type of cloud infrastructure service?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Word processing software"
+      },
+      {
+        "id": "b",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "c",
+        "text": "Email client"
+      },
+      {
+        "id": "d",
+        "text": "Project management tool"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Virtual Machines\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0045",
+    "type": "mcq",
+    "question": "What does the \"Rationale\" for this course state as its purpose?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To teach advanced programming languages"
+      },
+      {
+        "id": "b",
+        "text": "To provide an overview of cloud computing and its aspects"
+      },
+      {
+        "id": "c",
+        "text": "To focus solely on network hardware"
+      },
+      {
+        "id": "d",
+        "text": "To specialize in database administration"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To provide an overview of cloud computing and its aspects\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0046",
+    "type": "mcq",
+    "question": "What is a key characteristic of cloud computing that allows for rapid provisioning and de- provisioning of resources?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Limited resource pooling"
+      },
+      {
+        "id": "b",
+        "text": "On-demand self-service"
+      },
+      {
+        "id": "c",
+        "text": "Fixed infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Manual scaling"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"On-demand self-service\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0047",
+    "type": "mcq",
+    "question": "Which cloud service model typically gives the most control to the user over the underlying infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "SaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "IaaS"
+      },
+      {
+        "id": "d",
+        "text": "FaaS"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"IaaS\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0048",
+    "type": "mcq",
+    "question": "What is a primary consideration when evaluating \"Cost and Performance Considerations in Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignoring usage patterns"
+      },
+      {
+        "id": "b",
+        "text": "Optimizing cost and performance"
+      },
+      {
+        "id": "c",
+        "text": "Maximizing idle resources"
+      },
+      {
+        "id": "d",
+        "text": "Avoiding service level agreements"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Optimizing cost and performance\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0049",
+    "type": "mcq",
+    "question": "Which of the following is an example of a \"Cloud Infrastructure Service\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Word processor"
+      },
+      {
+        "id": "b",
+        "text": "Database"
+      },
+      {
+        "id": "c",
+        "text": "Email client"
+      },
+      {
+        "id": "d",
+        "text": "Spreadsheet application"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Database\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0050",
+    "type": "mcq",
+    "question": "What does \"Cloud Security Threats\" primarily involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical security of data centers"
+      },
+      {
+        "id": "b",
+        "text": "Data breaches and unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "Local network issues"
+      },
+      {
+        "id": "d",
+        "text": "Hardware failures"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0051",
+    "type": "mcq",
+    "question": "Which deployment model offers the greatest flexibility by combining different cloud environments?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Hybrid Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0052",
+    "type": "mcq",
+    "question": "What is a practical application of \"Storage as a service (StaaS)\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Running virtual machines"
+      },
+      {
+        "id": "b",
+        "text": "Storing and retrieving data remotely"
+      },
+      {
+        "id": "c",
+        "text": "Developing applications"
+      },
+      {
+        "id": "d",
+        "text": "Managing networks"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Storing and retrieving data remotely\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0053",
+    "type": "mcq",
+    "question": "Which course outcome focuses on implementing best practices for monitoring and managing cloud infrastructure and services?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analyzing architectural components"
+      },
+      {
+        "id": "b",
+        "text": "Evaluating security issues"
+      },
+      {
+        "id": "c",
+        "text": "Implement best practices for monitoring and managing"
+      },
+      {
+        "id": "d",
+        "text": "Analyzing cost and performance"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Implement best practices for monitoring and managing\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0054",
+    "type": "mcq",
+    "question": "What is a key aspect of \"Disaster Recovery in Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preventing all system failures"
+      },
+      {
+        "id": "b",
+        "text": "Restoring data from local backups"
+      },
+      {
+        "id": "c",
+        "text": "Ensuring business continuity during disruptions"
+      },
+      {
+        "id": "d",
+        "text": "Minimizing network latency"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Ensuring business continuity during disruptions\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0055",
+    "type": "mcq",
+    "question": "What is the main purpose of \"Virtualization\" in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To create physical servers"
+      },
+      {
+        "id": "b",
+        "text": "To emulate hardware and create virtual instances"
+      },
+      {
+        "id": "c",
+        "text": "To connect networks"
+      },
+      {
+        "id": "d",
+        "text": "To manage databases"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To emulate hardware and create virtual instances\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0056",
+    "type": "mcq",
+    "question": "Which concept allows for running code without provisioning or managing servers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "b",
+        "text": "Containers"
+      },
+      {
+        "id": "c",
+        "text": "Serverless Computing"
+      },
+      {
+        "id": "d",
+        "text": "Monolithic architecture"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Serverless Computing\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0057",
+    "type": "mcq",
+    "question": "What is a key component of \"Cloud Infrastructure Architecture\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical servers in your office"
+      },
+      {
+        "id": "b",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "c",
+        "text": "Dedicated firewalls"
+      },
+      {
+        "id": "d",
+        "text": "Local area networks"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Virtual Machines\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0058",
+    "type": "mcq",
+    "question": "What is the primary focus of \"Cloud Security Controls\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignoring access management"
+      },
+      {
+        "id": "b",
+        "text": "Implementing measures to protect cloud resources"
+      },
+      {
+        "id": "c",
+        "text": "Relying on default security settings"
+      },
+      {
+        "id": "d",
+        "text": "Avoiding regular security audits"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0059",
+    "type": "mcq",
+    "question": "Which practical involves studying and implementing Bare-metal virtualization?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understanding Hosted KVM"
+      },
+      {
+        "id": "b",
+        "text": "Creating and running VM on Hosted Hypervisor"
+      },
+      {
+        "id": "c",
+        "text": "To study and implement Bare-metal virtualization using HyperV, Xen or VMware Esxi"
+      },
+      {
+        "id": "d",
+        "text": "Implementation of private cloud using open stack"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To study and implement Bare-metal virtualization using HyperV, Xen or VMware Esxi\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0060",
+    "type": "mcq",
+    "question": "What is a key challenge of cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ease of deployment"
+      },
+      {
+        "id": "b",
+        "text": "Increased control over infrastructure"
+      },
+      {
+        "id": "c",
+        "text": "Vendor lock-in"
+      },
+      {
+        "id": "d",
+        "text": "High availability"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Vendor lock-in\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0061",
+    "type": "mcq",
+    "question": "What is a key characteristic of cloud computing that refers to the ability to quickly increase or decrease resources?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fixed capacity"
+      },
+      {
+        "id": "b",
+        "text": "Elasticity"
+      },
+      {
+        "id": "c",
+        "text": "Limited scalability"
+      },
+      {
+        "id": "d",
+        "text": "Manual resource allocation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Elasticity\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0062",
+    "type": "mcq",
+    "question": "Which of the following is typically managed by the cloud provider in a SaaS model?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Applications, data, runtime, middleware, OS, virtualization, servers, storage, networking"
+      },
+      {
+        "id": "b",
+        "text": "Operating system and runtime"
+      },
+      {
+        "id": "c",
+        "text": "Only applications"
+      },
+      {
+        "id": "d",
+        "text": "Virtual machines and networking"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Applications, data, runtime, middleware, OS, virtualization, servers, storage, networking\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0063",
+    "type": "mcq",
+    "question": "What does \"Cloud Security Threats\" encompass?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical access control to client offices"
+      },
+      {
+        "id": "b",
+        "text": "Malicious insiders, data breaches, and denial-of-service attacks"
+      },
+      {
+        "id": "c",
+        "text": "Employee training on office safety"
+      },
+      {
+        "id": "d",
+        "text": "Regular software updates on personal devices"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0064",
+    "type": "mcq",
+    "question": "Which deployment model is best suited for organizations with highly sensitive data and strict regulatory requirements?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Private Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0065",
+    "type": "mcq",
+    "question": "What is a core component of \"Cloud Infrastructure Architecture & Services\" as listed in the curriculum?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical servers on-site"
+      },
+      {
+        "id": "b",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "c",
+        "text": "Desktop computers"
+      },
+      {
+        "id": "d",
+        "text": "Local area networks"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Virtual Machines\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0066",
+    "type": "mcq",
+    "question": "Which course outcome involves analyzing the cost and performance considerations in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Design cloud infrastructure"
+      },
+      {
+        "id": "b",
+        "text": "Implement security best practices"
+      },
+      {
+        "id": "c",
+        "text": "Analyze cost and performance considerations"
+      },
+      {
+        "id": "d",
+        "text": "Monitor cloud infrastructure"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Analyze cost and performance considerations\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0067",
+    "type": "mcq",
+    "question": "What is a practical listed under \"List of Practical\" for this course?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Developing mobile applications"
+      },
+      {
+        "id": "b",
+        "text": "Understanding and Implementation of Hosted KVM"
+      },
+      {
+        "id": "c",
+        "text": "Building gaming PCs"
+      },
+      {
+        "id": "d",
+        "text": "Setting up email servers"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Understanding and Implementation of Hosted KVM\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0068",
+    "type": "mcq",
+    "question": "What does \"Compliance in Cloud Computing\" primarily deal with?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignoring legal requirements"
+      },
+      {
+        "id": "b",
+        "text": "Adhering to industry standards and government regulations"
+      },
+      {
+        "id": "c",
+        "text": "Developing internal coding standards"
+      },
+      {
+        "id": "d",
+        "text": "Focusing solely on hardware maintenance"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Adhering to industry standards and government regulations\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0069",
+    "type": "mcq",
+    "question": "Which cloud deployment model allows organizations to burst workloads to the public cloud during peak demand?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Community Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Public Cloud"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Hybrid Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0070",
+    "type": "mcq",
+    "question": "What is the primary purpose of \"Cloud Infrastructure management tools\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To manually configure servers"
+      },
+      {
+        "id": "b",
+        "text": "To automate and streamline cloud resource management"
+      },
+      {
+        "id": "c",
+        "text": "To print physical documents"
+      },
+      {
+        "id": "d",
+        "text": "To design graphic interfaces"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To automate and streamline cloud resource management\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0071",
+    "type": "mcq",
+    "question": "Which concept allows for dividing a single physical server into multiple isolated virtual environments?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Containers"
+      },
+      {
+        "id": "b",
+        "text": "Serverless Computing"
+      },
+      {
+        "id": "c",
+        "text": "Virtualization"
+      },
+      {
+        "id": "d",
+        "text": "Microservices"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Virtualization\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0072",
+    "type": "mcq",
+    "question": "What is a key challenge associated with cloud computing mentioned in the course content?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased control"
+      },
+      {
+        "id": "b",
+        "text": "Vendor Lock-in"
+      },
+      {
+        "id": "c",
+        "text": "Enhanced security"
+      },
+      {
+        "id": "d",
+        "text": "Simplified management"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Vendor Lock-in\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0073",
+    "type": "mcq",
+    "question": "Which of the following refers to a characteristic of cloud computing where resources are pooled to serve multiple consumers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Isolated resources"
+      },
+      {
+        "id": "b",
+        "text": "Resource Pooling"
+      },
+      {
+        "id": "c",
+        "text": "Dedicated servers"
+      },
+      {
+        "id": "d",
+        "text": "Manual provisioning"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Resource Pooling\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0074",
+    "type": "mcq",
+    "question": "What is a key consideration for \"Optimizing Cost and Performance in Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Over-provisioning resources"
+      },
+      {
+        "id": "b",
+        "text": "Ignoring usage metrics"
+      },
+      {
+        "id": "c",
+        "text": "Right-sizing resources and utilizing cost models"
+      },
+      {
+        "id": "d",
+        "text": "Maximizing idle capacity"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Right-sizing resources and utilizing cost models\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0075",
+    "type": "mcq",
+    "question": "What does the \"Rationale\" for the course indicate students will learn about?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Basic computer hardware only"
+      },
+      {
+        "id": "b",
+        "text": "Architecture, deployment models, and security considerations of cloud computing"
+      },
+      {
+        "id": "c",
+        "text": "Advanced programming languages"
+      },
+      {
+        "id": "d",
+        "text": "Manual network configuration"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Architecture, deployment models, and security considerations of cloud computing\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0076",
+    "type": "mcq",
+    "question": "What is a common \"Cloud Security Control\" mentioned in the course content?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignoring user authentication"
+      },
+      {
+        "id": "b",
+        "text": "Implementing strong access management"
+      },
+      {
+        "id": "c",
+        "text": "Allowing open network ports"
+      },
+      {
+        "id": "d",
+        "text": "Disabling encryption"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0077",
+    "type": "mcq",
+    "question": "Which characteristic of cloud computing refers to services being measurable and allowing for monitoring, control, and reporting?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rapid elasticity"
+      },
+      {
+        "id": "b",
+        "text": "Broad network access"
+      },
+      {
+        "id": "c",
+        "text": "Measured Service"
+      },
+      {
+        "id": "d",
+        "text": "On-demand self-service"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Measured Service\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0078",
+    "type": "mcq",
+    "question": "What does \"IaaS\" stand for in the context of cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Integrated as a Service"
+      },
+      {
+        "id": "b",
+        "text": "Infrastructure as a Service"
+      },
+      {
+        "id": "c",
+        "text": "Internet as a Service"
+      },
+      {
+        "id": "d",
+        "text": "Information as a Service"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Infrastructure as a Service\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0079",
+    "type": "mcq",
+    "question": "What is the primary purpose of \"Monitoring Cloud Infrastructure\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase resource consumption"
+      },
+      {
+        "id": "b",
+        "text": "To ensure optimal performance and availability"
+      },
+      {
+        "id": "c",
+        "text": "To limit data accessibility"
+      },
+      {
+        "id": "d",
+        "text": "To reduce network bandwidth"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To ensure optimal performance and availability\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0080",
+    "type": "mcq",
+    "question": "Which of the following is a practical implementation related to \"Working with IaaS of Public cloud platforms\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Setting up a local server farm"
+      },
+      {
+        "id": "b",
+        "text": "Configuring virtual machines on AWS or Azure"
+      },
+      {
+        "id": "c",
+        "text": "Developing a mobile game"
+      },
+      {
+        "id": "d",
+        "text": "Installing operating systems on physical hardware"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Configuring virtual machines on AWS or Azure\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0081",
+    "type": "mcq",
+    "question": "What is a key focus of \"Cost and Performance Considerations in Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maximizing idle resources"
+      },
+      {
+        "id": "b",
+        "text": "Optimizing spending and efficiency"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring service level agreements"
+      },
+      {
+        "id": "d",
+        "text": "Over-provisioning infrastructure"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Optimizing spending and efficiency\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0082",
+    "type": "mcq",
+    "question": "Which deployment model is accessible to the general public over the internet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Access control restricts system resources to authorized users only."
+  },
+  {
+    "id": "cis-0083",
+    "type": "mcq",
+    "question": "What does the course \"Rationale\" indicate students will gain hands-on experience in?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Basic programming languages"
+      },
+      {
+        "id": "b",
+        "text": "Setting up and managing cloud infrastructure and services"
+      },
+      {
+        "id": "c",
+        "text": "Traditional data center operations"
+      },
+      {
+        "id": "d",
+        "text": "Hardware assembly and repair"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Setting up and managing cloud infrastructure and services\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0084",
+    "type": "mcq",
+    "question": "What is a critical aspect of \"Cloud Security Best Practices\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Using generic passwords"
+      },
+      {
+        "id": "b",
+        "text": "Regular security audits and vulnerability assessments"
+      },
+      {
+        "id": "c",
+        "text": "Sharing sensitive data with third parties"
+      },
+      {
+        "id": "d",
+        "text": "Disabling firewall protection"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0085",
+    "type": "mcq",
+    "question": "What is the main difference between \"Virtual Machines\" and \"Containers\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "VMs are physical, containers are virtual"
+      },
+      {
+        "id": "b",
+        "text": "VMs include a full OS, containers share the host OS kernel"
+      },
+      {
+        "id": "c",
+        "text": "Containers are heavier than VMs"
+      },
+      {
+        "id": "d",
+        "text": "VMs are deployed faster than containers"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"VMs include a full OS, containers share the host OS kernel\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0086",
+    "type": "mcq",
+    "question": "Which cloud service model delivers applications over the internet as a service?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "SaaS"
+      },
+      {
+        "id": "d",
+        "text": "DaaS"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"SaaS\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0087",
+    "type": "mcq",
+    "question": "What is a practical listed under \"List of Practical\" that involves implementing a private cloud platform?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Working with Public cloud platforms"
+      },
+      {
+        "id": "b",
+        "text": "Implementation of private cloud platform using open stack cloud"
+      },
+      {
+        "id": "c",
+        "text": "Creating and running VM on Oracle Virtual Box"
+      },
+      {
+        "id": "d",
+        "text": "Studying Bare-metal virtualization"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Implementation of private cloud platform using open stack cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0088",
+    "type": "mcq",
+    "question": "What is a key challenge in \"Cloud Computing\" related to data storage and privacy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Unlimited storage capacity"
+      },
+      {
+        "id": "b",
+        "text": "Data residency and sovereignty issues"
+      },
+      {
+        "id": "c",
+        "text": "Simplified data backup"
+      },
+      {
+        "id": "d",
+        "text": "Automatic data encryption"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Data residency and sovereignty issues\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0089",
+    "type": "mcq",
+    "question": "Which \"Cloud Infrastructure Architecture & Services\" component allows for flexible data storage in the cloud?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "b",
+        "text": "Networking"
+      },
+      {
+        "id": "c",
+        "text": "Databases"
+      },
+      {
+        "id": "d",
+        "text": "Storage"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Storage\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0090",
+    "type": "mcq",
+    "question": "What is the primary goal of \"Disaster Recovery in Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To prevent any system downtime"
+      },
+      {
+        "id": "b",
+        "text": "To ensure business continuity and data availability after a disruption"
+      },
+      {
+        "id": "c",
+        "text": "To increase data loss"
+      },
+      {
+        "id": "d",
+        "text": "To eliminate the need for backups"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To ensure business continuity and data availability after a disruption\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0091",
+    "type": "mcq",
+    "question": "What is a key characteristic of cloud computing that allows users to provision computing capabilities as needed without human interaction?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Broad network access"
+      },
+      {
+        "id": "b",
+        "text": "Measured service"
+      },
+      {
+        "id": "c",
+        "text": "On-demand self-service"
+      },
+      {
+        "id": "d",
+        "text": "Resource pooling"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"On-demand self-service\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0092",
+    "type": "mcq",
+    "question": "Which cloud service model provides the highest level of abstraction, where users only interact with the application?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "SaaS"
+      },
+      {
+        "id": "d",
+        "text": "FaaS"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"SaaS\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0093",
+    "type": "mcq",
+    "question": "What does \"Cloud Security Controls\" aim to achieve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increase vulnerabilities"
+      },
+      {
+        "id": "b",
+        "text": "Protect cloud resources from threats and unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "Reduce network speed"
+      },
+      {
+        "id": "d",
+        "text": "Complicate user access"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0094",
+    "type": "mcq",
+    "question": "Which deployment model involves the cloud infrastructure being owned and operated by a third-party cloud provider and made available to the general public?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Public Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0095",
+    "type": "mcq",
+    "question": "What is a common component of \"Cloud Infrastructure Architecture\" that allows for network connectivity within and between cloud resources?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Storage"
+      },
+      {
+        "id": "b",
+        "text": "Databases"
+      },
+      {
+        "id": "c",
+        "text": "Networking"
+      },
+      {
+        "id": "d",
+        "text": "Virtual Machines"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Network security protects communication systems and connected devices from threats."
+  },
+  {
+    "id": "cis-0096",
+    "type": "mcq",
+    "question": "Which course outcome involves evaluating the security and compliance issues in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understand cloud evolution"
+      },
+      {
+        "id": "b",
+        "text": "Design cloud infrastructure"
+      },
+      {
+        "id": "c",
+        "text": "Evaluate security and compliance issues"
+      },
+      {
+        "id": "d",
+        "text": "Analyze cost considerations"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0097",
+    "type": "mcq",
+    "question": "What is a practical listed in the curriculum that involves creating and running VMs on a hosted hypervisor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understanding Hosted KVM"
+      },
+      {
+        "id": "b",
+        "text": "Creating and running VM on Hosted Hypervisor like Oracle virtual box and KVM"
+      },
+      {
+        "id": "c",
+        "text": "Implementation of private cloud"
+      },
+      {
+        "id": "d",
+        "text": "Working with Public cloud IaaS"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Creating and running VM on Hosted Hypervisor like Oracle virtual box and KVM\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0098",
+    "type": "mcq",
+    "question": "What is a key aspect of \"Capacity Planning for Cloud Infrastructure\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Over-provisioning to avoid issues"
+      },
+      {
+        "id": "b",
+        "text": "Estimating future resource needs to optimize allocation"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring historical usage data"
+      },
+      {
+        "id": "d",
+        "text": "Maximizing idle capacity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Estimating future resource needs to optimize allocation\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0099",
+    "type": "mcq",
+    "question": "Which cloud service model offers a platform for developers to build, run, and manage applications without the complexity of building and maintaining the infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "SaaS"
+      },
+      {
+        "id": "d",
+        "text": "DaaS"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"PaaS\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0100",
+    "type": "mcq",
+    "question": "What is a common challenge in cloud computing related to managing diverse resources from different providers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Simplified integration"
+      },
+      {
+        "id": "b",
+        "text": "Interoperability and vendor lock-in"
+      },
+      {
+        "id": "c",
+        "text": "Enhanced data privacy"
+      },
+      {
+        "id": "d",
+        "text": "Reduced management overhead"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Interoperability and vendor lock-in\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0101",
+    "type": "mcq",
+    "question": "What does \"Serverless Computing\" primarily aim to eliminate for developers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Writing application code"
+      },
+      {
+        "id": "b",
+        "text": "Managing the underlying server infrastructure"
+      },
+      {
+        "id": "c",
+        "text": "User interfaces"
+      },
+      {
+        "id": "d",
+        "text": "Database interactions"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Managing the underlying server infrastructure\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0102",
+    "type": "mcq",
+    "question": "Which of the following is a type of \"Cloud Security Threat\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical server security"
+      },
+      {
+        "id": "b",
+        "text": "Malware and phishing attacks"
+      },
+      {
+        "id": "c",
+        "text": "Network cable issues"
+      },
+      {
+        "id": "d",
+        "text": "Software versioning"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0103",
+    "type": "mcq",
+    "question": "What is the primary purpose of \"Cloud Computing Cost Models\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To always select the most expensive option"
+      },
+      {
+        "id": "b",
+        "text": "To understand and optimize cloud spending"
+      },
+      {
+        "id": "c",
+        "text": "To ignore billing details"
+      },
+      {
+        "id": "d",
+        "text": "To increase operational expenses"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To understand and optimize cloud spending\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0104",
+    "type": "mcq",
+    "question": "What does \"Compliance in Cloud Computing\" often involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Disregarding legal frameworks"
+      },
+      {
+        "id": "b",
+        "text": "Adhering to specific industry regulations and data protection laws"
+      },
+      {
+        "id": "c",
+        "text": "Avoiding external audits"
+      },
+      {
+        "id": "d",
+        "text": "Creating unique security standards"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Adhering to specific industry regulations and data protection laws\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0105",
+    "type": "mcq",
+    "question": "Which of the following refers to the ability of cloud resources to be accessed from various client platforms and devices?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Measured service"
+      },
+      {
+        "id": "b",
+        "text": "Resource pooling"
+      },
+      {
+        "id": "c",
+        "text": "Broad network access"
+      },
+      {
+        "id": "d",
+        "text": "Rapid elasticity"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Access control restricts system resources to authorized users only."
+  },
+  {
+    "id": "cis-0106",
+    "type": "mcq",
+    "question": "What is a common \"Cloud Computing Cost Model\" that charges based on actual resource consumption?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fixed pricing"
+      },
+      {
+        "id": "b",
+        "text": "Pay-as-you-go"
+      },
+      {
+        "id": "c",
+        "text": "Subscription model"
+      },
+      {
+        "id": "d",
+        "text": "Upfront payment"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Pay-as-you-go\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0107",
+    "type": "mcq",
+    "question": "Which of the following is a key \"Characteristic of Cloud Computing\" emphasizing resource sharing among multiple users?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Isolated resources"
+      },
+      {
+        "id": "b",
+        "text": "Resource Pooling"
+      },
+      {
+        "id": "c",
+        "text": "Dedicated hardware"
+      },
+      {
+        "id": "d",
+        "text": "On-premise infrastructure"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Resource Pooling\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0108",
+    "type": "mcq",
+    "question": "What is the primary purpose of \"Virtual Machines\" in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To create physical copies of servers"
+      },
+      {
+        "id": "b",
+        "text": "To run multiple operating systems on a single physical machine"
+      },
+      {
+        "id": "c",
+        "text": "To manage network cables"
+      },
+      {
+        "id": "d",
+        "text": "To design web pages"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To run multiple operating systems on a single physical machine\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0109",
+    "type": "mcq",
+    "question": "Which cloud deployment model offers a balance of flexibility and control by leveraging both public and private clouds?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Hybrid Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0110",
+    "type": "mcq",
+    "question": "What does \"Cloud Security Best Practices\" aim to achieve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased vulnerabilities"
+      },
+      {
+        "id": "b",
+        "text": "Robust protection of cloud assets and data"
+      },
+      {
+        "id": "c",
+        "text": "Open access to all users"
+      },
+      {
+        "id": "d",
+        "text": "Reduced security controls"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0111",
+    "type": "mcq",
+    "question": "Which course outcome focuses on understanding the concept and evolution of cloud computing and identifying different service and deployment models?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analyze architectural components"
+      },
+      {
+        "id": "b",
+        "text": "Understand concept and evolution, identify models"
+      },
+      {
+        "id": "c",
+        "text": "Design cloud-based infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Implement best practices for monitoring"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Understand concept and evolution, identify models\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0112",
+    "type": "mcq",
+    "question": "What is a practical listed in the curriculum related to \"Implementation of Storage as a service (StaaS)\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Running virtual machines"
+      },
+      {
+        "id": "b",
+        "text": "Storing and retrieving data over the internet"
+      },
+      {
+        "id": "c",
+        "text": "Developing mobile apps"
+      },
+      {
+        "id": "d",
+        "text": "Managing physical servers"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Storing and retrieving data over the internet\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0113",
+    "type": "mcq",
+    "question": "What is the primary focus of \"Cloud Computing Performance Metrics\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Measuring network cable length"
+      },
+      {
+        "id": "b",
+        "text": "Evaluating efficiency, speed, and responsiveness of cloud services"
+      },
+      {
+        "id": "c",
+        "text": "Increasing data storage"
+      },
+      {
+        "id": "d",
+        "text": "Reducing application functionality"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Evaluating efficiency, speed, and responsiveness of cloud services\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0114",
+    "type": "mcq",
+    "question": "Which \"Cloud Infrastructure Service\" allows for storing and managing structured or unstructured data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "b",
+        "text": "Networking"
+      },
+      {
+        "id": "c",
+        "text": "Databases"
+      },
+      {
+        "id": "d",
+        "text": "Containers"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Databases\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0115",
+    "type": "mcq",
+    "question": "What is a common challenge in \"Cloud Computing\" related to data transfer between cloud providers or on-premises environments?",
+    "options": [
+      {
+        "id": "a",
+        "text": "High speed of data transfer"
+      },
+      {
+        "id": "b",
+        "text": "Data egress costs and network latency"
+      },
+      {
+        "id": "c",
+        "text": "Automatic data compression"
+      },
+      {
+        "id": "d",
+        "text": "Unlimited bandwidth"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Data egress costs and network latency\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0116",
+    "type": "mcq",
+    "question": "Which concept allows for deploying and managing applications without worrying about underlying infrastructure or operating systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtualization"
+      },
+      {
+        "id": "b",
+        "text": "Containers"
+      },
+      {
+        "id": "c",
+        "text": "Microservices"
+      },
+      {
+        "id": "d",
+        "text": "Serverless Computing"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Serverless Computing\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0117",
+    "type": "mcq",
+    "question": "What is a key component of \"Cloud Infrastructure Architecture\" that allows for executing applications in isolated, portable environments?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "b",
+        "text": "Containers"
+      },
+      {
+        "id": "c",
+        "text": "Databases"
+      },
+      {
+        "id": "d",
+        "text": "Networking"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Containers\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0118",
+    "type": "mcq",
+    "question": "What does \"Cloud Security Threats\" primarily include?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical damage to servers"
+      },
+      {
+        "id": "b",
+        "text": "Unauthorized access, data loss, and compliance breaches"
+      },
+      {
+        "id": "c",
+        "text": "Network cable disconnections"
+      },
+      {
+        "id": "d",
+        "text": "Power outages in data centers"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0119",
+    "type": "mcq",
+    "question": "Which course outcome involves implementing best practices for monitoring and managing cloud infrastructure and services?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analyze cost and performance"
+      },
+      {
+        "id": "b",
+        "text": "Design cloud-based infrastructure"
+      },
+      {
+        "id": "c",
+        "text": "Implement best practices for monitoring and managing"
+      },
+      {
+        "id": "d",
+        "text": "Evaluate security issues"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Implement best practices for monitoring and managing\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0120",
+    "type": "mcq",
+    "question": "What does the \"Prerequisite\" for this course state?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Advanced programming knowledge"
+      },
+      {
+        "id": "b",
+        "text": "Basic knowledge of computer systems and network"
+      },
+      {
+        "id": "c",
+        "text": "Database administration expertise"
+      },
+      {
+        "id": "d",
+        "text": "Graphic design skills"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Basic knowledge of computer systems and network\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0121",
+    "type": "mcq",
+    "question": "What is the primary characteristic of \"Cloud Computing Service Models\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are all the same"
+      },
+      {
+        "id": "b",
+        "text": "They define how cloud services are delivered to users"
+      },
+      {
+        "id": "c",
+        "text": "They only apply to private clouds"
+      },
+      {
+        "id": "d",
+        "text": "They exclude software applications"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"They define how cloud services are delivered to users\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0122",
+    "type": "mcq",
+    "question": "Which of the following is a key \"Challenge of Cloud Computing\" mentioned in the course content?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Unlimited control"
+      },
+      {
+        "id": "b",
+        "text": "Vendor lock-in"
+      },
+      {
+        "id": "c",
+        "text": "Enhanced security"
+      },
+      {
+        "id": "d",
+        "text": "Simplified management"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Vendor lock-in\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0123",
+    "type": "mcq",
+    "question": "What does \"Cloud Security Threats\" primarily refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical server damage"
+      },
+      {
+        "id": "b",
+        "text": "Vulnerabilities and malicious activities targeting cloud environments"
+      },
+      {
+        "id": "c",
+        "text": "Network cable issues"
+      },
+      {
+        "id": "d",
+        "text": "Power outages"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0124",
+    "type": "mcq",
+    "question": "Which \"Deployment Model\" of cloud computing is designed for exclusive use by a single organization?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Private Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0125",
+    "type": "mcq",
+    "question": "What is the primary role of \"Networking\" in cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To store data"
+      },
+      {
+        "id": "b",
+        "text": "To provide connectivity between cloud resources and users"
+      },
+      {
+        "id": "c",
+        "text": "To run virtual machines"
+      },
+      {
+        "id": "d",
+        "text": "To manage databases"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Network security protects communication systems and connected devices from threats."
+  },
+  {
+    "id": "cis-0126",
+    "type": "mcq",
+    "question": "Which course outcome involves designing and deploying cloud-based infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understanding cloud evolution"
+      },
+      {
+        "id": "b",
+        "text": "Analyzing architectural components"
+      },
+      {
+        "id": "c",
+        "text": "Design and deploy cloud-based infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Evaluating security issues"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Design and deploy cloud-based infrastructure\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0127",
+    "type": "mcq",
+    "question": "What is a practical listed in the curriculum that focuses on \"Bare-metal virtualization\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understanding Hosted KVM"
+      },
+      {
+        "id": "b",
+        "text": "Creating and running VM on Hosted Hypervisor"
+      },
+      {
+        "id": "c",
+        "text": "To study and implement Bare-metal virtualization using HyperV, Xen or VMware Esxi"
+      },
+      {
+        "id": "d",
+        "text": "Implementation of private cloud using open stack"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To study and implement Bare-metal virtualization using HyperV, Xen or VMware Esxi\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0128",
+    "type": "mcq",
+    "question": "What is the purpose of \"Monitoring Cloud Infrastructure\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase resource consumption"
+      },
+      {
+        "id": "b",
+        "text": "To ensure performance, availability, and resource optimization"
+      },
+      {
+        "id": "c",
+        "text": "To limit data access"
+      },
+      {
+        "id": "d",
+        "text": "To reduce network bandwidth"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To ensure performance, availability, and resource optimization\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0129",
+    "type": "mcq",
+    "question": "Which cloud service model provides a complete software application that is centrally hosted and delivered over the internet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "SaaS"
+      },
+      {
+        "id": "d",
+        "text": "FaaS"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"SaaS\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0130",
+    "type": "mcq",
+    "question": "What is a key consideration for \"Optimizing Cost and Performance in Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignoring usage patterns"
+      },
+      {
+        "id": "b",
+        "text": "Right-sizing resources and utilizing cost models"
+      },
+      {
+        "id": "c",
+        "text": "Maximizing idle resources"
+      },
+      {
+        "id": "d",
+        "text": "Avoiding service level agreements"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Right-sizing resources and utilizing cost models\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0131",
+    "type": "mcq",
+    "question": "What does \"Microservices\" imply in cloud architecture?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A single, large application"
+      },
+      {
+        "id": "b",
+        "text": "Breaking down applications into small, independent services"
+      },
+      {
+        "id": "c",
+        "text": "Reliance on physical servers"
+      },
+      {
+        "id": "d",
+        "text": "Manual deployment"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Breaking down applications into small, independent services\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0132",
+    "type": "mcq",
+    "question": "Which type of \"Cloud Security Control\" focuses on ensuring data privacy and integrity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical server access"
+      },
+      {
+        "id": "b",
+        "text": "Encryption and access management"
+      },
+      {
+        "id": "c",
+        "text": "Network cable management"
+      },
+      {
+        "id": "d",
+        "text": "Printer security"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0133",
+    "type": "mcq",
+    "question": "What is the primary objective of \"Disaster Recovery in Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To prevent any system failure"
+      },
+      {
+        "id": "b",
+        "text": "To ensure business continuity and data availability after disruptions"
+      },
+      {
+        "id": "c",
+        "text": "To increase data loss"
+      },
+      {
+        "id": "d",
+        "text": "To eliminate the need for backups"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To ensure business continuity and data availability after disruptions\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0134",
+    "type": "mcq",
+    "question": "Which of the following is a key \"Benefit of Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased capital expenditure"
+      },
+      {
+        "id": "b",
+        "text": "Enhanced flexibility and agility"
+      },
+      {
+        "id": "c",
+        "text": "Limited global reach"
+      },
+      {
+        "id": "d",
+        "text": "Reduced operational control"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Enhanced flexibility and agility\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0135",
+    "type": "mcq",
+    "question": "What does the course \"Rationale\" highlight as a key learning outcome regarding cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only its history"
+      },
+      {
+        "id": "b",
+        "text": "Its architecture, deployment models, and security considerations"
+      },
+      {
+        "id": "c",
+        "text": "Only programming languages"
+      },
+      {
+        "id": "d",
+        "text": "Basic computer troubleshooting"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Its architecture, deployment models, and security considerations\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0136",
+    "type": "mcq",
+    "question": "What is a \"Cloud Computing Deployment Model\" that refers to services offered over the internet and available to anyone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Public Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0137",
+    "type": "mcq",
+    "question": "Which of the following is a key \"Characteristic of Cloud Computing\" that implies broad accessibility from various client platforms?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Measured Service"
+      },
+      {
+        "id": "b",
+        "text": "Broad Network Access"
+      },
+      {
+        "id": "c",
+        "text": "Rapid Elasticity"
+      },
+      {
+        "id": "d",
+        "text": "Resource Pooling"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Access control restricts system resources to authorized users only."
+  },
+  {
+    "id": "cis-0138",
+    "type": "mcq",
+    "question": "What does \"Cloud Infrastructure Architecture\" involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical cabling setup"
+      },
+      {
+        "id": "b",
+        "text": "The design and organization of cloud resources and services"
+      },
+      {
+        "id": "c",
+        "text": "Human resource management"
+      },
+      {
+        "id": "d",
+        "text": "Marketing strategies"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"The design and organization of cloud resources and services\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0139",
+    "type": "mcq",
+    "question": "Which \"Cloud Infrastructure Service\" is designed for running operating systems and applications as isolated virtual instances?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Storage"
+      },
+      {
+        "id": "b",
+        "text": "Networking"
+      },
+      {
+        "id": "c",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "d",
+        "text": "Databases"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Virtual Machines\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0140",
+    "type": "mcq",
+    "question": "What is a common \"Cloud Security Threat\" related to unauthorized access to sensitive information?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical theft of hardware"
+      },
+      {
+        "id": "b",
+        "text": "Data breaches"
+      },
+      {
+        "id": "c",
+        "text": "Power outages"
+      },
+      {
+        "id": "d",
+        "text": "Network cable disconnection"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0141",
+    "type": "mcq",
+    "question": "Which course outcome involves analyzing the architectural components of cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understand cloud evolution"
+      },
+      {
+        "id": "b",
+        "text": "Analyze the architectural components of cloud infrastructure"
+      },
+      {
+        "id": "c",
+        "text": "Design cloud-based infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Evaluate security issues"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Analyze the architectural components of cloud infrastructure\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0142",
+    "type": "mcq",
+    "question": "What is a practical listed in the curriculum that involves \"Working with IaaS of Public cloud platforms\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Implementing a private cloud with OpenStack"
+      },
+      {
+        "id": "b",
+        "text": "Creating VMs on Oracle VirtualBox"
+      },
+      {
+        "id": "c",
+        "text": "Working with IaaS of Public cloud platforms"
+      },
+      {
+        "id": "d",
+        "text": "Implementing Storage as a Service"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Working with IaaS of Public cloud platforms\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0143",
+    "type": "mcq",
+    "question": "What is the primary focus of \"Capacity Planning for Cloud Infrastructure\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Over-provisioning resources"
+      },
+      {
+        "id": "b",
+        "text": "Optimizing resource allocation based on expected demand"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring future growth"
+      },
+      {
+        "id": "d",
+        "text": "Manual resource management"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Optimizing resource allocation based on expected demand\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0144",
+    "type": "mcq",
+    "question": "Which \"Cloud Computing Service Model\" provides a development and deployment environment for building cloud applications?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "SaaS"
+      },
+      {
+        "id": "d",
+        "text": "FaaS"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"PaaS\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0145",
+    "type": "mcq",
+    "question": "What is a key challenge in \"Cloud Computing\" regarding controlling data and applications once they are moved to a third-party provider?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased control"
+      },
+      {
+        "id": "b",
+        "text": "Vendor lock-in"
+      },
+      {
+        "id": "c",
+        "text": "Enhanced security"
+      },
+      {
+        "id": "d",
+        "text": "Simplified management"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Vendor lock-in\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0146",
+    "type": "mcq",
+    "question": "What does \"Containers\" offer as a benefit in cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased hardware costs"
+      },
+      {
+        "id": "b",
+        "text": "Lightweight, portable, and efficient application packaging"
+      },
+      {
+        "id": "c",
+        "text": "Reduced scalability"
+      },
+      {
+        "id": "d",
+        "text": "Complex deployment"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Lightweight, portable, and efficient application packaging\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0147",
+    "type": "mcq",
+    "question": "Which \"Cloud Security Control\" helps to prevent unauthorized access to cloud resources?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Disabling security updates"
+      },
+      {
+        "id": "b",
+        "text": "Strong authentication and access management"
+      },
+      {
+        "id": "c",
+        "text": "Sharing passwords"
+      },
+      {
+        "id": "d",
+        "text": "Open network ports"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0148",
+    "type": "mcq",
+    "question": "What is the purpose of \"Cloud Infrastructure management tools\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To manually configure cloud resources"
+      },
+      {
+        "id": "b",
+        "text": "To automate and streamline the provisioning and management of cloud resources"
+      },
+      {
+        "id": "c",
+        "text": "To print documents"
+      },
+      {
+        "id": "d",
+        "text": "To design graphic interfaces"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To automate and streamline the provisioning and management of cloud resources\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0149",
+    "type": "mcq",
+    "question": "Which of the following is a \"Cloud Computing Performance Metric\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Number of physical servers"
+      },
+      {
+        "id": "b",
+        "text": "Latency, throughput, and response time"
+      },
+      {
+        "id": "c",
+        "text": "Amount of unused storage"
+      },
+      {
+        "id": "d",
+        "text": "Cost of electricity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Latency, throughput, and response time\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0150",
+    "type": "mcq",
+    "question": "What is the primary objective of \"Optimizing Cost and Performance in Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To maximize idle resources"
+      },
+      {
+        "id": "b",
+        "text": "To balance cost efficiency with desired performance levels"
+      },
+      {
+        "id": "c",
+        "text": "To ignore service level agreements"
+      },
+      {
+        "id": "d",
+        "text": "To increase operational expenses"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To balance cost efficiency with desired performance levels\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0151",
+    "type": "mcq",
+    "question": "What is a \"Cloud Computing Deployment Model\" that involves a mix of on-premises infrastructure and public cloud services?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Hybrid Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0152",
+    "type": "mcq",
+    "question": "Which of the following is a key \"Characteristic of Cloud Computing\" allowing for rapid scaling of resources up or down?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Measured Service"
+      },
+      {
+        "id": "b",
+        "text": "Broad Network Access"
+      },
+      {
+        "id": "c",
+        "text": "Rapid Elasticity"
+      },
+      {
+        "id": "d",
+        "text": "Resource Pooling"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Rapid Elasticity\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0153",
+    "type": "mcq",
+    "question": "What is the primary focus of \"Cloud Infrastructure Architecture & Services\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical data center design"
+      },
+      {
+        "id": "b",
+        "text": "Virtual machines, storage, networking, and databases"
+      },
+      {
+        "id": "c",
+        "text": "Traditional server maintenance"
+      },
+      {
+        "id": "d",
+        "text": "Hardware procurement"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Virtual machines, storage, networking, and databases\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0154",
+    "type": "mcq",
+    "question": "Which \"Cloud Infrastructure Service\" allows for flexible and scalable data storage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "b",
+        "text": "Networking"
+      },
+      {
+        "id": "c",
+        "text": "Storage"
+      },
+      {
+        "id": "d",
+        "text": "Databases"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Storage\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0155",
+    "type": "mcq",
+    "question": "What is a common \"Cloud Security Threat\" related to the abuse of cloud services for malicious purposes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical server damage"
+      },
+      {
+        "id": "b",
+        "text": "Malicious use of cloud resources"
+      },
+      {
+        "id": "c",
+        "text": "Network cable issues"
+      },
+      {
+        "id": "d",
+        "text": "Power outages"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0156",
+    "type": "mcq",
+    "question": "Which course outcome emphasizes evaluating the security and compliance issues in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understand cloud evolution"
+      },
+      {
+        "id": "b",
+        "text": "Design cloud infrastructure"
+      },
+      {
+        "id": "c",
+        "text": "Evaluate the security and compliance issues in cloud computing"
+      },
+      {
+        "id": "d",
+        "text": "Analyze cost considerations"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0157",
+    "type": "mcq",
+    "question": "What is a practical listed in the curriculum that involves the \"Implementation of private cloud platform using open stack cloud\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Working with Public cloud IaaS"
+      },
+      {
+        "id": "b",
+        "text": "Creating VMs on Oracle VirtualBox"
+      },
+      {
+        "id": "c",
+        "text": "Implementation of private cloud platform using open stack cloud"
+      },
+      {
+        "id": "d",
+        "text": "Implementing Storage as a Service"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Implementation of private cloud platform using open stack cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0158",
+    "type": "mcq",
+    "question": "What does \"Cloud Computing Performance Metrics\" primarily measure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical server temperature"
+      },
+      {
+        "id": "b",
+        "text": "Latency, throughput, and scalability of cloud services"
+      },
+      {
+        "id": "c",
+        "text": "Amount of unused storage"
+      },
+      {
+        "id": "d",
+        "text": "Cost of electricity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Latency, throughput, and scalability of cloud services\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0159",
+    "type": "mcq",
+    "question": "Which \"Cloud Computing Service Model\" provides users with access to an operating system and development tools, but not the underlying hardware?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "SaaS"
+      },
+      {
+        "id": "d",
+        "text": "DaaS"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Access control restricts system resources to authorized users only."
+  },
+  {
+    "id": "cis-0160",
+    "type": "mcq",
+    "question": "What is a common challenge in \"Cloud Computing\" related to differing regulations across regions for data storage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Simplified data migration"
+      },
+      {
+        "id": "b",
+        "text": "Data sovereignty and residency"
+      },
+      {
+        "id": "c",
+        "text": "Enhanced data privacy"
+      },
+      {
+        "id": "d",
+        "text": "Reduced management overhead"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Data sovereignty and residency\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0161",
+    "type": "mcq",
+    "question": "What does \"Serverless Computing\" primarily allow developers to do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manage physical servers"
+      },
+      {
+        "id": "b",
+        "text": "Focus on writing code without managing servers"
+      },
+      {
+        "id": "c",
+        "text": "Configure network infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Design user interfaces"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Focus on writing code without managing servers\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0162",
+    "type": "mcq",
+    "question": "Which \"Cloud Security Control\" aims to limit who can access specific cloud resources?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Disabling security updates"
+      },
+      {
+        "id": "b",
+        "text": "Access management and identity controls"
+      },
+      {
+        "id": "c",
+        "text": "Sharing passwords"
+      },
+      {
+        "id": "d",
+        "text": "Open network ports"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0163",
+    "type": "mcq",
+    "question": "What is the primary purpose of \"Cloud Infrastructure management tools\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To manually configure cloud resources"
+      },
+      {
+        "id": "b",
+        "text": "To automate the deployment, configuration, and monitoring of cloud infrastructure"
+      },
+      {
+        "id": "c",
+        "text": "To print documents"
+      },
+      {
+        "id": "d",
+        "text": "To design graphic interfaces"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To automate the deployment, configuration, and monitoring of cloud infrastructure\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0164",
+    "type": "mcq",
+    "question": "What is a key concept covered under \"Cloud Infrastructure Architecture & Services\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bare-metal servers"
+      },
+      {
+        "id": "b",
+        "text": "Virtualization"
+      },
+      {
+        "id": "c",
+        "text": "On-premise data centers"
+      },
+      {
+        "id": "d",
+        "text": "Physical network cables"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Virtualization\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0165",
+    "type": "mcq",
+    "question": "What does \"PAAS\" stand for in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Performance as a Service"
+      },
+      {
+        "id": "b",
+        "text": "Platform as a Service"
+      },
+      {
+        "id": "c",
+        "text": "Program as a Service"
+      },
+      {
+        "id": "d",
+        "text": "Project as a Service"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Platform as a Service\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0166",
+    "type": "mcq",
+    "question": "Which of the following is a common \"Cloud Security Threat\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical server maintenance"
+      },
+      {
+        "id": "b",
+        "text": "Unauthorized access"
+      },
+      {
+        "id": "c",
+        "text": "Network cable labeling"
+      },
+      {
+        "id": "d",
+        "text": "Software installation on local machines"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0167",
+    "type": "mcq",
+    "question": "What does \"Monitoring Cloud Infrastructure\" primarily involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignoring system alerts"
+      },
+      {
+        "id": "b",
+        "text": "Tracking resource usage and performance metrics"
+      },
+      {
+        "id": "c",
+        "text": "Manually installing software updates"
+      },
+      {
+        "id": "d",
+        "text": "Disabling network connectivity"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Tracking resource usage and performance metrics\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0168",
+    "type": "mcq",
+    "question": "What is a key \"Benefit of Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased capital expenditure"
+      },
+      {
+        "id": "b",
+        "text": "On-demand self-service"
+      },
+      {
+        "id": "c",
+        "text": "Limited scalability"
+      },
+      {
+        "id": "d",
+        "text": "Reduced flexibility"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"On-demand self-service\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0169",
+    "type": "mcq",
+    "question": "Which \"Cloud Computing Deployment Model\" is a dedicated environment for a single organization?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Private Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0170",
+    "type": "mcq",
+    "question": "What is a core component of \"Cloud Infrastructure Architecture & Services\" that allows for running applications without managing servers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "b",
+        "text": "Containers"
+      },
+      {
+        "id": "c",
+        "text": "Microservices"
+      },
+      {
+        "id": "d",
+        "text": "Serverless Computing"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Serverless Computing\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0171",
+    "type": "mcq",
+    "question": "What does \"Optimizing Cost and Performance in Cloud Computing\" focus on?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maximizing unused resources"
+      },
+      {
+        "id": "b",
+        "text": "Balancing expenses with desired service levels"
+      },
+      {
+        "id": "c",
+        "text": "Avoiding monitoring tools"
+      },
+      {
+        "id": "d",
+        "text": "Increasing operational overhead"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Balancing expenses with desired service levels\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0172",
+    "type": "mcq",
+    "question": "Which course outcome involves analyzing the cost and performance considerations in cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Evaluate security issues"
+      },
+      {
+        "id": "b",
+        "text": "Implement best practices"
+      },
+      {
+        "id": "c",
+        "text": "Analyze the cost and performance considerations in cloud computing"
+      },
+      {
+        "id": "d",
+        "text": "Design cloud infrastructure"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Analyze the cost and performance considerations in cloud computing\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0173",
+    "type": "mcq",
+    "question": "What is a practical listed in the curriculum that involves \"Creating and running VM on Hosted Hypervisor like Oracle virtual box and KVM\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Implementing a private cloud"
+      },
+      {
+        "id": "b",
+        "text": "Working with Public cloud IaaS"
+      },
+      {
+        "id": "c",
+        "text": "Creating and running VM on Hosted Hypervisor like Oracle virtual box and KVM"
+      },
+      {
+        "id": "d",
+        "text": "Implementing Storage as a Service"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Creating and running VM on Hosted Hypervisor like Oracle virtual box and KVM\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0174",
+    "type": "mcq",
+    "question": "What is a key aspect of \"Disaster Recovery in Cloud Computing\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preventing all outages"
+      },
+      {
+        "id": "b",
+        "text": "Restoring operations after a disruption"
+      },
+      {
+        "id": "c",
+        "text": "Increasing data loss"
+      },
+      {
+        "id": "d",
+        "text": "Ignoring backup procedures"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Restoring operations after a disruption\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0175",
+    "type": "mcq",
+    "question": "Which \"Cloud Infrastructure Service\" is used for running operating systems and applications as isolated virtual environments?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Storage"
+      },
+      {
+        "id": "b",
+        "text": "Networking"
+      },
+      {
+        "id": "c",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "d",
+        "text": "Databases"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Virtual Machines\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0176",
+    "type": "mcq",
+    "question": "What does \"Compliance in Cloud Computing\" entail?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignoring regulatory requirements"
+      },
+      {
+        "id": "b",
+        "text": "Adhering to industry standards and legal mandates"
+      },
+      {
+        "id": "c",
+        "text": "Developing proprietary security protocols"
+      },
+      {
+        "id": "d",
+        "text": "Using only private clouds"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Adhering to industry standards and legal mandates\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0177",
+    "type": "mcq",
+    "question": "What is the primary purpose of \"Cloud Computing Performance Metrics\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Measuring physical server temperature"
+      },
+      {
+        "id": "b",
+        "text": "Evaluating efficiency and responsiveness of cloud services"
+      },
+      {
+        "id": "c",
+        "text": "Increasing data storage"
+      },
+      {
+        "id": "d",
+        "text": "Reducing application functionality"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Evaluating efficiency and responsiveness of cloud services\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0178",
+    "type": "mcq",
+    "question": "Which of the following is a \"Cloud Security Control\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Disabling firewalls"
+      },
+      {
+        "id": "b",
+        "text": "Strong authentication and access control"
+      },
+      {
+        "id": "c",
+        "text": "Sharing sensitive data"
+      },
+      {
+        "id": "d",
+        "text": "Avoiding security updates"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0179",
+    "type": "mcq",
+    "question": "What is the \"Prerequisite\" for the Masters of Computer Application Online program?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Advanced programming knowledge"
+      },
+      {
+        "id": "b",
+        "text": "Basic knowledge of computer systems and network"
+      },
+      {
+        "id": "c",
+        "text": "Database administration expertise"
+      },
+      {
+        "id": "d",
+        "text": "Graphic design skills"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Basic knowledge of computer systems and network\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0180",
+    "type": "mcq",
+    "question": "What is the main goal of \"Cloud Infrastructure Management Tools\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase manual configuration effort"
+      },
+      {
+        "id": "b",
+        "text": "To automate and streamline the management of cloud resources"
+      },
+      {
+        "id": "c",
+        "text": "To reduce network bandwidth"
+      },
+      {
+        "id": "d",
+        "text": "To prevent software updates"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To automate and streamline the management of cloud resources\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0181",
+    "type": "mcq",
+    "question": "Which \"Cloud Computing Service Model\" gives users the most control over the operating system, applications, and data, but not the underlying hardware?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "SaaS"
+      },
+      {
+        "id": "d",
+        "text": "DaaS"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"IaaS\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0182",
+    "type": "mcq",
+    "question": "What is a key \"Challenge of Cloud Computing\" related to data governance and control?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Simplified data management"
+      },
+      {
+        "id": "b",
+        "text": "Loss of control over data"
+      },
+      {
+        "id": "c",
+        "text": "Enhanced data privacy"
+      },
+      {
+        "id": "d",
+        "text": "Automated data backups"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Loss of control over data\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0183",
+    "type": "mcq",
+    "question": "Which of the following is a \"Cloud Security Threat\" related to the loss or theft of sensitive data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical server damage"
+      },
+      {
+        "id": "b",
+        "text": "Data breaches"
+      },
+      {
+        "id": "c",
+        "text": "Network cable issues"
+      },
+      {
+        "id": "d",
+        "text": "Power outages"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0184",
+    "type": "mcq",
+    "question": "What does \"Compliance in Cloud Computing\" specifically refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignoring all regulations"
+      },
+      {
+        "id": "b",
+        "text": "Adhering to specific regulatory and legal requirements"
+      },
+      {
+        "id": "c",
+        "text": "Developing personal security standards"
+      },
+      {
+        "id": "d",
+        "text": "Using only public clouds"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Adhering to specific regulatory and legal requirements\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0185",
+    "type": "mcq",
+    "question": "Which course outcome focuses on understanding the concept and evolution of cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analyze architectural components"
+      },
+      {
+        "id": "b",
+        "text": "Understand concept and evolution of cloud computing"
+      },
+      {
+        "id": "c",
+        "text": "Design cloud infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Evaluate security issues"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Understand concept and evolution of cloud computing\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0186",
+    "type": "mcq",
+    "question": "What is a practical listed in the curriculum that involves \"Implementation of Storage as a service (StaaS)\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Running virtual machines"
+      },
+      {
+        "id": "b",
+        "text": "Storing and retrieving data over the internet"
+      },
+      {
+        "id": "c",
+        "text": "Developing mobile applications"
+      },
+      {
+        "id": "d",
+        "text": "Managing physical servers"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Storing and retrieving data over the internet\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0187",
+    "type": "mcq",
+    "question": "What is the primary purpose of \"Cloud Computing Performance Metrics\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To increase resource consumption"
+      },
+      {
+        "id": "b",
+        "text": "To measure and optimize the efficiency and responsiveness of cloud services"
+      },
+      {
+        "id": "c",
+        "text": "To limit data accessibility"
+      },
+      {
+        "id": "d",
+        "text": "To reduce network bandwidth"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To measure and optimize the efficiency and responsiveness of cloud services\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0188",
+    "type": "mcq",
+    "question": "Which \"Cloud Infrastructure Service\" allows for scalable and flexible storage of files and objects?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "b",
+        "text": "Networking"
+      },
+      {
+        "id": "c",
+        "text": "Storage"
+      },
+      {
+        "id": "d",
+        "text": "Databases"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Storage\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0189",
+    "type": "mcq",
+    "question": "What is a key characteristic of \"Cloud Computing\" that allows for rapid provisioning and de- provisioning of resources?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Limited resource pooling"
+      },
+      {
+        "id": "b",
+        "text": "On-demand self-service"
+      },
+      {
+        "id": "c",
+        "text": "Fixed infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Manual scaling"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"On-demand self-service\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0190",
+    "type": "mcq",
+    "question": "What is the primary benefit of using \"Containers\" in cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased hardware costs"
+      },
+      {
+        "id": "b",
+        "text": "Portability, efficiency, and consistent environments for applications"
+      },
+      {
+        "id": "c",
+        "text": "Reduced scalability"
+      },
+      {
+        "id": "d",
+        "text": "Complex deployment"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Portability, efficiency, and consistent environments for applications\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0191",
+    "type": "mcq",
+    "question": "Which \"Cloud Security Control\" is crucial for protecting sensitive data at rest and in transit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Disabling security updates"
+      },
+      {
+        "id": "b",
+        "text": "Data encryption"
+      },
+      {
+        "id": "c",
+        "text": "Sharing passwords"
+      },
+      {
+        "id": "d",
+        "text": "Open network ports"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0192",
+    "type": "mcq",
+    "question": "What does \"Disaster Recovery in Cloud Computing\" aim to achieve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Preventing all system failures"
+      },
+      {
+        "id": "b",
+        "text": "Restoring operations and data after a significant disruption"
+      },
+      {
+        "id": "c",
+        "text": "Increasing data loss"
+      },
+      {
+        "id": "d",
+        "text": "Ignoring backup procedures"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Restoring operations and data after a significant disruption\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0193",
+    "type": "mcq",
+    "question": "What is a key aspect of \"Cloud Infrastructure Architecture\" as covered in the course content?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical server maintenance"
+      },
+      {
+        "id": "b",
+        "text": "Virtualization and resource pooling"
+      },
+      {
+        "id": "c",
+        "text": "Manual network configuration"
+      },
+      {
+        "id": "d",
+        "text": "Traditional data center design"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Virtualization and resource pooling\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0194",
+    "type": "mcq",
+    "question": "What does \"Cloud Computing Cost Models\" help organizations to do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Always choose the most expensive option"
+      },
+      {
+        "id": "b",
+        "text": "Understand and control their spending on cloud resources"
+      },
+      {
+        "id": "c",
+        "text": "Ignore billing details"
+      },
+      {
+        "id": "d",
+        "text": "Increase operational expenses"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Understand and control their spending on cloud resources\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0195",
+    "type": "mcq",
+    "question": "What does \"Elasticity\" in cloud computing refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fixed resource allocation"
+      },
+      {
+        "id": "b",
+        "text": "The ability to rapidly scale resources up or down"
+      },
+      {
+        "id": "c",
+        "text": "Manual provisioning of resources"
+      },
+      {
+        "id": "d",
+        "text": "Limited network access"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"The ability to rapidly scale resources up or down\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0196",
+    "type": "mcq",
+    "question": "Which \"Cloud Service Model\" provides users with access to an application, but they do not manage the underlying infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IaaS"
+      },
+      {
+        "id": "b",
+        "text": "PaaS"
+      },
+      {
+        "id": "c",
+        "text": "SaaS"
+      },
+      {
+        "id": "d",
+        "text": "FaaS"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Access control restricts system resources to authorized users only."
+  },
+  {
+    "id": "cis-0197",
+    "type": "mcq",
+    "question": "What is a common \"Cloud Security Threat\" related to compromised credentials?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Physical server damage"
+      },
+      {
+        "id": "b",
+        "text": "Account hijacking"
+      },
+      {
+        "id": "c",
+        "text": "Network cable issues"
+      },
+      {
+        "id": "d",
+        "text": "Power outages"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  },
+  {
+    "id": "cis-0198",
+    "type": "mcq",
+    "question": "Which \"Deployment Model\" of cloud computing is provisioned for exclusive use by a single organization?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Public Cloud"
+      },
+      {
+        "id": "b",
+        "text": "Private Cloud"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid Cloud"
+      },
+      {
+        "id": "d",
+        "text": "Community Cloud"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Private Cloud\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0199",
+    "type": "mcq",
+    "question": "What is a core component of \"Cloud Infrastructure Architecture\" that allows for data storage and retrieval?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "b",
+        "text": "Networking"
+      },
+      {
+        "id": "c",
+        "text": "Storage"
+      },
+      {
+        "id": "d",
+        "text": "Databases"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Storage\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0200",
+    "type": "mcq",
+    "question": "Which course outcome focuses on analyzing the architectural components of cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understand cloud evolution"
+      },
+      {
+        "id": "b",
+        "text": "Analyze the architectural components of cloud infrastructure"
+      },
+      {
+        "id": "c",
+        "text": "Design cloud infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Evaluate security issues"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Analyze the architectural components of cloud infrastructure\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0201",
+    "type": "mcq",
+    "question": "What is a practical listed in the curriculum that involves \"Working with IaaS of Public cloud platforms\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Implementing a private cloud with OpenStack"
+      },
+      {
+        "id": "b",
+        "text": "Creating VMs on Oracle VirtualBox"
+      },
+      {
+        "id": "c",
+        "text": "Working with IaaS of Public cloud platforms"
+      },
+      {
+        "id": "d",
+        "text": "Implementing Storage as a Service"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Working with IaaS of Public cloud platforms\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0202",
+    "type": "mcq",
+    "question": "What is the primary purpose of \"Cloud Computing Cost Models\"?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To always select the most expensive option"
+      },
+      {
+        "id": "b",
+        "text": "To provide transparency and control over cloud spending"
+      },
+      {
+        "id": "c",
+        "text": "To ignore billing details"
+      },
+      {
+        "id": "d",
+        "text": "To increase operational expenses"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"To provide transparency and control over cloud spending\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0203",
+    "type": "mcq",
+    "question": "Which \"Cloud Infrastructure Service\" allows for running applications without managing the underlying servers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virtual Machines"
+      },
+      {
+        "id": "b",
+        "text": "Containers"
+      },
+      {
+        "id": "c",
+        "text": "Microservices"
+      },
+      {
+        "id": "d",
+        "text": "Serverless Computing"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "The correct answer is \"Serverless Computing\" because it best matches the cybersecurity concept asked in the question."
+  },
+  {
+    "id": "cis-0204",
+    "type": "mcq",
+    "question": "What does \"Cloud Security Controls\" aim to prevent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased network speed"
+      },
+      {
+        "id": "b",
+        "text": "Unauthorized access and data breaches"
+      },
+      {
+        "id": "c",
+        "text": "Simplified user management"
+      },
+      {
+        "id": "d",
+        "text": "Automated updates"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "cis"
+    ],
+    "explanation": "Cybersecurity focuses on protecting systems, networks, and data from unauthorized access and attacks."
+  }
+]

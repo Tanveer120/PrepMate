@@ -1,0 +1,6233 @@
+[
+  {
+    "id": "ajp-0001",
+    "type": "mcq",
+    "question": "Who is considered the pioneer of cloud computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "java.io.date"
+      },
+      {
+        "id": "b",
+        "text": "java.sql.date"
+      },
+      {
+        "id": "c",
+        "text": "java.util.date"
+      },
+      {
+        "id": "d",
+        "text": "java.util.dateTime"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"java.util.date\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0002",
+    "type": "mcq",
+    "question": "Which of the following is advantage of using JDBC connection pool?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Slow performance"
+      },
+      {
+        "id": "b",
+        "text": "Using more memory"
+      },
+      {
+        "id": "c",
+        "text": "Using less memory"
+      },
+      {
+        "id": "d",
+        "text": "Better performance"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Better performance\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0003",
+    "type": "mcq",
+    "question": "Which of the following is advantage of using PreparedStatement in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Slow performance"
+      },
+      {
+        "id": "b",
+        "text": "Encourages SQL injection"
+      },
+      {
+        "id": "c",
+        "text": "Prevents SQL injection"
+      },
+      {
+        "id": "d",
+        "text": "More memory usage"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0004",
+    "type": "mcq",
+    "question": "Which one of the following contains date information?",
+    "options": [
+      {
+        "id": "a",
+        "text": "java.sql.TimeStamp"
+      },
+      {
+        "id": "b",
+        "text": "java.sql.Time"
+      },
+      {
+        "id": "c",
+        "text": "java.io.Time"
+      },
+      {
+        "id": "d",
+        "text": "java.io.TimeStamp"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"java.sql.TimeStamp\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0005",
+    "type": "mcq",
+    "question": "What does setAutoCommit(false) do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "commits transaction after each query"
+      },
+      {
+        "id": "b",
+        "text": "explicitly commits transaction"
+      },
+      {
+        "id": "c",
+        "text": "does not commit transaction automatically after each query"
+      },
+      {
+        "id": "d",
+        "text": "never commits transaction"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"does not commit transaction automatically after each query\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0006",
+    "type": "mcq",
+    "question": "Which of the following is used to call stored procedure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Statement"
+      },
+      {
+        "id": "b",
+        "text": "PreparedStatement"
+      },
+      {
+        "id": "c",
+        "text": "CallableStatment"
+      },
+      {
+        "id": "d",
+        "text": "CalledStatement"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"CallableStatment\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0007",
+    "type": "mcq",
+    "question": "Which of the following is used to limit the number of rows returned?",
+    "options": [
+      {
+        "id": "a",
+        "text": "setMaxRows(int i)"
+      },
+      {
+        "id": "b",
+        "text": "setMinRows(int i)"
+      },
+      {
+        "id": "c",
+        "text": "getMaxrows(int i)"
+      },
+      {
+        "id": "d",
+        "text": "getMinRows(int i)"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"setMaxRows(int i)\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0008",
+    "type": "mcq",
+    "question": "Which component is used to compile, debug and execute the java programs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "JRE"
+      },
+      {
+        "id": "b",
+        "text": "JIT"
+      },
+      {
+        "id": "c",
+        "text": "JDK"
+      },
+      {
+        "id": "d",
+        "text": "JVM"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0009",
+    "type": "mcq",
+    "question": "Which one of the following is not a Java feature?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Object-oriented"
+      },
+      {
+        "id": "b",
+        "text": "Use of pointers"
+      },
+      {
+        "id": "c",
+        "text": "Portable"
+      },
+      {
+        "id": "d",
+        "text": "Dynamic and Extensible"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0010",
+    "type": "mcq",
+    "question": "Which of these cannot be used for a variable name in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "identifier & keyword"
+      },
+      {
+        "id": "b",
+        "text": "identifier"
+      },
+      {
+        "id": "c",
+        "text": "keyword"
+      },
+      {
+        "id": "d",
+        "text": "none of the mentioned"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0011",
+    "type": "mcq",
+    "question": "What is the extension of java code files?",
+    "options": [
+      {
+        "id": "a",
+        "text": ".js"
+      },
+      {
+        "id": "b",
+        "text": ".txt"
+      },
+      {
+        "id": "c",
+        "text": ".class"
+      },
+      {
+        "id": "d",
+        "text": ".java"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0012",
+    "type": "mcq",
+    "question": "What will be the output of the following Java code? class increment { public static void main(String args[])\n{\nint g = 3; System.out.print(++g * 8);\n}\n}",
+    "options": [
+      {
+        "id": "a",
+        "text": "32"
+      },
+      {
+        "id": "b",
+        "text": "33"
+      },
+      {
+        "id": "c",
+        "text": "24"
+      },
+      {
+        "id": "d",
+        "text": "25"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0013",
+    "type": "mcq",
+    "question": "Which environment variable is used to set the java path?",
+    "options": [
+      {
+        "id": "a",
+        "text": "MAVEN_Path"
+      },
+      {
+        "id": "b",
+        "text": "JavaPATH"
+      },
+      {
+        "id": "c",
+        "text": "JAVA"
+      },
+      {
+        "id": "d",
+        "text": "JAVA_HOME"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0014",
+    "type": "mcq",
+    "question": "What will be the output of the following Java program? class output { public static void main(String args[])\n{\ndouble a, b,c;\na = 3.0/0;\nb = 0/4.0; c=0/0.0;\nSystem.out.println(a); System.out.println(b); System.out.println(c); }\n}",
+    "options": [
+      {
+        "id": "a",
+        "text": "nan"
+      },
+      {
+        "id": "b",
+        "text": "Infinity"
+      },
+      {
+        "id": "c",
+        "text": "0"
+      },
+      {
+        "id": "d",
+        "text": "all of the mentioned"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0015",
+    "type": "mcq",
+    "question": "Which of the following is not an OOPS concept in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Polymorphism"
+      },
+      {
+        "id": "b",
+        "text": "Inheritance"
+      },
+      {
+        "id": "c",
+        "text": "Compilation"
+      },
+      {
+        "id": "d",
+        "text": "Encapsulation"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0016",
+    "type": "mcq",
+    "question": "What is not the use of “this” keyword in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Referring to the instance variable when a local\nvariable has the same name"
+      },
+      {
+        "id": "b",
+        "text": "Passing itself to the method of the same class"
+      },
+      {
+        "id": "c",
+        "text": "Passing itself to another method"
+      },
+      {
+        "id": "d",
+        "text": "Calling another constructor in constructor chaining"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0017",
+    "type": "mcq",
+    "question": "What will be the output of the following Java program? class variable_scope\n{ public static void main(String args[])\n{ int x; x = 5;\n{ int y = 6; System.out.print(x + \" \" + y);\n}\nSystem.out.println(x + \" \" + y); } }",
+    "options": [
+      {
+        "id": "a",
+        "text": "Compilation error"
+      },
+      {
+        "id": "b",
+        "text": "Runtime error"
+      },
+      {
+        "id": "c",
+        "text": "5 6 5 6"
+      },
+      {
+        "id": "d",
+        "text": "2005-05-06 00:00:00"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0018",
+    "type": "mcq",
+    "question": "What will be the error in the following Java code? byte b = 50; b = b * 50;",
+    "options": [
+      {
+        "id": "a",
+        "text": "b cannot contain value 50"
+      },
+      {
+        "id": "b",
+        "text": "b cannot contain value 100, limited by its range"
+      },
+      {
+        "id": "c",
+        "text": "No error in this code"
+      },
+      {
+        "id": "d",
+        "text": "* operator has converted b * 50 into int, which can not be converted to byte without casting"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0019",
+    "type": "mcq",
+    "question": "Which of the following is a type of polymorphism in Java Programming?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Multiple polymorphism"
+      },
+      {
+        "id": "b",
+        "text": "Compile time polymorphism"
+      },
+      {
+        "id": "c",
+        "text": "Multilevel polymorphism"
+      },
+      {
+        "id": "d",
+        "text": "Execution time polymorphism"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0020",
+    "type": "mcq",
+    "question": "Servlet are used to program which component in a web application?",
+    "options": [
+      {
+        "id": "a",
+        "text": "client"
+      },
+      {
+        "id": "b",
+        "text": "server"
+      },
+      {
+        "id": "c",
+        "text": "tomcat"
+      },
+      {
+        "id": "d",
+        "text": "applet"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"server\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0021",
+    "type": "mcq",
+    "question": "What does MIME stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Multipurpose Internet Messaging Extension"
+      },
+      {
+        "id": "b",
+        "text": "Multipurpose Internet Mail Extension"
+      },
+      {
+        "id": "c",
+        "text": "Multipurpose Internet Media Extension"
+      },
+      {
+        "id": "d",
+        "text": "Multipurpose Internet Mass Extension"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Multipurpose Internet Mail Extension\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0022",
+    "type": "mcq",
+    "question": "What type of protocol is HTTP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "stateless"
+      },
+      {
+        "id": "b",
+        "text": "stateful"
+      },
+      {
+        "id": "c",
+        "text": "transfer protocol"
+      },
+      {
+        "id": "d",
+        "text": "information protocol"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"stateless\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0023",
+    "type": "mcq",
+    "question": "How can we connect to database in a web application?",
+    "options": [
+      {
+        "id": "a",
+        "text": "oracle sql developer"
+      },
+      {
+        "id": "b",
+        "text": "toad"
+      },
+      {
+        "id": "c",
+        "text": "JDBC template"
+      },
+      {
+        "id": "d",
+        "text": "mysql"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"JDBC template\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0024",
+    "type": "mcq",
+    "question": "Which component can be used for sending messages from one application to another?",
+    "options": [
+      {
+        "id": "a",
+        "text": "server"
+      },
+      {
+        "id": "b",
+        "text": "client"
+      },
+      {
+        "id": "c",
+        "text": "mq"
+      },
+      {
+        "id": "d",
+        "text": "webapp"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"mq\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0025",
+    "type": "mcq",
+    "question": "Application is instance of which class?",
+    "options": [
+      {
+        "id": "a",
+        "text": "javax.servlet.Application"
+      },
+      {
+        "id": "b",
+        "text": "javax.servlet.HttpContext"
+      },
+      {
+        "id": "c",
+        "text": "javax.servlet.Context"
+      },
+      {
+        "id": "d",
+        "text": "javax.servlet.ServletContext"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0026",
+    "type": "mcq",
+    "question": "Which option is true about session scope?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Objects are accessible only from the page in which they are created"
+      },
+      {
+        "id": "b",
+        "text": "Objects are accessible only from the pages which are in same session"
+      },
+      {
+        "id": "c",
+        "text": "Objects are accessible only from the pages which are processing the same request"
+      },
+      {
+        "id": "d",
+        "text": "Objects are accessible only from the pages which reside in same application"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Objects are accessible only from the pages which are in same session\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0027",
+    "type": "mcq",
+    "question": "“request” is instance of which one of the following classes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Request"
+      },
+      {
+        "id": "b",
+        "text": "HttpRequest"
+      },
+      {
+        "id": "c",
+        "text": "HttpServletRequest"
+      },
+      {
+        "id": "d",
+        "text": "ServletRequest"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0028",
+    "type": "mcq",
+    "question": "Which class provides system independent server side implementation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Socket"
+      },
+      {
+        "id": "b",
+        "text": "ServerSocket"
+      },
+      {
+        "id": "c",
+        "text": "Server"
+      },
+      {
+        "id": "d",
+        "text": "ServerReader"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0029",
+    "type": "mcq",
+    "question": "Which object stores references to the request and response objects?",
+    "options": [
+      {
+        "id": "a",
+        "text": "sessionContext"
+      },
+      {
+        "id": "b",
+        "text": "pageContext"
+      },
+      {
+        "id": "c",
+        "text": "HttpSession"
+      },
+      {
+        "id": "d",
+        "text": "sessionAttribute"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0030",
+    "type": "mcq",
+    "question": "Which of the following is used to create a new thread in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Runnable interface"
+      },
+      {
+        "id": "b",
+        "text": "Callable interface"
+      },
+      {
+        "id": "c",
+        "text": "Thread class"
+      },
+      {
+        "id": "d",
+        "text": "Both A and C"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0031",
+    "type": "mcq",
+    "question": "What does the 'synchronized' keyword in Java mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It restricts access to a block of code to a single thread at a time"
+      },
+      {
+        "id": "b",
+        "text": "It allows multiple threads to access the block of code simultaneously"
+      },
+      {
+        "id": "c",
+        "text": "It creates multiple threads automatically"
+      },
+      {
+        "id": "d",
+        "text": "It is used to stop a thread"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0032",
+    "type": "mcq",
+    "question": "Which of the following is true about a Java object?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Objects are instances of classes"
+      },
+      {
+        "id": "b",
+        "text": "Objects can hold only primitive data types"
+      },
+      {
+        "id": "c",
+        "text": "Objects are the blueprint for classes"
+      },
+      {
+        "id": "d",
+        "text": "Objects can hold only reference data types"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0033",
+    "type": "mcq",
+    "question": "What is the correct way to handle exceptions in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "try-catch block"
+      },
+      {
+        "id": "b",
+        "text": "finalize method"
+      },
+      {
+        "id": "c",
+        "text": "throw method"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0034",
+    "type": "mcq",
+    "question": "Which package contains the Random class in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "java.util"
+      },
+      {
+        "id": "b",
+        "text": "java.lang"
+      },
+      {
+        "id": "c",
+        "text": "java.net"
+      },
+      {
+        "id": "d",
+        "text": "java.io"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0035",
+    "type": "mcq",
+    "question": "What is the default value of a local variable in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "0"
+      },
+      {
+        "id": "b",
+        "text": "nan"
+      },
+      {
+        "id": "c",
+        "text": "Compiler error"
+      },
+      {
+        "id": "d",
+        "text": "No default value"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0036",
+    "type": "mcq",
+    "question": "Which method is used to make a thread wait for another thread to finish in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "join()"
+      },
+      {
+        "id": "b",
+        "text": "start()"
+      },
+      {
+        "id": "c",
+        "text": "wait()"
+      },
+      {
+        "id": "d",
+        "text": "sleep()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0037",
+    "type": "mcq",
+    "question": "Which of the following is used to create a socket connection in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ServerSocket"
+      },
+      {
+        "id": "b",
+        "text": "Socket"
+      },
+      {
+        "id": "c",
+        "text": "URLConnection"
+      },
+      {
+        "id": "d",
+        "text": "HttpURLConnection"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0038",
+    "type": "mcq",
+    "question": "What is the purpose of the 'transient' keyword in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It prevents an object from being serialized"
+      },
+      {
+        "id": "b",
+        "text": "It ensures that the object is synchronized"
+      },
+      {
+        "id": "c",
+        "text": "It creates a new thread"
+      },
+      {
+        "id": "d",
+        "text": "It is used for reflection"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0039",
+    "type": "mcq",
+    "question": "Which of the following is true about the final keyword in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It prevents a variable from being modified"
+      },
+      {
+        "id": "b",
+        "text": "It prevents inheritance of a class"
+      },
+      {
+        "id": "c",
+        "text": "It allows the method to be overridden"
+      },
+      {
+        "id": "d",
+        "text": "Both A and B"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0040",
+    "type": "mcq",
+    "question": "Which interface is implemented by the 'Thread' class in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Runnable"
+      },
+      {
+        "id": "b",
+        "text": "Callable"
+      },
+      {
+        "id": "c",
+        "text": "Cloneable"
+      },
+      {
+        "id": "d",
+        "text": "Serializable"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0041",
+    "type": "mcq",
+    "question": "Which of the following is not a valid access modifier in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "public"
+      },
+      {
+        "id": "b",
+        "text": "private"
+      },
+      {
+        "id": "c",
+        "text": "protected"
+      },
+      {
+        "id": "d",
+        "text": "global"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0042",
+    "type": "mcq",
+    "question": "What is the result of trying to access a private variable in a subclass?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Compile-time error"
+      },
+      {
+        "id": "b",
+        "text": "Runtime error"
+      },
+      {
+        "id": "c",
+        "text": "It will be accessible"
+      },
+      {
+        "id": "d",
+        "text": "It will become protected"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0043",
+    "type": "mcq",
+    "question": "Which of the following is a checked exception in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IOException"
+      },
+      {
+        "id": "b",
+        "text": "RuntimeException"
+      },
+      {
+        "id": "c",
+        "text": "Error"
+      },
+      {
+        "id": "d",
+        "text": "ArithmeticException"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0044",
+    "type": "mcq",
+    "question": "Which class is used for file handling in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "FileReader"
+      },
+      {
+        "id": "b",
+        "text": "BufferedReader"
+      },
+      {
+        "id": "c",
+        "text": "ObjectInputStream"
+      },
+      {
+        "id": "d",
+        "text": "PrintStream"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0045",
+    "type": "mcq",
+    "question": "Which of the following is a marker interface?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Serializable"
+      },
+      {
+        "id": "b",
+        "text": "Cloneable"
+      },
+      {
+        "id": "c",
+        "text": "Runnable"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Interfaces define contracts that classes can implement in Java."
+  },
+  {
+    "id": "ajp-0046",
+    "type": "mcq",
+    "question": "What is the purpose of the 'this' keyword in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It refers to the current object"
+      },
+      {
+        "id": "b",
+        "text": "It refers to the parent class"
+      },
+      {
+        "id": "c",
+        "text": "It is used to call another constructor"
+      },
+      {
+        "id": "d",
+        "text": "Both A and C"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0047",
+    "type": "mcq",
+    "question": "Which of the following is true about garbage collection in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It ensures that unused objects are destroyed"
+      },
+      {
+        "id": "b",
+        "text": "It prevents memory leaks"
+      },
+      {
+        "id": "c",
+        "text": "It runs at fixed intervals"
+      },
+      {
+        "id": "d",
+        "text": "It is called explicitly by the programmer"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0048",
+    "type": "mcq",
+    "question": "Which of the following is an immutable class in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "String"
+      },
+      {
+        "id": "b",
+        "text": "StringBuffer"
+      },
+      {
+        "id": "c",
+        "text": "ArrayList"
+      },
+      {
+        "id": "d",
+        "text": "HashMap"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0049",
+    "type": "mcq",
+    "question": "How can you stop a thread in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "stop()"
+      },
+      {
+        "id": "b",
+        "text": "interrupt()"
+      },
+      {
+        "id": "c",
+        "text": "destroy()"
+      },
+      {
+        "id": "d",
+        "text": "terminate()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0050",
+    "type": "mcq",
+    "question": "What is the purpose of the 'volatile' keyword in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It ensures visibility of variables across threads"
+      },
+      {
+        "id": "b",
+        "text": "It prevents deadlock"
+      },
+      {
+        "id": "c",
+        "text": "It is used in synchronized blocks"
+      },
+      {
+        "id": "d",
+        "text": "It allows multiple threads to access a variable"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0051",
+    "type": "mcq",
+    "question": "Which method of the 'Object' class is used to create a clone of the object?",
+    "options": [
+      {
+        "id": "a",
+        "text": "clone()"
+      },
+      {
+        "id": "b",
+        "text": "copy()"
+      },
+      {
+        "id": "c",
+        "text": "duplicate()"
+      },
+      {
+        "id": "d",
+        "text": "new()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0052",
+    "type": "mcq",
+    "question": "What is the difference between '=='' and 'equals()' in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "==' compares memory locations, 'equals()' compares values"
+      },
+      {
+        "id": "b",
+        "text": "==' compares values, 'equals()' compares memory locations"
+      },
+      {
+        "id": "c",
+        "text": "==' and 'equals()' both compare memory locations"
+      },
+      {
+        "id": "d",
+        "text": "Both compare values"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0053",
+    "type": "mcq",
+    "question": "Which of the following is a valid JDBC driver type?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Type 1"
+      },
+      {
+        "id": "b",
+        "text": "Type 2"
+      },
+      {
+        "id": "c",
+        "text": "Type 3"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0054",
+    "type": "mcq",
+    "question": "Which of the following is used to send a request to a servlet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "POST"
+      },
+      {
+        "id": "b",
+        "text": "GET"
+      },
+      {
+        "id": "c",
+        "text": "PUT"
+      },
+      {
+        "id": "d",
+        "text": "Both A and B"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"GET\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0055",
+    "type": "mcq",
+    "question": "Which of the following is not a Java keyword?",
+    "options": [
+      {
+        "id": "a",
+        "text": "interface"
+      },
+      {
+        "id": "b",
+        "text": "goto"
+      },
+      {
+        "id": "c",
+        "text": "static"
+      },
+      {
+        "id": "d",
+        "text": "abstract"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0056",
+    "type": "mcq",
+    "question": "Which of the following is used to establish a database connection in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "DriverManager"
+      },
+      {
+        "id": "b",
+        "text": "Connection"
+      },
+      {
+        "id": "c",
+        "text": "Statement"
+      },
+      {
+        "id": "d",
+        "text": "ResultSet"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0057",
+    "type": "mcq",
+    "question": "Which class is used to read from a text file in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "FileWriter"
+      },
+      {
+        "id": "b",
+        "text": "BufferedReader"
+      },
+      {
+        "id": "c",
+        "text": "FileInputStream"
+      },
+      {
+        "id": "d",
+        "text": "PrintWriter"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0058",
+    "type": "mcq",
+    "question": "Which method is used to terminate a thread in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "stop()"
+      },
+      {
+        "id": "b",
+        "text": "terminate()"
+      },
+      {
+        "id": "c",
+        "text": "exit()"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0059",
+    "type": "mcq",
+    "question": "Which class in Java provides methods to get IP address of any host?",
+    "options": [
+      {
+        "id": "a",
+        "text": "URL"
+      },
+      {
+        "id": "b",
+        "text": "InetAddress"
+      },
+      {
+        "id": "c",
+        "text": "Socket"
+      },
+      {
+        "id": "d",
+        "text": "ServerSocket"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0060",
+    "type": "mcq",
+    "question": "Which of the following methods is used to get the local host IP address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "getHostAddress()"
+      },
+      {
+        "id": "b",
+        "text": "getByName()"
+      },
+      {
+        "id": "c",
+        "text": "getLocalHost()"
+      },
+      {
+        "id": "d",
+        "text": "getByAddress()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"getLocalHost()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0061",
+    "type": "mcq",
+    "question": "Which socket type is used for connection-oriented communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "DatagramSocket"
+      },
+      {
+        "id": "b",
+        "text": "ServerSocket"
+      },
+      {
+        "id": "c",
+        "text": "TCP/IP Socket"
+      },
+      {
+        "id": "d",
+        "text": "HTTP Socket"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"TCP/IP Socket\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0062",
+    "type": "mcq",
+    "question": "Which of the following is true about the TCP protocol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is faster than UDP"
+      },
+      {
+        "id": "b",
+        "text": "It guarantees delivery of data"
+      },
+      {
+        "id": "c",
+        "text": "It doesn’t provide connection establishment"
+      },
+      {
+        "id": "d",
+        "text": "It is used for multimedia streaming"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"It guarantees delivery of data\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0063",
+    "type": "mcq",
+    "question": "Which class is used for creating a client-side socket in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ServerSocket"
+      },
+      {
+        "id": "b",
+        "text": "DatagramSocket"
+      },
+      {
+        "id": "c",
+        "text": "ClientSocket"
+      },
+      {
+        "id": "d",
+        "text": "Socket"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0064",
+    "type": "mcq",
+    "question": "In Java, which method is used to bind a socket to a port?",
+    "options": [
+      {
+        "id": "a",
+        "text": "accept()"
+      },
+      {
+        "id": "b",
+        "text": "connect()"
+      },
+      {
+        "id": "c",
+        "text": "bind()"
+      },
+      {
+        "id": "d",
+        "text": "listen()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0065",
+    "type": "mcq",
+    "question": "What protocol does DatagramSocket use for communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TCP"
+      },
+      {
+        "id": "b",
+        "text": "HTTP"
+      },
+      {
+        "id": "c",
+        "text": "SMTP"
+      },
+      {
+        "id": "d",
+        "text": "UDP"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"UDP\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0066",
+    "type": "mcq",
+    "question": "Which of the following methods is used to close a server socket?",
+    "options": [
+      {
+        "id": "a",
+        "text": "closeSocket()"
+      },
+      {
+        "id": "b",
+        "text": "disconnect()"
+      },
+      {
+        "id": "c",
+        "text": "close()"
+      },
+      {
+        "id": "d",
+        "text": "shutdown()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"close()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0067",
+    "type": "mcq",
+    "question": "Which class represents a URL connection in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "URL"
+      },
+      {
+        "id": "b",
+        "text": "URLConnection"
+      },
+      {
+        "id": "c",
+        "text": "ServerSocket"
+      },
+      {
+        "id": "d",
+        "text": "HttpURLConnection"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0068",
+    "type": "mcq",
+    "question": "Which exception is thrown when a socket times out during read?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IOException"
+      },
+      {
+        "id": "b",
+        "text": "SocketException"
+      },
+      {
+        "id": "c",
+        "text": "TimeoutException"
+      },
+      {
+        "id": "d",
+        "text": "SocketTimeoutException"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Exception handling helps manage runtime errors and maintain normal program flow."
+  },
+  {
+    "id": "ajp-0069",
+    "type": "mcq",
+    "question": "Which method is used to load a JDBC driver in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "loadDriver()"
+      },
+      {
+        "id": "b",
+        "text": "Class.forName()"
+      },
+      {
+        "id": "c",
+        "text": "Driver.load()"
+      },
+      {
+        "id": "d",
+        "text": "DriverManager.loadDriver()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0070",
+    "type": "mcq",
+    "question": "Which interface in JDBC is used to execute SQL queries?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Statement"
+      },
+      {
+        "id": "b",
+        "text": "PreparedStatement"
+      },
+      {
+        "id": "c",
+        "text": "CallableStatement"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Interfaces define contracts that classes can implement in Java."
+  },
+  {
+    "id": "ajp-0071",
+    "type": "mcq",
+    "question": "Which method is used to execute a SQL SELECT query?",
+    "options": [
+      {
+        "id": "a",
+        "text": "execute()"
+      },
+      {
+        "id": "b",
+        "text": "executeQuery()"
+      },
+      {
+        "id": "c",
+        "text": "executeUpdate()"
+      },
+      {
+        "id": "d",
+        "text": "runQuery()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"executeQuery()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0072",
+    "type": "mcq",
+    "question": "Which of the following is not a type of JDBC driver?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Type-1"
+      },
+      {
+        "id": "b",
+        "text": "Type-2"
+      },
+      {
+        "id": "c",
+        "text": "Type-3"
+      },
+      {
+        "id": "d",
+        "text": "Type-5"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Type-5\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0073",
+    "type": "mcq",
+    "question": "Which JDBC method is used to start a transaction?",
+    "options": [
+      {
+        "id": "a",
+        "text": "startTransaction()"
+      },
+      {
+        "id": "b",
+        "text": "setAutoCommit(false)"
+      },
+      {
+        "id": "c",
+        "text": "beginTransaction()"
+      },
+      {
+        "id": "d",
+        "text": "setAutoTransaction(false)"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"setAutoCommit(false)\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0074",
+    "type": "mcq",
+    "question": "What is the return type of the executeUpdate() method in JDBC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "boolean"
+      },
+      {
+        "id": "b",
+        "text": "void"
+      },
+      {
+        "id": "c",
+        "text": "int"
+      },
+      {
+        "id": "d",
+        "text": "String"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"int\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0075",
+    "type": "mcq",
+    "question": "What does the ResultSet interface represent in JDBC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Result of a SQL query"
+      },
+      {
+        "id": "b",
+        "text": "Database connection"
+      },
+      {
+        "id": "c",
+        "text": "Metadata about a database"
+      },
+      {
+        "id": "d",
+        "text": "Error logs"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Interfaces define contracts that classes can implement in Java."
+  },
+  {
+    "id": "ajp-0076",
+    "type": "mcq",
+    "question": "Which JDBC interface is used to call stored procedures?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Statement"
+      },
+      {
+        "id": "b",
+        "text": "PreparedStatement"
+      },
+      {
+        "id": "c",
+        "text": "CallableStatement"
+      },
+      {
+        "id": "d",
+        "text": "ResultSet"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Interfaces define contracts that classes can implement in Java."
+  },
+  {
+    "id": "ajp-0077",
+    "type": "mcq",
+    "question": "What is the primary function of the DriverManager class in JDBC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manage database connections"
+      },
+      {
+        "id": "b",
+        "text": "Execute SQL queries"
+      },
+      {
+        "id": "c",
+        "text": "Manage ResultSet"
+      },
+      {
+        "id": "d",
+        "text": "Handle exceptions"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0078",
+    "type": "mcq",
+    "question": "What is the method used to retrieve metadata about a database in JDBC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "getMetaData()"
+      },
+      {
+        "id": "b",
+        "text": "getDatabaseMetaData()"
+      },
+      {
+        "id": "c",
+        "text": "getResultMetaData()"
+      },
+      {
+        "id": "d",
+        "text": "getConnectionMetaData()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"getDatabaseMetaData()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0079",
+    "type": "mcq",
+    "question": "Which method is invoked first in the lifecycle of a servlet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "init()"
+      },
+      {
+        "id": "b",
+        "text": "service()"
+      },
+      {
+        "id": "c",
+        "text": "doGet()"
+      },
+      {
+        "id": "d",
+        "text": "destroy()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"init()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0080",
+    "type": "mcq",
+    "question": "Which method handles HTTP GET requests in servlets?",
+    "options": [
+      {
+        "id": "a",
+        "text": "doPost()"
+      },
+      {
+        "id": "b",
+        "text": "doGet()"
+      },
+      {
+        "id": "c",
+        "text": "service()"
+      },
+      {
+        "id": "d",
+        "text": "init()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"doGet()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0081",
+    "type": "mcq",
+    "question": "Which of the following is used to maintain session state in servlets?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cookies"
+      },
+      {
+        "id": "b",
+        "text": "URL rewriting"
+      },
+      {
+        "id": "c",
+        "text": "HttpSession"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0082",
+    "type": "mcq",
+    "question": "What is the default port for Apache Tomcat?",
+    "options": [
+      {
+        "id": "a",
+        "text": "80"
+      },
+      {
+        "id": "b",
+        "text": "443"
+      },
+      {
+        "id": "c",
+        "text": "8080"
+      },
+      {
+        "id": "d",
+        "text": "8000"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"80\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0083",
+    "type": "mcq",
+    "question": "Which object is used to send data to the client in servlets?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ServletConfig"
+      },
+      {
+        "id": "b",
+        "text": "ServletContext"
+      },
+      {
+        "id": "c",
+        "text": "HttpServletRequest"
+      },
+      {
+        "id": "d",
+        "text": "HttpServletResponse"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0084",
+    "type": "mcq",
+    "question": "Which method is used to forward a request to another resource in servlets?",
+    "options": [
+      {
+        "id": "a",
+        "text": "sendRedirect()"
+      },
+      {
+        "id": "b",
+        "text": "forward()"
+      },
+      {
+        "id": "c",
+        "text": "include()"
+      },
+      {
+        "id": "d",
+        "text": "transfer()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"forward()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0085",
+    "type": "mcq",
+    "question": "Which of the following is true about filters in servlets?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They can modify requests and responses"
+      },
+      {
+        "id": "b",
+        "text": "They are executed before the servlet"
+      },
+      {
+        "id": "c",
+        "text": "They can intercept incoming and outgoing requests"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0086",
+    "type": "mcq",
+    "question": "Which servlet interface provides methods to configure initialization parameters?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ServletConfig"
+      },
+      {
+        "id": "b",
+        "text": "HttpServletRequest"
+      },
+      {
+        "id": "c",
+        "text": "ServletContext"
+      },
+      {
+        "id": "d",
+        "text": "HttpSession"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Interfaces define contracts that classes can implement in Java."
+  },
+  {
+    "id": "ajp-0087",
+    "type": "mcq",
+    "question": "What is the purpose of the destroy() method in servlets?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To initialize the servlet"
+      },
+      {
+        "id": "b",
+        "text": "To destroy the servlet instance"
+      },
+      {
+        "id": "c",
+        "text": "To handle HTTP requests"
+      },
+      {
+        "id": "d",
+        "text": "To send a response to the client"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"To destroy the servlet instance\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0088",
+    "type": "mcq",
+    "question": "Which servlet API method returns the session associated with the current request?",
+    "options": [
+      {
+        "id": "a",
+        "text": "getSession()"
+      },
+      {
+        "id": "b",
+        "text": "getRequest()"
+      },
+      {
+        "id": "c",
+        "text": "getSessionData()"
+      },
+      {
+        "id": "d",
+        "text": "getSessionInfo()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"getSession()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0089",
+    "type": "mcq",
+    "question": "Which of the following is not a JSP directive?",
+    "options": [
+      {
+        "id": "a",
+        "text": "page"
+      },
+      {
+        "id": "b",
+        "text": "include"
+      },
+      {
+        "id": "c",
+        "text": "taglib"
+      },
+      {
+        "id": "d",
+        "text": "action"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"action\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0090",
+    "type": "mcq",
+    "question": "What is the purpose of the scriptlet tag <% %> in JSP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It allows Java code to be embedded within HTML"
+      },
+      {
+        "id": "b",
+        "text": "It imports libraries into the page"
+      },
+      {
+        "id": "c",
+        "text": "It sets the response type"
+      },
+      {
+        "id": "d",
+        "text": "It includes external files"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"It allows Java code to be embedded within HTML\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0091",
+    "type": "mcq",
+    "question": "Which of the following is not a JSP implicit object?",
+    "options": [
+      {
+        "id": "a",
+        "text": "session"
+      },
+      {
+        "id": "b",
+        "text": "out"
+      },
+      {
+        "id": "c",
+        "text": "Cookie"
+      },
+      {
+        "id": "d",
+        "text": "pageContext"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0092",
+    "type": "mcq",
+    "question": "Which directive in JSP is used to include external content at translation time?",
+    "options": [
+      {
+        "id": "a",
+        "text": "include"
+      },
+      {
+        "id": "b",
+        "text": "page"
+      },
+      {
+        "id": "c",
+        "text": "taglib"
+      },
+      {
+        "id": "d",
+        "text": "action"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"include\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0093",
+    "type": "mcq",
+    "question": "Which tag is used to output data to the client in JSP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<jsp:output>"
+      },
+      {
+        "id": "b",
+        "text": "<c:out>"
+      },
+      {
+        "id": "c",
+        "text": "<jsp:display>"
+      },
+      {
+        "id": "d",
+        "text": "<c:display>"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<c:out>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0094",
+    "type": "mcq",
+    "question": "Which tag is used to iterate over a collection in JSTL?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<c:if>"
+      },
+      {
+        "id": "b",
+        "text": "<c:choose>"
+      },
+      {
+        "id": "c",
+        "text": "<c:forEach>"
+      },
+      {
+        "id": "d",
+        "text": "<c:when>"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The Java Collection Framework provides data structures and algorithms for managing groups of objects."
+  },
+  {
+    "id": "ajp-0095",
+    "type": "mcq",
+    "question": "Which of the following is used to create a new thread in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Runnable interface"
+      },
+      {
+        "id": "b",
+        "text": "Callable interface"
+      },
+      {
+        "id": "c",
+        "text": "Thread class"
+      },
+      {
+        "id": "d",
+        "text": "Both A and C"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0096",
+    "type": "mcq",
+    "question": "What does the 'synchronized' keyword in Java mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It restricts access to a block of code to a single thread at a time"
+      },
+      {
+        "id": "b",
+        "text": "It allows multiple threads to access the block of code simultaneously"
+      },
+      {
+        "id": "c",
+        "text": "It creates multiple threads automatically"
+      },
+      {
+        "id": "d",
+        "text": "It is used to stop a thread"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0097",
+    "type": "mcq",
+    "question": "Which of the following is true about a Java object?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Objects are instances of classes"
+      },
+      {
+        "id": "b",
+        "text": "Objects can hold only primitive data types"
+      },
+      {
+        "id": "c",
+        "text": "Objects are the blueprint for classes"
+      },
+      {
+        "id": "d",
+        "text": "Objects can hold only reference data types"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0098",
+    "type": "mcq",
+    "question": "What is the function of the JSP Expression Language (EL)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To handle exception"
+      },
+      {
+        "id": "b",
+        "text": "To evaluate expressions within JSP pages"
+      },
+      {
+        "id": "c",
+        "text": "To call Java methods"
+      },
+      {
+        "id": "d",
+        "text": "To include external files"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"To evaluate expressions within JSP pages\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0099",
+    "type": "mcq",
+    "question": "Which of the following is a valid JSP comment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<%-- comment --%>"
+      },
+      {
+        "id": "b",
+        "text": "<!-- comment -->"
+      },
+      {
+        "id": "c",
+        "text": "<% comment %>"
+      },
+      {
+        "id": "d",
+        "text": "<? comment ?>"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<%-- comment --%>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0100",
+    "type": "mcq",
+    "question": "What is the purpose of the taglib directive in JSP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It imports a tag library for use in the JSP page"
+      },
+      {
+        "id": "b",
+        "text": "It includes external files at runtime"
+      },
+      {
+        "id": "c",
+        "text": "It sets the page encoding"
+      },
+      {
+        "id": "d",
+        "text": "It sets the content type"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"It imports a tag library for use in the JSP page\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0101",
+    "type": "mcq",
+    "question": "Which implicit object in JSP is used to handle exceptions?",
+    "options": [
+      {
+        "id": "a",
+        "text": "session"
+      },
+      {
+        "id": "b",
+        "text": "request"
+      },
+      {
+        "id": "c",
+        "text": "exception"
+      },
+      {
+        "id": "d",
+        "text": "response"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0102",
+    "type": "mcq",
+    "question": "Which phase in JSF lifecycle handles request processing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Restore view"
+      },
+      {
+        "id": "b",
+        "text": "Apply request values"
+      },
+      {
+        "id": "c",
+        "text": "Render response"
+      },
+      {
+        "id": "d",
+        "text": "Execute"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Apply request values\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0103",
+    "type": "mcq",
+    "question": "Which JSF tag is used to create a text input field?",
+    "options": [
+      {
+        "id": "a",
+        "text": "h:inputText>"
+      },
+      {
+        "id": "b",
+        "text": "<h:outputText>"
+      },
+      {
+        "id": "c",
+        "text": "<h:commandButton>"
+      },
+      {
+        "id": "d",
+        "text": "<h:form>"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"h:inputText>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0104",
+    "type": "mcq",
+    "question": "Which tag in JSF is used for form submission?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<h:inputText>"
+      },
+      {
+        "id": "b",
+        "text": "<h:outputText>"
+      },
+      {
+        "id": "c",
+        "text": "<h:commandButton>"
+      },
+      {
+        "id": "d",
+        "text": "<h:form>"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<h:commandButton>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0105",
+    "type": "mcq",
+    "question": "What is the purpose of the JSF convertor tag?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To convert user input into a specific format"
+      },
+      {
+        "id": "b",
+        "text": "To handle form submissions"
+      },
+      {
+        "id": "c",
+        "text": "To display error messages"
+      },
+      {
+        "id": "d",
+        "text": "To create JSF components dynamically"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"To convert user input into a specific format\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0106",
+    "type": "mcq",
+    "question": "Which phase in JSF lifecycle deals with validation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Restore view"
+      },
+      {
+        "id": "b",
+        "text": "Apply request values"
+      },
+      {
+        "id": "c",
+        "text": "Process validation"
+      },
+      {
+        "id": "d",
+        "text": "Render response"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Process validation\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0107",
+    "type": "mcq",
+    "question": "What is the core feature of the Spring MVC framework?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dependency injection"
+      },
+      {
+        "id": "b",
+        "text": "Object-relational mapping"
+      },
+      {
+        "id": "c",
+        "text": "Model-View-Controller architecture"
+      },
+      {
+        "id": "d",
+        "text": "Transaction management"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Model-View-Controller architecture\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0108",
+    "type": "mcq",
+    "question": "Which module in Spring provides support for building web applications?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spring ORM"
+      },
+      {
+        "id": "b",
+        "text": "Spring MVC"
+      },
+      {
+        "id": "c",
+        "text": "Spring Boot"
+      },
+      {
+        "id": "d",
+        "text": "Spring Core"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Spring MVC\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0109",
+    "type": "mcq",
+    "question": "Which annotation in Spring MVC is used to map requests to methods?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@Autowired"
+      },
+      {
+        "id": "b",
+        "text": "@RequestMapping"
+      },
+      {
+        "id": "c",
+        "text": "@Component"
+      },
+      {
+        "id": "d",
+        "text": "@Controller"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"@RequestMapping\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0110",
+    "type": "mcq",
+    "question": "In Spring MVC, which view technology is commonly used to render views?",
+    "options": [
+      {
+        "id": "a",
+        "text": "JSP"
+      },
+      {
+        "id": "b",
+        "text": "Velocity"
+      },
+      {
+        "id": "c",
+        "text": "Thymeleaf"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0111",
+    "type": "mcq",
+    "question": "Which component in Spring MVC is responsible for receiving user requests?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Controller"
+      },
+      {
+        "id": "b",
+        "text": "Model"
+      },
+      {
+        "id": "c",
+        "text": "View"
+      },
+      {
+        "id": "d",
+        "text": "DispatcherServlet"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"DispatcherServlet\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0112",
+    "type": "mcq",
+    "question": "What is Hibernate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A Java framework for building web applications"
+      },
+      {
+        "id": "b",
+        "text": "An ORM framework for Java"
+      },
+      {
+        "id": "c",
+        "text": "A server-side technology"
+      },
+      {
+        "id": "d",
+        "text": "A database management system"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"An ORM framework for Java\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0113",
+    "type": "mcq",
+    "question": "Which of the following is true about Hibernate ORM?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is database-agnostic"
+      },
+      {
+        "id": "b",
+        "text": "It supports object-relational mapping"
+      },
+      {
+        "id": "c",
+        "text": "It uses HQL for querying"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0114",
+    "type": "mcq",
+    "question": "Which file is used for configuring Hibernate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "hibernate-config.xml"
+      },
+      {
+        "id": "b",
+        "text": "hibernate.cfg.xml"
+      },
+      {
+        "id": "c",
+        "text": "hibernate.properties"
+      },
+      {
+        "id": "d",
+        "text": "hibernate.xml"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"hibernate.cfg.xml\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0115",
+    "type": "mcq",
+    "question": "What does HQL stand for in Hibernate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hibernate Query Language"
+      },
+      {
+        "id": "b",
+        "text": "Hibernate Query Library"
+      },
+      {
+        "id": "c",
+        "text": "Hypertext Query Language"
+      },
+      {
+        "id": "d",
+        "text": "Hybrid Query Language"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Hibernate Query Language\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0116",
+    "type": "mcq",
+    "question": "Which method in Hibernate is used to begin a transaction?",
+    "options": [
+      {
+        "id": "a",
+        "text": "beginTransaction()"
+      },
+      {
+        "id": "b",
+        "text": "startTransaction()"
+      },
+      {
+        "id": "c",
+        "text": "openTransaction()"
+      },
+      {
+        "id": "d",
+        "text": "createTransaction()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"beginTransaction()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0117",
+    "type": "mcq",
+    "question": "What does the @Entity annotation in Hibernate signify?",
+    "options": [
+      {
+        "id": "a",
+        "text": "That the class is a servlet"
+      },
+      {
+        "id": "b",
+        "text": "That the class is a model"
+      },
+      {
+        "id": "c",
+        "text": "That the class represents a database entity"
+      },
+      {
+        "id": "d",
+        "text": "That the class is a controller"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"That the class represents a database entity\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0118",
+    "type": "mcq",
+    "question": "Which of the following is used to persist an object in Hibernate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "session.persist()"
+      },
+      {
+        "id": "b",
+        "text": "session.save()"
+      },
+      {
+        "id": "c",
+        "text": "session.store()"
+      },
+      {
+        "id": "d",
+        "text": "session.insert()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0119",
+    "type": "mcq",
+    "question": "What does the @Table annotation in Hibernate define?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The name of the database"
+      },
+      {
+        "id": "b",
+        "text": "The name of the table"
+      },
+      {
+        "id": "c",
+        "text": "The name of the column"
+      },
+      {
+        "id": "d",
+        "text": "The database schema"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"The name of the table\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0120",
+    "type": "mcq",
+    "question": "In Hibernate, which method is used to delete an entity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "remove()"
+      },
+      {
+        "id": "b",
+        "text": "drop()"
+      },
+      {
+        "id": "c",
+        "text": "delete()"
+      },
+      {
+        "id": "d",
+        "text": "eliminate()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"delete()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0121",
+    "type": "mcq",
+    "question": "What is the default fetch type of @OneToMany in Hibernate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "EAGER"
+      },
+      {
+        "id": "b",
+        "text": "IMMEDIATE"
+      },
+      {
+        "id": "c",
+        "text": "LAZY"
+      },
+      {
+        "id": "d",
+        "text": "select()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"LAZY\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0122",
+    "type": "mcq",
+    "question": "Which method of the Socket class is used to read data from the socket?",
+    "options": [
+      {
+        "id": "a",
+        "text": "read()"
+      },
+      {
+        "id": "b",
+        "text": "getInputStream()"
+      },
+      {
+        "id": "c",
+        "text": "getOutputStream()"
+      },
+      {
+        "id": "d",
+        "text": "receive()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0123",
+    "type": "mcq",
+    "question": "In a DatagramSocket, what method is used to send a datagram packet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "sendPacket()"
+      },
+      {
+        "id": "b",
+        "text": "send()"
+      },
+      {
+        "id": "c",
+        "text": "dispatch()"
+      },
+      {
+        "id": "d",
+        "text": "transfer()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"send()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0124",
+    "type": "mcq",
+    "question": "Which of the following methods is used to create a server socket that listens on a specific port?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ServerSocket.listen()"
+      },
+      {
+        "id": "b",
+        "text": "ServerSocket.bind()"
+      },
+      {
+        "id": "c",
+        "text": "new ServerSocket(int port)"
+      },
+      {
+        "id": "d",
+        "text": "ServerSocket.accept()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"new ServerSocket(int port)\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0125",
+    "type": "mcq",
+    "question": "Which of the following protocols is used by URLConnection in Java?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TCP"
+      },
+      {
+        "id": "b",
+        "text": "UDP"
+      },
+      {
+        "id": "c",
+        "text": "HTTP"
+      },
+      {
+        "id": "d",
+        "text": "SMTP"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0126",
+    "type": "mcq",
+    "question": "Which method is used to roll back a transaction in JDBC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "rollbackTransaction()"
+      },
+      {
+        "id": "b",
+        "text": "setAutoCommit(true)"
+      },
+      {
+        "id": "c",
+        "text": "rollback()"
+      },
+      {
+        "id": "d",
+        "text": "reset()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"rollback()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0127",
+    "type": "mcq",
+    "question": "Which of the following is a valid JDBC driver type?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Type-1 (JDBC-ODBC bridge)"
+      },
+      {
+        "id": "b",
+        "text": "Type-3 (Network Protocol driver)"
+      },
+      {
+        "id": "c",
+        "text": "Type-4 (Native Protocol driver)"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0128",
+    "type": "mcq",
+    "question": "In JDBC, which class is used to execute SQL stored procedures?",
+    "options": [
+      {
+        "id": "a",
+        "text": "CallableStatement"
+      },
+      {
+        "id": "b",
+        "text": "Statement"
+      },
+      {
+        "id": "c",
+        "text": "ResultSet"
+      },
+      {
+        "id": "d",
+        "text": "PreparedStatement"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0129",
+    "type": "mcq",
+    "question": "Which of the following is not a valid result set type in JDBC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TYPE_FORWARD_ONLY"
+      },
+      {
+        "id": "b",
+        "text": "TYPE_SCROLL_INSENSITIVE"
+      },
+      {
+        "id": "c",
+        "text": "TYPE_SCROLL_SENSITIVE"
+      },
+      {
+        "id": "d",
+        "text": "TYPE_RANDOM_ACCESS"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"TYPE_RANDOM_ACCESS\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0130",
+    "type": "mcq",
+    "question": "Which of the following can be used to handle large binary data in JDBC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Blob"
+      },
+      {
+        "id": "b",
+        "text": "Clob"
+      },
+      {
+        "id": "c",
+        "text": "ResultSet"
+      },
+      {
+        "id": "d",
+        "text": "Statement"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Blob\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0131",
+    "type": "mcq",
+    "question": "What is the purpose of the DriverManager class in JDBC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manage database connections"
+      },
+      {
+        "id": "b",
+        "text": "Create SQL queries"
+      },
+      {
+        "id": "c",
+        "text": "Retrieve database metadata"
+      },
+      {
+        "id": "d",
+        "text": "Generate result sets"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0132",
+    "type": "mcq",
+    "question": "Which method is used to release a JDBC database connection?",
+    "options": [
+      {
+        "id": "a",
+        "text": "release()"
+      },
+      {
+        "id": "b",
+        "text": "closeConnection()"
+      },
+      {
+        "id": "c",
+        "text": "close()"
+      },
+      {
+        "id": "d",
+        "text": "terminate()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"close()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0133",
+    "type": "mcq",
+    "question": "Which method is used to create a prepared statement in JDBC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "prepareStatement()"
+      },
+      {
+        "id": "b",
+        "text": "createPreparedStatement()"
+      },
+      {
+        "id": "c",
+        "text": "newPreparedStatement()"
+      },
+      {
+        "id": "d",
+        "text": "executePreparedStatement()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"prepareStatement()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0134",
+    "type": "mcq",
+    "question": "In JDBC, which object is used to represent SQL query results?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Statement"
+      },
+      {
+        "id": "b",
+        "text": "Connection"
+      },
+      {
+        "id": "c",
+        "text": "ResultSet"
+      },
+      {
+        "id": "d",
+        "text": "PreparedStatement"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0135",
+    "type": "mcq",
+    "question": "Which method is used to retrieve auto-generated keys in JDBC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "getGeneratedKeys()"
+      },
+      {
+        "id": "b",
+        "text": "getAutoKey()"
+      },
+      {
+        "id": "c",
+        "text": "retrieveKeys()"
+      },
+      {
+        "id": "d",
+        "text": "getKeyValues()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"getGeneratedKeys()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0136",
+    "type": "mcq",
+    "question": "Which method of HttpServletRequest is used to retrieve the value of an HTML form field?",
+    "options": [
+      {
+        "id": "a",
+        "text": "getValue()"
+      },
+      {
+        "id": "b",
+        "text": "getParameter()"
+      },
+      {
+        "id": "c",
+        "text": "getField()"
+      },
+      {
+        "id": "d",
+        "text": "getInput()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"getParameter()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0137",
+    "type": "mcq",
+    "question": "Which of the following is a valid HTTP status code returned by a servlet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "200"
+      },
+      {
+        "id": "b",
+        "text": "500"
+      },
+      {
+        "id": "c",
+        "text": "404"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0138",
+    "type": "mcq",
+    "question": "Which of the following is not a session management technique in servlets?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cookies"
+      },
+      {
+        "id": "b",
+        "text": "URL rewriting"
+      },
+      {
+        "id": "c",
+        "text": "Servlet chaining"
+      },
+      {
+        "id": "d",
+        "text": "HttpSession"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Servlet chaining\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0139",
+    "type": "mcq",
+    "question": "Which lifecycle method is invoked when the servlet is about to be garbage collected?",
+    "options": [
+      {
+        "id": "a",
+        "text": "init()"
+      },
+      {
+        "id": "b",
+        "text": "service()"
+      },
+      {
+        "id": "c",
+        "text": "destroy()"
+      },
+      {
+        "id": "d",
+        "text": "finalize()"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"destroy()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0140",
+    "type": "mcq",
+    "question": "What is the purpose of the ServletContext object?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manage user sessions"
+      },
+      {
+        "id": "b",
+        "text": "Provide servlet initialization parameters"
+      },
+      {
+        "id": "c",
+        "text": "Share data among servlets within the same application"
+      },
+      {
+        "id": "d",
+        "text": "Manage HTTP request and response"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0141",
+    "type": "mcq",
+    "question": "Which of the following is a method to set a cookie in a servlet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "setCookie()"
+      },
+      {
+        "id": "b",
+        "text": "addCookie()"
+      },
+      {
+        "id": "c",
+        "text": "createCookie()"
+      },
+      {
+        "id": "d",
+        "text": "putCookie()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"addCookie()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0142",
+    "type": "mcq",
+    "question": "What is the return type of the getServletInfo() method in servlets?",
+    "options": [
+      {
+        "id": "a",
+        "text": "String"
+      },
+      {
+        "id": "b",
+        "text": "int"
+      },
+      {
+        "id": "c",
+        "text": "Object"
+      },
+      {
+        "id": "d",
+        "text": "boolean"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"String\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0143",
+    "type": "mcq",
+    "question": "Which of the following is a valid status code for a successful HTTP request?",
+    "options": [
+      {
+        "id": "a",
+        "text": "200"
+      },
+      {
+        "id": "b",
+        "text": "400"
+      },
+      {
+        "id": "c",
+        "text": "500"
+      },
+      {
+        "id": "d",
+        "text": "202"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"200\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0144",
+    "type": "mcq",
+    "question": "In servlet filters, which method is invoked to apply the filter?",
+    "options": [
+      {
+        "id": "a",
+        "text": "doFilter()"
+      },
+      {
+        "id": "b",
+        "text": "service()"
+      },
+      {
+        "id": "c",
+        "text": "filterRequest()"
+      },
+      {
+        "id": "d",
+        "text": "applyFilter()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"doFilter()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0145",
+    "type": "mcq",
+    "question": "Which interface is implemented by filters in servlets?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Filter"
+      },
+      {
+        "id": "b",
+        "text": "Servlet"
+      },
+      {
+        "id": "c",
+        "text": "FilterChain"
+      },
+      {
+        "id": "d",
+        "text": "HttpSessionListener"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Interfaces define contracts that classes can implement in Java."
+  },
+  {
+    "id": "ajp-0146",
+    "type": "mcq",
+    "question": "Which of the following is not an implicit object in JSP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "request"
+      },
+      {
+        "id": "b",
+        "text": "session"
+      },
+      {
+        "id": "c",
+        "text": "output"
+      },
+      {
+        "id": "d",
+        "text": "response"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0147",
+    "type": "mcq",
+    "question": "Which JSP directive is used to import Java classes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "include"
+      },
+      {
+        "id": "b",
+        "text": "page"
+      },
+      {
+        "id": "c",
+        "text": "taglib"
+      },
+      {
+        "id": "d",
+        "text": "import"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0148",
+    "type": "mcq",
+    "question": "Which implicit object is used to get information about the web application?",
+    "options": [
+      {
+        "id": "a",
+        "text": "application"
+      },
+      {
+        "id": "b",
+        "text": "Config"
+      },
+      {
+        "id": "c",
+        "text": "request"
+      },
+      {
+        "id": "d",
+        "text": "session"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0149",
+    "type": "mcq",
+    "question": "In JSP, which scripting element is used to evaluate and output an expression?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Declaration"
+      },
+      {
+        "id": "b",
+        "text": "Scriptlet"
+      },
+      {
+        "id": "c",
+        "text": "Expression"
+      },
+      {
+        "id": "d",
+        "text": "Directive"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Expression\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0150",
+    "type": "mcq",
+    "question": "Which of the following is a core tag in JSTL?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<c:out>"
+      },
+      {
+        "id": "b",
+        "text": "<x:parse>"
+      },
+      {
+        "id": "c",
+        "text": "<fmt:formatDate>"
+      },
+      {
+        "id": "d",
+        "text": "<sql:query>"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<c:out>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0151",
+    "type": "mcq",
+    "question": "Which tag in JSP is used to declare a variable?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<%-- --%>"
+      },
+      {
+        "id": "b",
+        "text": "<%= %>"
+      },
+      {
+        "id": "c",
+        "text": "<%! %>"
+      },
+      {
+        "id": "d",
+        "text": "<%@ %>"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<%! %>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0152",
+    "type": "mcq",
+    "question": "Which of the following tags in JSTL is used for conditional processing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<c:choose>"
+      },
+      {
+        "id": "b",
+        "text": "<c:forEach>"
+      },
+      {
+        "id": "c",
+        "text": "<c:set>"
+      },
+      {
+        "id": "d",
+        "text": "<c:if>"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<c:if>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0153",
+    "type": "mcq",
+    "question": "What is the purpose of the pageContext implicit object in JSP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It allows interaction with the HTTP session"
+      },
+      {
+        "id": "b",
+        "text": "It gives access to request and response objects"
+      },
+      {
+        "id": "c",
+        "text": "It manages the attributes of the current JSP page"
+      },
+      {
+        "id": "d",
+        "text": "It tracks user sessions"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0154",
+    "type": "mcq",
+    "question": "Which method is called to forward a request from a JSP page to another resource?",
+    "options": [
+      {
+        "id": "a",
+        "text": "forward()"
+      },
+      {
+        "id": "b",
+        "text": "sendRedirect()"
+      },
+      {
+        "id": "c",
+        "text": "include()"
+      },
+      {
+        "id": "d",
+        "text": "dispatch()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"forward()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0155",
+    "type": "mcq",
+    "question": "In JSP, which tag is used to include a file at request time?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<%@ include %>"
+      },
+      {
+        "id": "b",
+        "text": "<jsp:include>"
+      },
+      {
+        "id": "c",
+        "text": "<jsp:useBean>"
+      },
+      {
+        "id": "d",
+        "text": "<jsp:forward>"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<jsp:include>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0156",
+    "type": "mcq",
+    "question": "What is the purpose of the JSF lifecycle's \"Restore View\" phase?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Render the user interface"
+      },
+      {
+        "id": "b",
+        "text": "Recreate the component tree for the page"
+      },
+      {
+        "id": "c",
+        "text": "Validate user input"
+      },
+      {
+        "id": "d",
+        "text": "Handle navigation rules"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Recreate the component tree for the page\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0157",
+    "type": "mcq",
+    "question": "Which tag in JSF is used for converting a string to a number?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<h:inputText>"
+      },
+      {
+        "id": "b",
+        "text": "<f:convertNumber>"
+      },
+      {
+        "id": "c",
+        "text": "<h:outputText>"
+      },
+      {
+        "id": "d",
+        "text": "<f:validateLength>"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Strings in Java are immutable sequences of characters."
+  },
+  {
+    "id": "ajp-0158",
+    "type": "mcq",
+    "question": "Which JSF phase is responsible for handling any validation errors?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Restore View"
+      },
+      {
+        "id": "b",
+        "text": "Invoke Application"
+      },
+      {
+        "id": "c",
+        "text": "Process Validations"
+      },
+      {
+        "id": "d",
+        "text": "Render Response"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Process Validations\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0159",
+    "type": "mcq",
+    "question": "What does the FacesContext object represent in JSF?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Current state of the request"
+      },
+      {
+        "id": "b",
+        "text": "The user’s session data"
+      },
+      {
+        "id": "c",
+        "text": "A configuration file"
+      },
+      {
+        "id": "d",
+        "text": "An HTTP response"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Objects in Java represent real-world entities containing data and behavior together."
+  },
+  {
+    "id": "ajp-0160",
+    "type": "mcq",
+    "question": "Which JSF component is used to create an event handler for a button?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<h:outputText>"
+      },
+      {
+        "id": "b",
+        "text": "<f:actionListener>"
+      },
+      {
+        "id": "c",
+        "text": "<h:commandButton>"
+      },
+      {
+        "id": "d",
+        "text": "<h:inputText>"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<h:commandButton>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0161",
+    "type": "mcq",
+    "question": "What is the primary purpose of faces-config.xml in JSF?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manage navigation rules"
+      },
+      {
+        "id": "b",
+        "text": "Store UI components"
+      },
+      {
+        "id": "c",
+        "text": "Validate user input"
+      },
+      {
+        "id": "d",
+        "text": "Store managed beans"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Manage navigation rules\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0162",
+    "type": "mcq",
+    "question": "Which JSF tag is used to validate the length of an input?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<f:validateLength>"
+      },
+      {
+        "id": "b",
+        "text": "<f:validateRegex>"
+      },
+      {
+        "id": "c",
+        "text": "<h:inputText>"
+      },
+      {
+        "id": "d",
+        "text": "<f:validateNumber>"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<f:validateLength>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0163",
+    "type": "mcq",
+    "question": "Which JSF tag is used to bind a managed bean property to a UI component?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<f:ajax>"
+      },
+      {
+        "id": "b",
+        "text": "<h:inputText>"
+      },
+      {
+        "id": "c",
+        "text": "<f:attribute>"
+      },
+      {
+        "id": "d",
+        "text": "<h:outputText>"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<h:inputText>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0164",
+    "type": "mcq",
+    "question": "What is the purpose of JSF converters?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To translate messages into different languages"
+      },
+      {
+        "id": "b",
+        "text": "To convert between UI components and backing bean properties"
+      },
+      {
+        "id": "c",
+        "text": "To change the user interface theme"
+      },
+      {
+        "id": "d",
+        "text": "To map URLs to servlets"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"To convert between UI components and backing bean properties\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0165",
+    "type": "mcq",
+    "question": "Which of the following is a valid lifecycle phase of JSF?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Render Response"
+      },
+      {
+        "id": "b",
+        "text": "Execute Bean"
+      },
+      {
+        "id": "c",
+        "text": "Validate Components"
+      },
+      {
+        "id": "d",
+        "text": "Destroy Bean"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Render Response\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0166",
+    "type": "mcq",
+    "question": "Which tag is used to add a converter for a date in JSF?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<f:convertDateTime>"
+      },
+      {
+        "id": "b",
+        "text": "<f:convertNumber>"
+      },
+      {
+        "id": "c",
+        "text": "<f:validateDate>"
+      },
+      {
+        "id": "d",
+        "text": "<h:inputDate>"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<f:convertDateTime>\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0167",
+    "type": "mcq",
+    "question": "Which of the following is the primary feature of the Spring Framework?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aspect-Oriented Programming"
+      },
+      {
+        "id": "b",
+        "text": "Dependency Injection"
+      },
+      {
+        "id": "c",
+        "text": "MVC Architecture"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0168",
+    "type": "mcq",
+    "question": "Which annotation in Spring is used to define a class as a bean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@Autowired"
+      },
+      {
+        "id": "b",
+        "text": "@Component"
+      },
+      {
+        "id": "c",
+        "text": "@Repository"
+      },
+      {
+        "id": "d",
+        "text": "@Service"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0169",
+    "type": "mcq",
+    "question": "Which component of Spring handles transaction management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "BeanFactory"
+      },
+      {
+        "id": "b",
+        "text": "Spring ORM"
+      },
+      {
+        "id": "c",
+        "text": "ApplicationContext"
+      },
+      {
+        "id": "d",
+        "text": "JdbcTemplate"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Spring ORM\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0170",
+    "type": "mcq",
+    "question": "In Spring, which class provides the template for handling database operations?",
+    "options": [
+      {
+        "id": "a",
+        "text": "JdbcTemplate"
+      },
+      {
+        "id": "b",
+        "text": "DataSource"
+      },
+      {
+        "id": "c",
+        "text": "HibernateTemplate"
+      },
+      {
+        "id": "d",
+        "text": "TransactionManager"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0171",
+    "type": "mcq",
+    "question": "What is the purpose of @Autowired annotation in Spring?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To create a bean"
+      },
+      {
+        "id": "b",
+        "text": "To inject a dependency"
+      },
+      {
+        "id": "c",
+        "text": "To map database columns"
+      },
+      {
+        "id": "d",
+        "text": "To define a transactional method"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"To inject a dependency\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0172",
+    "type": "mcq",
+    "question": "Which of the following is a core module of the Spring framework?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ORM"
+      },
+      {
+        "id": "b",
+        "text": "AOP"
+      },
+      {
+        "id": "c",
+        "text": "MVC"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0173",
+    "type": "mcq",
+    "question": "Which of the following is a key advantage of using Hibernate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It reduces boilerplate code for database operations"
+      },
+      {
+        "id": "b",
+        "text": "It supports object-relational mapping"
+      },
+      {
+        "id": "c",
+        "text": "It handles caching mechanisms"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0174",
+    "type": "mcq",
+    "question": "Which of the following is an annotation used for Hibernate mapping?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@Entity"
+      },
+      {
+        "id": "b",
+        "text": "@Table"
+      },
+      {
+        "id": "c",
+        "text": "@Column"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0175",
+    "type": "mcq",
+    "question": "In Hibernate, what is the purpose of SessionFactory?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It manages database sessions"
+      },
+      {
+        "id": "b",
+        "text": "It is used to cache queries"
+      },
+      {
+        "id": "c",
+        "text": "It is used for transaction management"
+      },
+      {
+        "id": "d",
+        "text": "It provides JDBC support"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"It manages database sessions\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0176",
+    "type": "mcq",
+    "question": "Which Hibernate interface is used to execute HQL queries?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Query"
+      },
+      {
+        "id": "b",
+        "text": "Criteria"
+      },
+      {
+        "id": "c",
+        "text": "Transaction"
+      },
+      {
+        "id": "d",
+        "text": "Configuration"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Interfaces define contracts that classes can implement in Java."
+  },
+  {
+    "id": "ajp-0177",
+    "type": "mcq",
+    "question": "In Spring, which of the following is the correct way to define a bean in XML?",
+    "options": [
+      {
+        "id": "a",
+        "text": "<bean id=\"myBean\" class=\"com.example.MyClass\" />"
+      },
+      {
+        "id": "b",
+        "text": "<component id=\"myBean\" class=\"com.example.MyClass\" />"
+      },
+      {
+        "id": "c",
+        "text": "<autowire id=\"myBean\" class=\"com.example.MyClass\" />"
+      },
+      {
+        "id": "d",
+        "text": "<service id=\"myBean\" class=\"com.example.MyClass\" />"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"<bean id=\"myBean\" class=\"com.example.MyClass\" />\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0178",
+    "type": "mcq",
+    "question": "Which of the following is a feature of Spring MVC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It separates the business logic from the presentation layer"
+      },
+      {
+        "id": "b",
+        "text": "It handles request mapping with @RequestMapping"
+      },
+      {
+        "id": "c",
+        "text": "It uses view resolvers to render views"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0179",
+    "type": "mcq",
+    "question": "What does the @RequestMapping annotation do in Spring MVC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maps HTTP requests to handler methods"
+      },
+      {
+        "id": "b",
+        "text": "Defines a service bean"
+      },
+      {
+        "id": "c",
+        "text": "Configures Hibernate session management"
+      },
+      {
+        "id": "d",
+        "text": "Defines REST API endpoints"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Maps HTTP requests to handler methods\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0180",
+    "type": "mcq",
+    "question": "In Hibernate, which method is used to begin a transaction?",
+    "options": [
+      {
+        "id": "a",
+        "text": "begin()"
+      },
+      {
+        "id": "b",
+        "text": "beginTransaction()"
+      },
+      {
+        "id": "c",
+        "text": "startTransaction()"
+      },
+      {
+        "id": "d",
+        "text": "getTransaction()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"beginTransaction()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0181",
+    "type": "mcq",
+    "question": "Which of the following is true about HQL (Hibernate Query Language)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is database-independent"
+      },
+      {
+        "id": "b",
+        "text": "It is an object-oriented query language"
+      },
+      {
+        "id": "c",
+        "text": "It supports querying against Java objects"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0182",
+    "type": "mcq",
+    "question": "Which Spring component provides declarative transaction management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TransactionManager"
+      },
+      {
+        "id": "b",
+        "text": "JdbcTemplate"
+      },
+      {
+        "id": "c",
+        "text": "HibernateTemplate"
+      },
+      {
+        "id": "d",
+        "text": "EntityManager"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"TransactionManager\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0183",
+    "type": "mcq",
+    "question": "Which of the following modules is a part of the Spring framework?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spring Security"
+      },
+      {
+        "id": "b",
+        "text": "Spring Batch"
+      },
+      {
+        "id": "c",
+        "text": "Spring Data"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0184",
+    "type": "mcq",
+    "question": "In Spring, which annotation is used to handle RESTful web services?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@RestController"
+      },
+      {
+        "id": "b",
+        "text": "@Service"
+      },
+      {
+        "id": "c",
+        "text": "@Component"
+      },
+      {
+        "id": "d",
+        "text": "@Repository"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"@RestController\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0185",
+    "type": "mcq",
+    "question": "Which of the following is true about the Hibernate Criteria API?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is used to create dynamic queries"
+      },
+      {
+        "id": "b",
+        "text": "It allows filtering query results based on certain conditions"
+      },
+      {
+        "id": "c",
+        "text": "It supports pagination of query results"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0186",
+    "type": "mcq",
+    "question": "Which of the following annotations is used to declare a method as a transactional method in Spring?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@RequestMapping"
+      },
+      {
+        "id": "b",
+        "text": "@Transactional"
+      },
+      {
+        "id": "c",
+        "text": "@Autowired"
+      },
+      {
+        "id": "d",
+        "text": "@Service"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"@Transactional\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0187",
+    "type": "mcq",
+    "question": "In Spring MVC, which component handles all HTTP requests?",
+    "options": [
+      {
+        "id": "a",
+        "text": "DispatcherServlet"
+      },
+      {
+        "id": "b",
+        "text": "ViewResolver"
+      },
+      {
+        "id": "c",
+        "text": "ContextLoaderListener"
+      },
+      {
+        "id": "d",
+        "text": "JdbcTemplate"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"DispatcherServlet\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0188",
+    "type": "mcq",
+    "question": "What is the main function of @Controller in Spring MVC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To handle HTTP requests and responses"
+      },
+      {
+        "id": "b",
+        "text": "To define a service layer"
+      },
+      {
+        "id": "c",
+        "text": "To manage database connections"
+      },
+      {
+        "id": "d",
+        "text": "To map Java classes to database tables"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"To handle HTTP requests and responses\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0189",
+    "type": "mcq",
+    "question": "Which of the following is true about the Hibernate Session interface?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It represents a single unit of work"
+      },
+      {
+        "id": "b",
+        "text": "It is used for creating, reading, and deleting records in the database"
+      },
+      {
+        "id": "c",
+        "text": "It provides methods to begin and end transaction"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Interfaces define contracts that classes can implement in Java."
+  },
+  {
+    "id": "ajp-0190",
+    "type": "mcq",
+    "question": "In Spring, which annotation is used to define a class as a repository bean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@Service"
+      },
+      {
+        "id": "b",
+        "text": "@Repository"
+      },
+      {
+        "id": "c",
+        "text": "@Component"
+      },
+      {
+        "id": "d",
+        "text": "@Autowired"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0191",
+    "type": "mcq",
+    "question": "In Hibernate, which of the following is used to define a primary key for a class?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@Entity"
+      },
+      {
+        "id": "b",
+        "text": "@Table"
+      },
+      {
+        "id": "c",
+        "text": "@Id"
+      },
+      {
+        "id": "d",
+        "text": "@Column"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0192",
+    "type": "mcq",
+    "question": "Which of the following methods is used to commit a transaction in Hibernate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "commit()"
+      },
+      {
+        "id": "b",
+        "text": "save()"
+      },
+      {
+        "id": "c",
+        "text": "flush()"
+      },
+      {
+        "id": "d",
+        "text": "execute()"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"commit()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0193",
+    "type": "mcq",
+    "question": "What is the purpose of @RequestParam in Spring MVC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To map URL parameters to method arguments"
+      },
+      {
+        "id": "b",
+        "text": "To handle HTTP requests"
+      },
+      {
+        "id": "c",
+        "text": "To inject dependencies"
+      },
+      {
+        "id": "d",
+        "text": "To manage database transactions"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"To map URL parameters to method arguments\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0194",
+    "type": "mcq",
+    "question": "Which of the following is a correct way to configure a Spring bean in a Java-based configuration?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@Bean public MyBean myBean() { return new MyBean(); }"
+      },
+      {
+        "id": "b",
+        "text": "@Autowired public MyBean myBean() { return new MyBean(); }"
+      },
+      {
+        "id": "c",
+        "text": "@Component public MyBean myBean()\n{ return new MyBean(); }"
+      },
+      {
+        "id": "d",
+        "text": "@Service public MyBean myBean() { return new MyBean(); }"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "Java is an object-oriented programming language designed for portability, security, and platform independence."
+  },
+  {
+    "id": "ajp-0195",
+    "type": "mcq",
+    "question": "In Spring, which annotation is used to bind a method parameter to a URL template variable?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@RequestParam"
+      },
+      {
+        "id": "b",
+        "text": "@PathVariable"
+      },
+      {
+        "id": "c",
+        "text": "@RestController"
+      },
+      {
+        "id": "d",
+        "text": "@Controller"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"@PathVariable\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0196",
+    "type": "mcq",
+    "question": "Which of the following is an advantage of using Hibernate over JDBC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Automatic table generation"
+      },
+      {
+        "id": "b",
+        "text": "Caching mechanisms"
+      },
+      {
+        "id": "c",
+        "text": "Lazy loading of data"
+      },
+      {
+        "id": "d",
+        "text": "All of the above"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"All of the above\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0197",
+    "type": "mcq",
+    "question": "Which of the following annotations is used to mark a class as a Spring service?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@Component"
+      },
+      {
+        "id": "b",
+        "text": "@Service"
+      },
+      {
+        "id": "c",
+        "text": "@Repository"
+      },
+      {
+        "id": "d",
+        "text": "@Autowired"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "A class in Java acts as a blueprint for creating objects."
+  },
+  {
+    "id": "ajp-0198",
+    "type": "mcq",
+    "question": "In Spring, which of the following components resolves logical view names to actual views?",
+    "options": [
+      {
+        "id": "a",
+        "text": "DispatcherServlet"
+      },
+      {
+        "id": "b",
+        "text": "ViewResolver"
+      },
+      {
+        "id": "c",
+        "text": "ModelAndView"
+      },
+      {
+        "id": "d",
+        "text": "ContextLoaderListener"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"ViewResolver\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0199",
+    "type": "mcq",
+    "question": "Which Hibernate method is used to delete an entity from the database?",
+    "options": [
+      {
+        "id": "a",
+        "text": "remove()"
+      },
+      {
+        "id": "b",
+        "text": "delete()"
+      },
+      {
+        "id": "c",
+        "text": "commit()"
+      },
+      {
+        "id": "d",
+        "text": "flush()"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"delete()\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0200",
+    "type": "mcq",
+    "question": "In Spring, which annotation is used to map a method to a specific HTTP request method like GET or POST?",
+    "options": [
+      {
+        "id": "a",
+        "text": "@RequestMapping"
+      },
+      {
+        "id": "b",
+        "text": "@GetMapping"
+      },
+      {
+        "id": "c",
+        "text": "@PostMapping"
+      },
+      {
+        "id": "d",
+        "text": "Both b) and c)"
+      }
+    ],
+    "correct": [
+      "d"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"Both b) and c)\" because it best fits the programming concept asked in the question."
+  },
+  {
+    "id": "ajp-0201",
+    "type": "mcq",
+    "question": "What is the main function of @Entity annotation in Hibernate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To map a class to a database table"
+      },
+      {
+        "id": "b",
+        "text": "To define a primary key"
+      },
+      {
+        "id": "c",
+        "text": "To configure relationships between entities"
+      },
+      {
+        "id": "d",
+        "text": "To execute SQL queries"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "ajp"
+    ],
+    "explanation": "The correct answer is \"To map a class to a database table\" because it best fits the programming concept asked in the question."
+  }
+]
