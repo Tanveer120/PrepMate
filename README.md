@@ -11,23 +11,23 @@
 
 ---
 
-```
-             ╭──────────────────────────────────────╮
-             │                                      │
-             │   It's late. Rain taps softly         │
-             │   against the window.                 │
-             │                                      │
-             │   A warm desk lamp glows across        │
-             │   watercolor notebook pages.           │
-             │                                      │
-             │   Moko sits beside you,               │
-             │   quietly believing in you.            │
-             │                                      │
-             │          • •                           │
-             │        ────/‾‾‾‾────                   │
-             │    ☕  "One step at a time"             │
-             │                                      │
-             ╰──────────────────────────────────────╯
+```text
+     ╭──────────────────────────────────────╮
+     │                                      │
+     │  It's late. Rain taps softly         │
+     │  against the window.                 │
+     │                                      │
+     │  A warm desk lamp glows across       │
+     │  watercolor notebook pages.          │
+     │                                      │
+     │  Moko sits beside you,               │
+     │  quietly believing in you.           │
+     │                                      │
+     │         • •                          │
+     │       ────/‾‾‾‾────                  │
+     │   ☕  "One step at a time"            │
+     │                                      │
+     ╰──────────────────────────────────────╯
 ```
 
 Welcome to **PrepMate** — a tiny cozy study world where a gentle companion named **Moko** sits quietly beside you while rain taps softly against the window and warm desk light glows across watercolor notebook pages.
@@ -100,15 +100,17 @@ Moko is the emotional heart of PrepMate — a tiny, gentle, watercolor creature 
 
 ### What Moko Says
 
-```
-╭──────────────────────────────╮
-│  "You're doing great 💚"      │
-│  "One small step at a time ✨"│
-│  "Moko believes in you ☕"    │
-│  "Learning takes time 🌱"    │
-│  "You understood another     │
-│   tiny thing today ✨"        │
-╰──────────────────────────────╯
+```text
+╭──────────────────────────────────╮
+│                                  │
+│  "You're doing great 💚"         │
+│  "One small step at a time ✨"   │
+│  "Moko believes in you ☕"       │
+│  "Learning takes time 🌱"       │
+│  "You understood another        │
+│   tiny thing today ✨"           │
+│                                  │
+╰──────────────────────────────────╯
 ```
 
 ---
@@ -118,7 +120,7 @@ Moko is the emotional heart of PrepMate — a tiny, gentle, watercolor creature 
 PrepMate is more than a quiz app — it's a feeling. Imagine sitting at a sunlit wooden desk, a warm cup of tea by your side, your favorite stationery spread out, and Moko quietly cheering you on. That's PrepMate.
 
 ```text
-┌──────────────────────────────────────┐
+╭──────────────────────────────────────╮
 │  📚  Rainy Evening Study Session     │
 │                                      │
 │  ✨ Moko is right beside you          │
@@ -128,7 +130,7 @@ PrepMate is more than a quiz app — it's a feeling. Imagine sitting at a sunlit
 │                                      │
 │  ☕  Warm tea. Soft lamp.             │
 │      No rush.                        │
-└──────────────────────────────────────┘
+╰──────────────────────────────────────╯
 ```
 
 ### Core Principles
@@ -471,13 +473,13 @@ npx serve dist
 
 ## 🌱 Contributing
 
-```
-╭─────────────────────────────╮
-│                             │
-│   "Moko would love          │
-│    your help to grow 🌱"     │
-│                             │
-╰─────────────────────────────╯
+```text
+╭──────────────────────────────╮
+│                              │
+│  "Moko would love            │
+│   your help to grow 🌱"      │
+│                              │
+╰──────────────────────────────╯
 ```
 
 Contributions are warmly welcomed! Here's how to help:
@@ -501,7 +503,7 @@ Contributions are warmly welcomed! Here's how to help:
 
 ## 📄 License
 
-```
+```text
 ╭──────────────────────────────╮
 │                              │
 │  This project is licensed    │
