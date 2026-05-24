@@ -6,6 +6,8 @@ import { SettingsProvider, useSettings } from './contexts/SettingsContext';
 import { StorageProvider } from './contexts/StorageContext';
 
 import { DeskCanvas } from './components/DeskCanvas';
+import { Navbar } from './components/Navbar';
+
 
 import { LandingPage } from './pages/LandingPage';
 import { SubjectListPage } from './pages/SubjectListPage';
@@ -13,6 +15,7 @@ import { QuizPage } from './pages/QuizPage';
 import { ResultsPage } from './pages/ResultsPage';
 import { BookmarksPage } from './pages/BookmarksPage';
 import { SettingsPage } from './pages/SettingsPage';
+import { RequestSubjectPage } from './pages/RequestSubjectPage';
 
 const AnimatedRoutes = () => {
   const location = useLocation();
@@ -28,6 +31,7 @@ const AnimatedRoutes = () => {
           <Route path="/results" element={<ResultsPage />} />
           <Route path="/bookmarks" element={<BookmarksPage />} />
           <Route path="/settings" element={<SettingsPage />} />
+          <Route path="/request-subject" element={<RequestSubjectPage />} />
         </Routes>
       </AnimatePresence>
     </MotionConfig>
@@ -40,6 +44,7 @@ const App: React.FC = () => {
       <StorageProvider>
         <Router>
           <DeskCanvas>
+            <Navbar />
             <AnimatedRoutes />
           </DeskCanvas>
         </Router>

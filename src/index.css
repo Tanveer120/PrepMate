@@ -61,6 +61,25 @@
 }
 
 @layer utilities {
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgb(191 182 176);
+    border-radius: 999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(173 163 157);
+  }
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(191 182 176) transparent;
+  }
+
   .question-nav::-webkit-scrollbar {
     width: 3px;
   }
