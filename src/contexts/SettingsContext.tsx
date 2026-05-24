@@ -22,7 +22,7 @@ const defaultSettings: Settings = {
   audioEnabled: true,
   immediateFeedback: true,
   randomizeQuestions: true,
-  darkMode: false,
+  darkMode: true,
 };
 
 const SettingsContext = createContext<SettingsContextType | undefined>(undefined);
